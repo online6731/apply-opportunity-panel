@@ -16,5 +16,6 @@ Version 2 adds:
 - Advanced dashboard filters, structured deadline intelligence and cross-page local readiness/tracker summaries.
 - An installable PWA with offline public shell support.
 - Weekly GitHub Actions link validation and a public opportunity-health report.
+- A discovery radar that checks configured official job-board APIs and curated art/study feeds three times per week, scores transparent keyword evidence, excludes known opportunities, and exposes unverified leads for manual review.
 
 Open-status and deadlines can change without notice. Recheck the official source immediately before applying or paying any fee. The repository does not contain private CV files, phone numbers, identity documents, application notes, or secrets. Tracker and checklist state are stored only in the browser's localStorage; exported backups are unencrypted and should be stored securely.

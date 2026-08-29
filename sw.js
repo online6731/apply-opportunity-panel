@@ -40,7 +40,10 @@ const PRECACHE_URLS = [
   localURL("assets/checklists.js"),
   localURL("health/index.html"),
   localURL("assets/health.css"),
-  localURL("assets/health.js")
+  localURL("assets/health.js"),
+  localURL("radar/index.html"),
+  localURL("assets/radar.css"),
+  localURL("assets/radar.js")
 ];
 
 self.addEventListener("install", (event) => {

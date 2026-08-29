@@ -1,0 +1,4816 @@
+{
+  "generatedDate": "2026-08-30",
+  "schemaVersion": 1,
+  "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
+  "summary": {
+    "candidates": 133,
+    "mohammad": 126,
+    "arzoo": 7,
+    "sourceErrors": 0,
+    "excludedExisting": 10
+  },
+  "profiles": {
+    "mohammad": {
+      "label": "محمد",
+      "minScore": 7
+    },
+    "arzoo": {
+      "label": "آرزو",
+      "minScore": 6
+    }
+  },
+  "candidates": [
+    {
+      "candidateId": "96468f7564694a5485e1",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 29,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "research scientist",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "deep learning",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Research Engineer, Machine Learning",
+      "organization": "Mistral AI",
+      "location": "Palo Alto",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/b087ffe4-3f55-4072-9ff8-9f5f17b4121d",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/b087ffe4-3f55-4072-9ff8-9f5f17b4121d/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T21:13:30.937+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "0a521d436c9f60a50f90",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 29,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "research scientist",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "deep learning",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Research Engineer, Machine Learning",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/0e578cff-741d-4870-9c2c-aac85f9de266",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/0e578cff-741d-4870-9c2c-aac85f9de266/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-02T17:48:59.330+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "35eb58225d0ed0af2f51",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 23,
+      "evidence": [
+        {
+          "keyword": "textile",
+          "weight": 7,
+          "field": "title"
+        },
+        {
+          "keyword": "craft",
+          "weight": 7,
+          "field": "details"
+        },
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "design",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Textile Art Biennial BIEN 2027 (Slovenia)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://docs.google.com/document/d/14zv5oPWUiBRvoX5TBfoojb7OOGihBRkbE0137RR23Ng/edit?tab=t.0",
+      "applyUrl": "https://docs.google.com/document/d/14zv5oPWUiBRvoX5TBfoojb7OOGihBRkbE0137RR23Ng/edit?tab=t.0",
+      "discoveryUrl": "https://on-the-move.org/news/textile-art-biennial-bien-2027-slovenia",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Thu, 20 Aug 2026 04:00:00 +0000",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "89247ca6ae65d3a54ad0",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 23,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "deep learning",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer",
+      "organization": "Mistral AI",
+      "location": "Palo Alto",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/2ec2dacd-1117-479b-a4c1-efa9df530798",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/2ec2dacd-1117-479b-a4c1-efa9df530798/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T21:21:46.080+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "4e45ad807a9b5edb08e3",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 23,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "deep learning",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer",
+      "organization": "Mistral AI",
+      "location": "Montréal",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/fe76010a-6384-4eae-ba08-1a6aa530ecbb",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/fe76010a-6384-4eae-ba08-1a6aa530ecbb/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T11:39:27.436+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "311d99f56f9c956077ac",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 23,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "deep learning",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer",
+      "organization": "Mistral AI",
+      "location": "Munich",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/6ca94f06-e353-4f4f-91e2-56264fcb8863",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/6ca94f06-e353-4f4f-91e2-56264fcb8863/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T07:16:21.918+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "5a23c0f5ca4b807a72de",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 23,
+      "evidence": [
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "computer vision",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Deployment Strategist, Science - EMEA",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/ea944567-a5ea-4628-afa1-2c1354807a75",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/ea944567-a5ea-4628-afa1-2c1354807a75/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-09T15:40:22.952+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "36414713f8e6f9205742",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 23,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "deep learning",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI Engineer",
+      "organization": "Mistral AI",
+      "location": "Seoul",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/771c4006-5be5-42b2-b37a-5fee9fd960b4",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/771c4006-5be5-42b2-b37a-5fee9fd960b4/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-08T14:08:29.400+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "92731252c869b9e9900a",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 23,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "deep learning",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer - (Internship)",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-03T16:35:54.944+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "bc461963da20f6ee5ac6",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 23,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "deep learning",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer, Critical and Sovereign Institutions, EMEA",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/8ba58450-68eb-4009-a34b-b9d402414f39",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/8ba58450-68eb-4009-a34b-b9d402414f39/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-03T16:19:30.240+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "939b628ca7b548af0af1",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 23,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "computer vision",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Research Engineer, Robotics",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/25944723-62e2-498e-8149-a588907c39d6",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/25944723-62e2-498e-8149-a588907c39d6/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-03T11:13:19.638+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "452371c0ef49b55098e8",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 23,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Data Scientist - Extensions",
+      "organization": "Fundamental",
+      "location": "Europe",
+      "url": "https://jobs.ashbyhq.com/fundamental/11f7810f-926f-4f9a-b59f-2a7542169cde",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/11f7810f-926f-4f9a-b59f-2a7542169cde/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-06-22T14:09:03.192+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "d24bbb66d3ab88182c7f",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 19,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "research scientist",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Research Scientist (Singapore)",
+      "organization": "Cantina",
+      "location": "Singapore",
+      "url": "https://jobs.ashbyhq.com/cantina/7053d1d4-a19b-44c6-9327-cc95cbedfb3b",
+      "applyUrl": "https://jobs.ashbyhq.com/cantina/7053d1d4-a19b-44c6-9327-cc95cbedfb3b/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cantina",
+      "sourceLabel": "Cantina",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-05-12T23:28:06.437+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "eb66b58820e99a2e0f25",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 19,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "research scientist",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "SWE, ML",
+      "organization": "Fundamental",
+      "location": "Barcelona",
+      "url": "https://jobs.ashbyhq.com/fundamental/9c00c0f2-ee7c-4f86-a5d2-67e47a63267a",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/9c00c0f2-ee7c-4f86-a5d2-67e47a63267a/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-05-12T07:03:27.125+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "6c4d3ea4dd5d148a52e7",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "fashion",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        },
+        {
+          "keyword": "design",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Institut français x Cité internationale des arts Residencies 2027–2028 (France)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.institutfrancais.com/en/programme/residence-and-professional-mobility/residencies-institut-francais-x-cite-internationale",
+      "applyUrl": "https://www.institutfrancais.com/en/programme/residence-and-professional-mobility/residencies-institut-francais-x-cite-internationale",
+      "discoveryUrl": "https://on-the-move.org/news/institut-francais-x-cite-internationale-des-arts-residencies-2027-2028-france",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Fri, 28 Aug 2026 04:00:00 +0000",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "cd1f6179b8a171df3748",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied Scientist",
+      "organization": "Mistral AI",
+      "location": "Palo Alto",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/5d15e1fe-789d-451d-8521-568906620c21",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/5d15e1fe-789d-451d-8521-568906620c21/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-03T18:33:59.698+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "9ca4d4905dcfb6988d3b",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied Scientist/Research Engineer, EMEA",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/2ed434c7-2e1d-4acd-acb2-01edaa4a1208",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/2ed434c7-2e1d-4acd-acb2-01edaa4a1208/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-29T16:53:30.173+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "fea0dbd2d8a6c33f7bb6",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI, Technical Lead - Forward Deployed AI Engineer",
+      "organization": "Mistral AI",
+      "location": "New York",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/43b8b35d-a87d-4ebc-83db-1dfeba2b37c8",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/43b8b35d-a87d-4ebc-83db-1dfeba2b37c8/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T21:06:22.970+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "95d7fb9c91388e0896e5",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Head of Applied Science, Korea",
+      "organization": "Mistral AI",
+      "location": "Seoul",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/826dd35b-03dc-4f5b-bfa2-2d3c91003154",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/826dd35b-03dc-4f5b-bfa2-2d3c91003154/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T11:19:37.513+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "63f889ea59c23bd531fb",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied Scientist",
+      "organization": "Mistral AI",
+      "location": "Seoul",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/1722cba1-bc85-467a-994d-980905aca031",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/1722cba1-bc85-467a-994d-980905aca031/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T11:17:51.652+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "c1781ff28c511a4d5ecd",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer",
+      "organization": "Mistral AI",
+      "location": "Munich",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/4758abfb-12fb-401e-8c3b-896361d7036d",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/4758abfb-12fb-401e-8c3b-896361d7036d/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-03T16:55:11.813+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "f56a79e856fce16d21c6",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer",
+      "organization": "Mistral AI",
+      "location": "Abu Dhabi",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/0d281150-b40e-4a6b-a533-a424b04d44e3",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/0d281150-b40e-4a6b-a533-a424b04d44e3/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-03T16:49:59.799+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "cd908ba3c0678ff3531a",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer - EMEA",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/6f5451cb-ecb6-45af-8a03-6bb658c6c5a1",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/6f5451cb-ecb6-45af-8a03-6bb658c6c5a1/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-03T16:48:46.674+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "4eb1cd11e98a582ab647",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer",
+      "organization": "Mistral AI",
+      "location": "Montréal",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/3c7107b0-d2d1-4be9-838c-8a2dd15f1fdf",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/3c7107b0-d2d1-4be9-838c-8a2dd15f1fdf/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-03T16:39:26.888+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "f18013a84c9e6472c6a5",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "deep learning",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "computer vision",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Research Internship (Winter 2027)",
+      "organization": "Cohere",
+      "location": "Canada",
+      "url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-05-01T20:26:46.572+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "e65fca78f7e3de4e20e0",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "deep learning",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "computer vision",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Member of Technical Staff, Data & ML Infrastructure for Video Models",
+      "organization": "Cantina",
+      "location": "Remote (U.S. or Europe)",
+      "url": "https://jobs.ashbyhq.com/cantina/1d9bb30d-3d94-47b1-bff7-a0588741efab",
+      "applyUrl": "https://jobs.ashbyhq.com/cantina/1d9bb30d-3d94-47b1-bff7-a0588741efab/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cantina",
+      "sourceLabel": "Cantina",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-04-02T21:04:49.751+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "9aa447821ee0228bcc86",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "deep learning",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "ML Researcher",
+      "organization": "Fundamental",
+      "location": "Barcelona",
+      "url": "https://jobs.ashbyhq.com/fundamental/d8a40a07-9a78-43dd-a93f-52148dc45b2c",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/d8a40a07-9a78-43dd-a93f-52148dc45b2c/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2025-10-30T08:48:14.190+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "5b5fcc782f1512f7b5ae",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 17,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Scientist - Physics Models",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/3fb3a425-b151-4ad6-be40-7049249f919a",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/3fb3a425-b151-4ad6-be40-7049249f919a/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-19T16:00:33.026+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "94a3efdd2ff2f76cf084",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 17,
+      "evidence": [
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "deep learning",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied Scientist / Research Engineer, AI4Engineering",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/556595b2-d78b-486e-a3b2-14ad533f8caa",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/556595b2-d78b-486e-a3b2-14ad533f8caa/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T10:42:11.671+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "4e517136d9d80e6c36b5",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 17,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        }
+      ],
+      "title": "Staff Research Engineer, Model Efficiency",
+      "organization": "Cohere",
+      "location": "New York",
+      "url": "https://jobs.ashbyhq.com/cohere/c80f0fe9-3fc4-49fe-9f26-a7115350b1fc",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/c80f0fe9-3fc4-49fe-9f26-a7115350b1fc/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2025-11-07T23:27:54.368+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "1104e972715c137f0227",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 16,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Commercial Legal Counsel, APAC",
+      "organization": "Mistral AI",
+      "location": "Singapore",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/2be156c7-183a-49a3-89c6-62b8539b90f0",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/2be156c7-183a-49a3-89c6-62b8539b90f0/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T10:48:15.516+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "359b26e44c628b1588e0",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 16,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Head of Applied AI Engineering, Korea",
+      "organization": "Mistral AI",
+      "location": "Seoul",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/a50e295c-c615-4b72-a482-2987a4d10e91",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/a50e295c-c615-4b72-a482-2987a4d10e91/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-09T08:51:26.382+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "bf29dcad6354b17df90b",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 15,
+      "evidence": [
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] MAQAM Residency Open Call (Tunisia)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://o-dcs.org/maqam-open-call",
+      "applyUrl": "https://o-dcs.org/maqam-open-call",
+      "discoveryUrl": "https://on-the-move.org/news/maqam-residency-open-call-tunisia",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Thu, 27 Aug 2026 13:00:33 +0000",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "42cfa2436fcb0358c970",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 15,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Product Marketing Manager, Science",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/696c62ac-9e3b-490b-813c-9a0fe0c8b6ae",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/696c62ac-9e3b-490b-813c-9a0fe0c8b6ae/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-03T16:33:45.506+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "8162c507306cd23b3d7b",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 14,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "life science",
+          "weight": 4,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "title"
+        }
+      ],
+      "title": "Manager Applied AI Architecture, Healthcare & Life Sciences",
+      "organization": "Anthropic",
+      "location": "New York City, NY; San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390890008",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390890008",
+      "discoveryUrl": null,
+      "sourceId": "greenhouse-anthropic",
+      "sourceLabel": "Anthropic",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-20T21:53:08-04:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "e8f8d8675546c2475929",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 14,
+      "evidence": [
+        {
+          "keyword": "eeg",
+          "weight": 7,
+          "field": "details"
+        },
+        {
+          "keyword": "bci",
+          "weight": 7,
+          "field": "details"
+        }
+      ],
+      "title": "Product Manager",
+      "organization": "Planday / Xero",
+      "location": "DK: Kuglegårdsvej 7",
+      "url": "https://jobs.ashbyhq.com/planday-from-xero/88105bf7-581a-442f-afe4-6922339ae1e3",
+      "applyUrl": "https://jobs.ashbyhq.com/planday-from-xero/88105bf7-581a-442f-afe4-6922339ae1e3/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-planday",
+      "sourceLabel": "Planday / Xero",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-20T13:44:07.942+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "97237ac6e068bea40cb8",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 14,
+      "evidence": [
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "research scientist",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Member of Technical Staff, Multilingual",
+      "organization": "Cohere",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/cohere/a87be947-00f0-4a4c-a690-a4922f88f553",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/a87be947-00f0-4a4c-a690-a4922f88f553/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-17T15:57:25.097+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "1e7ad21cdd2f7c60913e",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 14,
+      "evidence": [
+        {
+          "keyword": "eeg",
+          "weight": 7,
+          "field": "details"
+        },
+        {
+          "keyword": "bci",
+          "weight": 7,
+          "field": "details"
+        }
+      ],
+      "title": "Team Lead (Engineering)",
+      "organization": "Planday / Xero",
+      "location": "DK: Kuglegårdsvej 7",
+      "url": "https://jobs.ashbyhq.com/planday-from-xero/981a9bd4-6748-4dda-89b6-bfa8194f76ff",
+      "applyUrl": "https://jobs.ashbyhq.com/planday-from-xero/981a9bd4-6748-4dda-89b6-bfa8194f76ff/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-planday",
+      "sourceLabel": "Planday / Xero",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-12T08:02:15.259+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "50671a01dbbc3fabdc41",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 14,
+      "evidence": [
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "research scientist",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Senior Research Engineer - Safety Tooling and Data",
+      "organization": "Cohere",
+      "location": "New York",
+      "url": "https://jobs.ashbyhq.com/cohere/2d4d224f-94d4-40ce-88d5-5d340bc0da4e",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/2d4d224f-94d4-40ce-88d5-5d340bc0da4e/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-06-26T13:55:28.453+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "039b49e87cbcdf9bbadd",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 14,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Member of Technical Staff, Integration/RL Team (Research Engineer)",
+      "organization": "Cohere",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/cohere/e9ef9420-88e5-403b-82e8-1c36fa010d4d",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/e9ef9420-88e5-403b-82e8-1c36fa010d4d/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2025-08-19T11:26:00.999+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "b726a723497340b2a668",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 13,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "MLOps Engineer",
+      "organization": "Fundamental",
+      "location": "Europe",
+      "url": "https://jobs.ashbyhq.com/fundamental/f66822a3-fd9f-438b-8532-e996e3932e3c",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/f66822a3-fd9f-438b-8532-e996e3932e3c/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-20T08:50:18.325+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "be637ab2d46c53eb4ea6",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 13,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "MLOps Team Lead",
+      "organization": "Fundamental",
+      "location": "Europe",
+      "url": "https://jobs.ashbyhq.com/fundamental/48f0baea-855c-49a1-b442-5869cd125398",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/48f0baea-855c-49a1-b442-5869cd125398/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-01T07:35:53.524+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "85312bbb98994aca81f2",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 13,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Solutions Architect",
+      "organization": "Fundamental",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/fundamental/e21c7ecb-7089-432f-ba81-8acd791490fd",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/e21c7ecb-7089-432f-ba81-8acd791490fd/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-06-16T12:17:15.605+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "99b504723eadc8ac9128",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 13,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Solutions Architect",
+      "organization": "Fundamental",
+      "location": "Japan",
+      "url": "https://jobs.ashbyhq.com/fundamental/f9d1e809-a71d-404c-9d28-01b91916afe2",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/f9d1e809-a71d-404c-9d28-01b91916afe2/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-05-29T06:15:22.299+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "42e4d2cc33e978e36b33",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 13,
+      "evidence": [
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Senior Applied Research Engineer",
+      "organization": "Fundamental",
+      "location": "Barcelona",
+      "url": "https://jobs.ashbyhq.com/fundamental/9e40b619-8257-4dd9-a9b4-02ccdfd3c6db",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/9e40b619-8257-4dd9-a9b4-02ccdfd3c6db/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-03-25T14:52:12.370+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "ccb476b63af2864ccee9",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 13,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "deep learning",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Audio Inference Engineer, Model Efficiency",
+      "organization": "Cohere",
+      "location": "New York",
+      "url": "https://jobs.ashbyhq.com/cohere/e912d84c-8399-422d-8a7d-918422a3e4b1",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/e912d84c-8399-422d-8a7d-918422a3e4b1/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2025-11-07T23:33:54.457+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "3bba13a796a55e6fe59b",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 13,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "deep learning",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Senior Member of Technical Staff, Multimodal AI",
+      "organization": "Cohere",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/cohere/443368a3-6276-4b90-9671-27fed40fd6d2",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/443368a3-6276-4b90-9671-27fed40fd6d2/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2024-12-03T14:25:43.571+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "933287dee1aa60795255",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Camargo Foundation: Fellowship 2027–2028 for Artists, Scholars and Thinkers (France)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://camargofoundation.org/en/camargo-fellowship-2026-2027",
+      "applyUrl": "https://camargofoundation.org/en/camargo-fellowship-2026-2027",
+      "discoveryUrl": "https://on-the-move.org/news/camargo-foundation-fellowship-2027-2028-artists-scholars-and-thinkers-france",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Wed, 19 Aug 2026 04:00:00 +0000",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "254f0dba0fade1aa90ed",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Liepāja – ECOC 2027: Call for the Festival ‘Atmospheric Waves’ (Latvia)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://atmosphericwaves.lv/index.php/en/open-call/",
+      "applyUrl": "https://atmosphericwaves.lv/index.php/en/open-call/",
+      "discoveryUrl": "https://on-the-move.org/news/liepaja-ecoc-2027-call-festival-atmospheric-waves-latvia",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Thu, 27 Aug 2026 13:11:42 +0000",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "475f49ca716ed0135e3e",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Forward Deployed Engineer, Agentic Platform (West Coast)",
+      "organization": "Cohere",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-28T20:32:55.278+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "491d72b5286b73283d15",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Forward Deployed Engineer, Agentic Platform",
+      "organization": "Cohere",
+      "location": "United States",
+      "url": "https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-28T20:30:58.199+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "9d937dc59572a5ed58f2",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Forward Deployed Engineer, Agentic Platform (UK Public Sector)",
+      "organization": "Cohere",
+      "location": "United Kingdom",
+      "url": "https://jobs.ashbyhq.com/cohere/691982e3-9357-42e4-b4c3-a65cae906935",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/691982e3-9357-42e4-b4c3-a65cae906935/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-24T02:15:28.558+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "4f1582e90e986565e073",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Deployment Strategist, Critical and Sovereign Institutions - Paris",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/1e616545-2209-4e12-930e-54c5e47c50b5",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/1e616545-2209-4e12-930e-54c5e47c50b5/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-21T16:09:35.952+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "460d71150d72b0a2ceb1",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Deployment Strategist, Critical and Sovereign Institutions - UK",
+      "organization": "Mistral AI",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/ee9d2f24-527c-4ad8-b50e-6dbacee081f4",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/ee9d2f24-527c-4ad8-b50e-6dbacee081f4/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-21T16:00:21.071+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "6dfd918873a82908acbe",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Scientist - Agentic Engineering",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/f090ef1d-372e-40dc-bf46-ce0bf2850204",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/f090ef1d-372e-40dc-bf46-ce0bf2850204/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-19T15:48:26.140+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "2a34fc233ed2b4be91d3",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        }
+      ],
+      "title": "Senior Director, Solutions Architecture, APAC",
+      "organization": "Cohere",
+      "location": "Singapore",
+      "url": "https://jobs.ashbyhq.com/cohere/14a286d9-e415-4198-8d3b-8e0a7882a5b6",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/14a286d9-e415-4198-8d3b-8e0a7882a5b6/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-18T13:23:40.003+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "8bcc4b9e51eda686b62e",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI Engineer, Prototyping",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/52e1cc10-dfe0-4361-81c1-227f70f61e20",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/52e1cc10-dfe0-4361-81c1-227f70f61e20/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-11T12:34:34.584+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "962bcbe4ec272b4d4496",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Research Engineer, Code Agents Infra",
+      "organization": "Mistral AI",
+      "location": "Palo Alto",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/af7c3cf8-f4f4-4a16-80e9-fdfb0c14104d",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/af7c3cf8-f4f4-4a16-80e9-fdfb0c14104d/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-04T21:00:27.814+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "5874b6ddd364e0556cab",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/0b342cda-4a57-4604-9d5b-48373e8e85ea",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/0b342cda-4a57-4604-9d5b-48373e8e85ea/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-21T09:35:28.297+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "1df8ca0fd4de52dcb705",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Research Engineer, Data Infrastructure",
+      "organization": "Mistral AI",
+      "location": "Palo Alto",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/4c19b931-3a95-48b3-ac96-9e4c52f5a603",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/4c19b931-3a95-48b3-ac96-9e4c52f5a603/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T21:16:45.184+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "b8ed3178e572561f4cf9",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Deployment Strategist - USA",
+      "organization": "Mistral AI",
+      "location": "Palo Alto",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/22fee4f2-f6c9-4516-a0cd-92d6aeb21a52",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/22fee4f2-f6c9-4516-a0cd-92d6aeb21a52/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T17:15:03.403+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "ed13229d5e609e7881af",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Staff Applied AI Engineer, Devops",
+      "organization": "Mistral AI",
+      "location": "Seoul",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/8085c274-0b90-46a2-a676-d67a9cb93795",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/8085c274-0b90-46a2-a676-d67a9cb93795/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T11:27:44.445+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "7908fc44d5623a783e38",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI Engineer, Fullstack Software Engineer - EMEA",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/d1887bfd-8d44-46d6-b253-cadc1b1aeb11",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/d1887bfd-8d44-46d6-b253-cadc1b1aeb11/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T10:51:24.092+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "d7c5c4728ae607be7212",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Deployment Strategist, Cybersecurity - EMEA",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/937fa938-f91d-4989-993e-80a2ec87890e",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/937fa938-f91d-4989-993e-80a2ec87890e/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T10:24:04.560+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "8d0510fa37dd72dabdfe",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI Engineer, ML Infrastructure Engineer / Devops - EMEA",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/0b0c3fab-5c79-43e7-b66c-de7fef7d28b7",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/0b0c3fab-5c79-43e7-b66c-de7fef7d28b7/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T10:20:05.293+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "4a4580c76a65b53caae8",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Deployment Strategist",
+      "organization": "Mistral AI",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/4f7e2c43-638d-4595-9d10-da4708128fa7",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/4f7e2c43-638d-4595-9d10-da4708128fa7/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T09:56:15.287+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "92be46f9ab72d0c348aa",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Deployment Strategist",
+      "organization": "Mistral AI",
+      "location": "Stockholm",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/314a71c5-b254-4ea7-978e-8da983d37a30",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/314a71c5-b254-4ea7-978e-8da983d37a30/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T09:55:28.265+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "be8a558f41a25da7bc10",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Deployment Strategist",
+      "organization": "Mistral AI",
+      "location": "Madrid",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/ed6195b4-2621-4ef0-9a33-d0b2d6950de4",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/ed6195b4-2621-4ef0-9a33-d0b2d6950de4/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T09:54:38.654+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "3c2e8c3c05c68f347e3c",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Deployment Strategist",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/fd33527d-d23f-4389-ac27-cf702615eecd",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/fd33527d-d23f-4389-ac27-cf702615eecd/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T09:53:12.358+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "e4917b11ce8351c1473c",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Research Engineer, Data Infrastructure",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/8c71b069-0eda-40d1-8cb1-4094fd9c81de",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/8c71b069-0eda-40d1-8cb1-4094fd9c81de/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T07:15:57.129+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "14fb00b7cad1010856e7",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Research Software Engineer",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/e91d8785-a4a1-4fc5-b214-21d285005cd0",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/e91d8785-a4a1-4fc5-b214-21d285005cd0/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T07:15:44.344+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "4367915942cb627ac38d",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Deployment Strategist, Physics - EMEA",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/f8b8ed83-d80f-4142-816e-054d23121d75",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/f8b8ed83-d80f-4142-816e-054d23121d75/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-09T09:51:14.161+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "33dfa7f0ffad5b64217a",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Lead Applied AI Engineer (Fullstack Focus)",
+      "organization": "Mistral AI",
+      "location": "Seoul",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/52fc0112-06d1-49cb-9863-05df53db6642",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/52fc0112-06d1-49cb-9863-05df53db6642/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-09T08:49:28.444+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "acca1843eb739fc05dc5",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Data Engineer, Senior",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/16a5a705-f08d-4e1a-9c2a-b6778d17afa7",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/16a5a705-f08d-4e1a-9c2a-b6778d17afa7/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-08T16:49:39.797+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "4f28beaa4de832a81bd3",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Deployment Strategist",
+      "organization": "Mistral AI",
+      "location": "Casablanca",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/44b8e5d7-2571-4d1a-939e-9aad7f200081",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/44b8e5d7-2571-4d1a-939e-9aad7f200081/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-08T15:26:31.610+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "3b518d33f75e57e10857",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Deployment Strategist",
+      "organization": "Mistral AI",
+      "location": "Luxembourg",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/ce5c2671-6db3-499c-928f-ea5a919d566e",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/ce5c2671-6db3-499c-928f-ea5a919d566e/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-08T15:25:41.800+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "058394b07f673d2927ed",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Deployment Strategist",
+      "organization": "Mistral AI",
+      "location": "Amsterdam",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/4b088dc3-d21a-4eab-8151-5159e0254ca7",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/4b088dc3-d21a-4eab-8151-5159e0254ca7/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-08T15:09:15.465+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "f808d5c6888c46a73fe0",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Deployment Strategist",
+      "organization": "Mistral AI",
+      "location": "Montréal",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/d8bf9485-6fc8-4dec-87b4-63c417e71c65",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/d8bf9485-6fc8-4dec-87b4-63c417e71c65/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-08T14:59:44.053+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "6ed7bc2e62b31634ce65",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Deployment Strategist",
+      "organization": "Mistral AI",
+      "location": "Munich",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/cf71adbb-c7c3-42d3-bf64-8e1283b6403f",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/cf71adbb-c7c3-42d3-bf64-8e1283b6403f/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-08T14:01:39.395+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "92bea69f10964680495d",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Deployment Strategist",
+      "organization": "Mistral AI",
+      "location": "Abu Dhabi",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/24ebf260-3b53-4f2e-9ed2-1d1864cd3729",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/24ebf260-3b53-4f2e-9ed2-1d1864cd3729/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-08T13:53:20.580+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "16d938528d7ad78d461f",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI Engineer, Fullstack",
+      "organization": "Mistral AI",
+      "location": "Seoul",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/b08b805c-0b22-4171-8f6a-71e982bed817",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/b08b805c-0b22-4171-8f6a-71e982bed817/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-08T13:38:52.862+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "a8ec09734a47152081b8",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI Engineer, Site Reliability Engineer - EMEA",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/395b93c4-2185-4c83-990f-5325cd739e0e",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/395b93c4-2185-4c83-990f-5325cd739e0e/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-06T07:58:49.853+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "5fd4a10859a6e64dff3b",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied Scientist / Research Engineer (Internship)",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-03T16:37:30.355+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "45e2e390a75740c2143e",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Scientist",
+      "organization": "Mistral AI",
+      "location": "Palo Alto",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/9fc579c8-784c-4b91-bcd0-392f35d13100",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/9fc579c8-784c-4b91-bcd0-392f35d13100/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-03T13:03:22.608+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "7548b228f59cd4f0874f",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Forward Deployed Engineer, Agentic Platform (UK/Europe)",
+      "organization": "Cohere",
+      "location": "Europe",
+      "url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-05-12T17:55:27.452+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "11ef9baa921605116452",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "deep learning",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Model Serving Engineer",
+      "organization": "Fundamental",
+      "location": "Europe",
+      "url": "https://jobs.ashbyhq.com/fundamental/39a3ea42-019b-4ee6-a6bd-eaa4498d145b",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/39a3ea42-019b-4ee6-a6bd-eaa4498d145b/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-04-09T08:51:46.174+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "e2ad115508e9c62912ce",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Forward Deployed Engineer, Agentic Platform",
+      "organization": "Cohere",
+      "location": "Middle East",
+      "url": "https://jobs.ashbyhq.com/cohere/75c0032c-7200-48bf-9d6d-355880dd93d9",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/75c0032c-7200-48bf-9d6d-355880dd93d9/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-03-04T13:57:24.549+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "1a89e2db0e22a072020a",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Forward Deployed Engineer, Agentic Platform (Korea)",
+      "organization": "Cohere",
+      "location": "Korea",
+      "url": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-01-28T22:38:37.808+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "076ecfaf5be4d6797905",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Forward Deployed Engineer, Agentic Platform (Singapore)",
+      "organization": "Cohere",
+      "location": "Singapore",
+      "url": "https://jobs.ashbyhq.com/cohere/9c18b199-cd1f-4ef3-9fab-ce05589348ae",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/9c18b199-cd1f-4ef3-9fab-ce05589348ae/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-01-15T14:54:31.233+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "be403324a76034deecec",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 11,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        }
+      ],
+      "title": "Principal Forward Deployed Data Scientist - Oil & Gas, Houston",
+      "organization": "Fundamental",
+      "location": "Houston, Texas, United States",
+      "url": "https://jobs.ashbyhq.com/fundamental/28718a22-d36e-45d9-9e29-3e70f38438b0",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/28718a22-d36e-45d9-9e29-3e70f38438b0/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-21T12:50:54.584+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "ac551c63e5c63df50f4e",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 11,
+      "evidence": [
+        {
+          "keyword": "deep learning",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Scientist, Robotics",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/c70522d8-73cb-46ed-9f9a-5cb807420485",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/c70522d8-73cb-46ed-9f9a-5cb807420485/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-03T11:53:06.014+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "8afca88cecad9d3c0180",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 11,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        }
+      ],
+      "title": "Data Scientist (Forward Deployed)",
+      "organization": "Fundamental",
+      "location": "US (remote)",
+      "url": "https://jobs.ashbyhq.com/fundamental/cc862e89-7d13-4a6d-b15d-21703e44b7dd",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/cc862e89-7d13-4a6d-b15d-21703e44b7dd/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-06-16T12:16:27.535+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "618aab8b31f72c424dcf",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Senior Director, Solutions Architecture — Americas",
+      "organization": "Cohere",
+      "location": "United States",
+      "url": "https://jobs.ashbyhq.com/cohere/1e6c4acf-d98a-46ac-bacb-d609ca1326c1",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/1e6c4acf-d98a-46ac-bacb-d609ca1326c1/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-28T16:59:53.422+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "cb1e7a59f3ae10527c5d",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Business Development Representative - French Speaking",
+      "organization": "Cohere",
+      "location": "United Kingdom",
+      "url": "https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-04T13:10:21.459+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "2507d55d18aab00d9969",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Business Development Representative",
+      "organization": "Cohere",
+      "location": "Germany",
+      "url": "https://jobs.ashbyhq.com/cohere/f959be10-be25-4918-bcf3-39e1a83d2957",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/f959be10-be25-4918-bcf3-39e1a83d2957/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-31T18:51:30.793+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "7e5ba21c3bc1f7e7121b",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Business Development Representative",
+      "organization": "Cohere",
+      "location": "Toronto",
+      "url": "https://jobs.ashbyhq.com/cohere/e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-31T18:48:27.507+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "bfad464bb72a4942b0ce",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Business Development Representative",
+      "organization": "Cohere",
+      "location": "Dubai",
+      "url": "https://jobs.ashbyhq.com/cohere/dbe76343-a8ae-445c-b2f9-c5a304d54f6a",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/dbe76343-a8ae-445c-b2f9-c5a304d54f6a/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-31T18:45:45.584+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "34a9ff72a54aca0a8784",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI Engineer, CyberSecurity - Montreal",
+      "organization": "Mistral AI",
+      "location": "Montréal",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/fb6dce2f-5198-4327-b26c-93d407a781d0",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/fb6dce2f-5198-4327-b26c-93d407a781d0/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-27T18:43:05.348+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "8cfaf45bd6cc4967dcb6",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "VP, Global Developer Relations",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/f3e60b63-24a5-4cfc-8a57-b3cd67d47435",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/f3e60b63-24a5-4cfc-8a57-b3cd67d47435/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-21T15:32:41.557+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "a1d91b23df5f5c6a30c3",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Legal Counsel, Banking / Financing (Project finance)",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/665f13ce-685e-4eca-8aa4-76dcbd3e0765",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/665f13ce-685e-4eca-8aa4-76dcbd3e0765/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T10:54:09.664+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "f88d9feb9ce2f30c3eb4",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Legal Counsel, Banking / Financing",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/82b2036e-01f0-4f2b-bf15-3c713a6f00e1",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/82b2036e-01f0-4f2b-bf15-3c713a6f00e1/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T10:50:47.563+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "b80ce9b24d4efe95d102",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "AI Deployment Strategist",
+      "organization": "Mistral AI",
+      "location": "Seoul",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/a15456be-735f-470d-b312-8f2742c9884f",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/a15456be-735f-470d-b312-8f2742c9884f/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T10:43:25.011+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "41a340d3d41a96eb5bad",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Solution Operations Manager, People Growth",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/42d1ca33-737b-4f68-8783-acc2e4df0731",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/42d1ca33-737b-4f68-8783-acc2e4df0731/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T07:16:36.443+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "7d3464a556a6d95dd052",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI Engineer, CyberSecurity",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/647be1ec-19d1-421c-9c49-6bbf12c0c93a",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/647be1ec-19d1-421c-9c49-6bbf12c0c93a/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-09T16:15:37.487+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "94534d54b1102df44e5f",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Solution Operations Manager, Revenue Growth",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/7a95bd55-84fc-40c6-ba0f-d2b0426ad3f1",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/7a95bd55-84fc-40c6-ba0f-d2b0426ad3f1/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-08T16:28:44.443+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "cb5b6fbe6d97e5d44af8",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Business Development Representative",
+      "organization": "Cohere",
+      "location": "Korea",
+      "url": "https://jobs.ashbyhq.com/cohere/dd2f91e7-d2bb-41b7-b8e9-4de925dc0111",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/dd2f91e7-d2bb-41b7-b8e9-4de925dc0111/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-07T20:20:13.304+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "907e9acfc1481fe70810",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Product Manager, Studio",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/a25b36ac-5283-49b7-b58d-482810ac0258",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/a25b36ac-5283-49b7-b58d-482810ac0258/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-03T16:37:23.854+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "ebcdbc2d5edb8fbcc511",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "life science",
+          "weight": 4,
+          "field": "title"
+        }
+      ],
+      "title": "Manager, Applied AI Engineering, Beneficial Deployments (Life Sciences)",
+      "organization": "Anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5277834008",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5277834008",
+      "discoveryUrl": null,
+      "sourceId": "greenhouse-anthropic",
+      "sourceLabel": "Anthropic",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-06-24T13:51:42-04:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "fee27c0b0aadd17b6034",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 9,
+      "evidence": [
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "design",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Tokyo Biennale 2027 Call for Site-responsive Proposals from Artists and Curators (Japan)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://socialdive.jp/en/",
+      "applyUrl": "https://socialdive.jp/en/",
+      "discoveryUrl": "https://on-the-move.org/news/tokyo-biennale-2027-call-site-responsive-proposals-artists-and-curators-japan",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Tue, 25 Aug 2026 04:00:00 +0000",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "b45d427bfa251b058400",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Solutions Architect - Nordics",
+      "organization": "Cohere",
+      "location": "Stockholm",
+      "url": "https://jobs.ashbyhq.com/cohere/a42976d7-0ae5-4892-b3ba-bf5510c6cecd",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/a42976d7-0ae5-4892-b3ba-bf5510c6cecd/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-26T10:10:41.133+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "d927f72811646264090e",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Solutions Architect - UAE",
+      "organization": "Cohere",
+      "location": "Dubai",
+      "url": "https://jobs.ashbyhq.com/cohere/f154a1cb-b7c1-4f74-ac50-04ef9dcfc9e0",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/f154a1cb-b7c1-4f74-ac50-04ef9dcfc9e0/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-19T14:05:02.164+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "02dad32b385b1adf2db2",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "life science",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Senior Account Executive",
+      "organization": "Cohere",
+      "location": "Madrid",
+      "url": "https://jobs.ashbyhq.com/cohere/2ae14044-6083-4371-8ab9-06954c162f9a",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/2ae14044-6083-4371-8ab9-06954c162f9a/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-14T15:25:40.761+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "ba57268eb47b3390c421",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "life science",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Senior Account Executive",
+      "organization": "Cohere",
+      "location": "Stockholm",
+      "url": "https://jobs.ashbyhq.com/cohere/fd92000d-241c-4cf6-86b1-2d9ab796bcbf",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/fd92000d-241c-4cf6-86b1-2d9ab796bcbf/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-14T15:25:00.640+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "c1f5ff3c245e29ec20ba",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "life science",
+          "weight": 4,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "title"
+        }
+      ],
+      "title": "Sales Director - Healthcare & Life Sciences",
+      "organization": "Cohere",
+      "location": "New York",
+      "url": "https://jobs.ashbyhq.com/cohere/cbb71f8e-bed7-495d-bf16-3fae2f7aedf7",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/cbb71f8e-bed7-495d-bf16-3fae2f7aedf7/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-29T13:41:42.001+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "168168481e1a94734a0d",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Machine Learning Intern/Co-op (Winter 2027)",
+      "organization": "Cohere",
+      "location": "Canada",
+      "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-05-13T17:16:14.014+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "d78508171495f2b0aef3",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Machine Learning Engineer (Singapore)",
+      "organization": "Cantina",
+      "location": "Singapore",
+      "url": "https://jobs.ashbyhq.com/cantina/f770b6c6-3781-4172-908e-32924531e5b3",
+      "applyUrl": "https://jobs.ashbyhq.com/cantina/f770b6c6-3781-4172-908e-32924531e5b3/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cantina",
+      "sourceLabel": "Cantina",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-05-12T23:29:58.543+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "959c56346cc0553bb03b",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Senior Member of Technical Staff, Safety and Security for Agents",
+      "organization": "Cohere",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/cohere/1f7cc5e6-5f31-40d8-ad49-fe22c98a3ea4",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/1f7cc5e6-5f31-40d8-ad49-fe22c98a3ea4/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-03-23T12:25:55.605+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "88ab7e213112a0ea48e0",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Machine Learning Engineer, Images",
+      "organization": "Cantina",
+      "location": "Bay Area or Remote",
+      "url": "https://jobs.ashbyhq.com/cantina/5c01c77f-f15e-40cb-9d42-15c9c0491ea4",
+      "applyUrl": "https://jobs.ashbyhq.com/cantina/5c01c77f-f15e-40cb-9d42-15c9c0491ea4/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cantina",
+      "sourceLabel": "Cantina",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-03-05T00:14:46.137+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "8fdd2a518eac5161d99d",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Member of Technical Staff, Data Analysis and Evaluation",
+      "organization": "Cohere",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/cohere/61703710-4379-42fd-a508-946f2a5fb6bc",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/61703710-4379-42fd-a508-946f2a5fb6bc/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2025-12-15T18:01:24.544+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "e10b93454485da26b033",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Senior Member of Technical Staff, Synthetic Data",
+      "organization": "Cohere",
+      "location": "Toronto",
+      "url": "https://jobs.ashbyhq.com/cohere/2df2da3c-fb69-4d4d-b3c9-077b3df2ba3d",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/2df2da3c-fb69-4d4d-b3c9-077b3df2ba3d/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2025-11-26T19:27:47.315+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "8481c270927451a7c3c5",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Member of Technical Staff, Agent Code",
+      "organization": "Cohere",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/cohere/70a8dc77-ac84-4790-aff6-13b4dcd4554a",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/70a8dc77-ac84-4790-aff6-13b4dcd4554a/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2025-09-16T09:12:49.383+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "9608337c2d89d0bf6f87",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Member of Technical Staff, Pre-Training Data",
+      "organization": "Cohere",
+      "location": "Toronto",
+      "url": "https://jobs.ashbyhq.com/cohere/859e2e47-02fb-4afe-bb8a-e83bf4d8c265",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/859e2e47-02fb-4afe-bb8a-e83bf4d8c265/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2025-06-25T11:34:46.521+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "78492850a04251c233c5",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Member of Technical Staff, Training Performance Engineer",
+      "organization": "Cohere",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/cohere/d42f5fd4-1ffc-45b9-957c-f09862db6af6",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/d42f5fd4-1ffc-45b9-957c-f09862db6af6/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2025-02-20T10:45:59.057+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "561d365fed5cc12f551c",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 7,
+      "evidence": [
+        {
+          "keyword": "craft",
+          "weight": 7,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Bagri Foundation: Grants for Promoting Asian Culture (UK, Europe)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://bagrifoundation.org/funding-opportunities",
+      "applyUrl": "https://bagrifoundation.org/funding-opportunities",
+      "discoveryUrl": "https://on-the-move.org/news/bagri-foundation-grants-promoting-asian-culture-uk-europe",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Thu, 27 Aug 2026 04:00:00 +0000",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "57bb1e4aec89d2627521",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 7,
+      "evidence": [
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Backend Engineer - Extensions",
+      "organization": "Fundamental",
+      "location": "Europe",
+      "url": "https://jobs.ashbyhq.com/fundamental/1a11359c-22ed-4323-9e40-d14b0e1e7c7b",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/1a11359c-22ed-4323-9e40-d14b0e1e7c7b/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-06-22T14:06:39.211+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "584df5836b3016ab9783",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 7,
+      "evidence": [
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Solutions Architect - Defence and National Security",
+      "organization": "Cohere",
+      "location": "Ottawa",
+      "url": "https://jobs.ashbyhq.com/cohere/9e1af45a-d1a6-4173-bf0f-8af42fa42bf0",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/9e1af45a-d1a6-4173-bf0f-8af42fa42bf0/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-05-19T00:39:14.891+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "73e54a3d1a3eec28541d",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 7,
+      "evidence": [
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Solutions Architect - Public Sector",
+      "organization": "Cohere",
+      "location": "Ottawa",
+      "url": "https://jobs.ashbyhq.com/cohere/1bc73d85-e6f4-4338-b53a-9ffb609a950d",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/1bc73d85-e6f4-4338-b53a-9ffb609a950d/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-03-19T17:16:56.556+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "34b84d990b98eef106d2",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 7,
+      "evidence": [
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "DevOps Team Lead",
+      "organization": "Fundamental",
+      "location": "Europe",
+      "url": "https://jobs.ashbyhq.com/fundamental/c54d7bd8-3138-4e86-bdb8-6326dc84bd1a",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/c54d7bd8-3138-4e86-bdb8-6326dc84bd1a/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-02-04T06:34:52.119+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "ad18741981f3d9296682",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 7,
+      "evidence": [
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Full-Stack Engineer",
+      "organization": "Fundamental",
+      "location": "Europe",
+      "url": "https://jobs.ashbyhq.com/fundamental/84d5507b-4f39-4fa9-918d-e2279c7a172a",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/84d5507b-4f39-4fa9-918d-e2279c7a172a/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-02-03T15:41:25.507+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "30e1c0907d2782a03332",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 7,
+      "evidence": [
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Forward Deployed Full-Stack Engineer",
+      "organization": "Fundamental",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/fundamental/42ebe75e-43ca-46a0-9584-5c9ee930311d",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/42ebe75e-43ca-46a0-9584-5c9ee930311d/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-01-22T15:53:48.607+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "7ade376c9a0ac1df09d3",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 7,
+      "evidence": [
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "DevOps Engineer",
+      "organization": "Fundamental",
+      "location": "Europe",
+      "url": "https://jobs.ashbyhq.com/fundamental/3f7ce69f-14c2-403d-9cfe-9b463c923dd5",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/3f7ce69f-14c2-403d-9cfe-9b463c923dd5/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2025-12-02T09:21:28.012+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "5f256336e00603bee516",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 7,
+      "evidence": [
+        {
+          "keyword": "bci",
+          "weight": 7,
+          "field": "title"
+        }
+      ],
+      "title": "Software Engineer, BCI Applications",
+      "organization": "Neuralink",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6596365003?gh_jid=6596365003",
+      "applyUrl": "https://boards.greenhouse.io/neuralink/jobs/6596365003?gh_jid=6596365003",
+      "discoveryUrl": null,
+      "sourceId": "greenhouse-neuralink",
+      "sourceLabel": "Neuralink",
+      "sourceType": "job-board-api",
+      "publishedAt": "2025-06-02T12:49:18-04:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "c12a03c5bf8100f81eca",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 7,
+      "evidence": [
+        {
+          "keyword": "bci",
+          "weight": 7,
+          "field": "title"
+        }
+      ],
+      "title": "Software Engineer Intern, BCI Applications",
+      "organization": "Neuralink",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003",
+      "applyUrl": "https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003",
+      "discoveryUrl": null,
+      "sourceId": "greenhouse-neuralink",
+      "sourceLabel": "Neuralink",
+      "sourceType": "job-board-api",
+      "publishedAt": "2025-05-30T19:47:45-04:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    }
+  ],
+  "sources": [
+    {
+      "id": "ashby-mistral",
+      "label": "Mistral AI",
+      "kind": "ashby",
+      "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
+      "status": "ok",
+      "httpStatus": 200,
+      "itemCount": 173,
+      "contentHash": "26608076746113a8702dff2350e77f68be1814706d3ec3a95ac8843f926dff38",
+      "lastChangedDate": null,
+      "error": null
+    },
+    {
+      "id": "ashby-cohere",
+      "label": "Cohere",
+      "kind": "ashby",
+      "url": "https://api.ashbyhq.com/posting-api/job-board/cohere",
+      "status": "ok",
+      "httpStatus": 200,
+      "itemCount": 146,
+      "contentHash": "66c00825216269313d16b37921b711d8ad30ba0660fe2e258287bcd1244c5ee7",
+      "lastChangedDate": null,
+      "error": null
+    },
+    {
+      "id": "ashby-sona",
+      "label": "Sona",
+      "kind": "ashby",
+      "url": "https://api.ashbyhq.com/posting-api/job-board/sona",
+      "status": "ok",
+      "httpStatus": 200,
+      "itemCount": 12,
+      "contentHash": "c3d5a9f6047dd38eee02a47512193ca5d00cc017150d92a7b1234b1ecd36f6c1",
+      "lastChangedDate": null,
+      "error": null
+    },
+    {
+      "id": "ashby-fundamental",
+      "label": "Fundamental",
+      "kind": "ashby",
+      "url": "https://api.ashbyhq.com/posting-api/job-board/fundamental",
+      "status": "ok",
+      "httpStatus": 200,
+      "itemCount": 18,
+      "contentHash": "c1872422d7fad09d1ee8bde5450feaec4fe4aa47161f4e1fd675579b0a6769b8",
+      "lastChangedDate": null,
+      "error": null
+    },
+    {
+      "id": "ashby-cantina",
+      "label": "Cantina",
+      "kind": "ashby",
+      "url": "https://api.ashbyhq.com/posting-api/job-board/cantina",
+      "status": "ok",
+      "httpStatus": 200,
+      "itemCount": 20,
+      "contentHash": "54d5b1692d5c643096fd2b38605da3436c73327aedc3bb9d90c9f1ff320a5e22",
+      "lastChangedDate": null,
+      "error": null
+    },
+    {
+      "id": "ashby-planday",
+      "label": "Planday / Xero",
+      "kind": "ashby",
+      "url": "https://api.ashbyhq.com/posting-api/job-board/planday-from-xero",
+      "status": "ok",
+      "httpStatus": 200,
+      "itemCount": 10,
+      "contentHash": "a86ab8d6f39e4168b10fb96a6bca4753d11d61ee89943f499e0c02fff5faca70",
+      "lastChangedDate": null,
+      "error": null
+    },
+    {
+      "id": "greenhouse-anthropic",
+      "label": "Anthropic",
+      "kind": "greenhouse",
+      "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
+      "status": "ok",
+      "httpStatus": 200,
+      "itemCount": 571,
+      "contentHash": "853574682c294c13081a7071d5d2b7fc64b749186e74a7b399ab58f4dc6c6adb",
+      "lastChangedDate": null,
+      "error": null
+    },
+    {
+      "id": "greenhouse-neuralink",
+      "label": "Neuralink",
+      "kind": "greenhouse",
+      "url": "https://boards-api.greenhouse.io/v1/boards/neuralink/jobs",
+      "status": "ok",
+      "httpStatus": 200,
+      "itemCount": 76,
+      "contentHash": "e5a045c307342c634f226defe9dabc3e9ae6b631170ec6fcbef9f89be1717503",
+      "lastChangedDate": null,
+      "error": null
+    },
+    {
+      "id": "greenhouse-goat",
+      "label": "GOAT Group",
+      "kind": "greenhouse",
+      "url": "https://boards-api.greenhouse.io/v1/boards/goatgroup/jobs",
+      "status": "ok",
+      "httpStatus": 200,
+      "itemCount": 11,
+      "contentHash": "14c0c7307da82bd8e7abf423e9e673f60e5bbb1ece789056e8b3ea41b87a8a09",
+      "lastChangedDate": null,
+      "error": null
+    },
+    {
+      "id": "greenhouse-stitchfix",
+      "label": "Stitch Fix",
+      "kind": "greenhouse",
+      "url": "https://boards-api.greenhouse.io/v1/boards/stitchfix/jobs",
+      "status": "ok",
+      "httpStatus": 200,
+      "itemCount": 12,
+      "contentHash": "0552c1453455dc7b010c6f91c99b1b6d2ec79134cea9eba99e6800717c1efdb8",
+      "lastChangedDate": "2026-08-29",
+      "error": null
+    },
+    {
+      "id": "on-the-move-rss",
+      "label": "On the Move",
+      "kind": "rss",
+      "url": "https://on-the-move.org/feed",
+      "status": "ok",
+      "httpStatus": 200,
+      "itemCount": 10,
+      "contentHash": "e57f923fccdf0f2c1b3e7f3cc4fdbd9fb66be6d14e2750523b0cacd6a2a429de",
+      "lastChangedDate": null,
+      "error": null
+    },
+    {
+      "id": "watch-loewe-craft",
+      "label": "LOEWE Craft Prize",
+      "kind": "watch",
+      "url": "https://craftprize.loewe.com/en/craftprize2027",
+      "status": "ok",
+      "httpStatus": 200,
+      "itemCount": 0,
+      "contentHash": "99714b2a3b9bd5b5a8746eabafc1da871a36bfbe9e351fd55e2a567ae662c54d",
+      "lastChangedDate": "2026-08-30",
+      "error": null
+    },
+    {
+      "id": "watch-eacea-erasmus",
+      "label": "EACEA Erasmus Mundus Catalogue",
+      "kind": "watch",
+      "url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+      "status": "ok",
+      "httpStatus": 200,
+      "itemCount": 0,
+      "contentHash": "8e04c09efadfae130fc7cd777ed295fa7877c563f2f810412eb43bbb127b696f",
+      "lastChangedDate": "2026-08-30",
+      "error": null
+    },
+    {
+      "id": "watch-euraxess",
+      "label": "EURAXESS Jobs",
+      "kind": "watch",
+      "url": "https://euraxess.ec.europa.eu/jobs/search",
+      "status": "ok",
+      "httpStatus": 200,
+      "itemCount": 0,
+      "contentHash": "dc57511c882bf7daeecbc1e2e3b6b74b5a81f6e76a91832e57f48aadb6706d4a",
+      "lastChangedDate": "2026-08-30",
+      "error": null
+    },
+    {
+      "id": "watch-rijksakademie",
+      "label": "Rijksakademie Open Calls",
+      "kind": "watch",
+      "url": "https://rijksakademie.nl/en/tech-fellows/apply",
+      "status": "ok",
+      "httpStatus": 200,
+      "itemCount": 0,
+      "contentHash": "a50e85ca47f502768dd81ddb2b754719f6c45911ed8c8c576280fb553ff17d43",
+      "lastChangedDate": "2026-08-30",
+      "error": null
+    }
+  ]
+}

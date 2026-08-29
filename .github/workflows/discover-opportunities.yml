@@ -1,0 +1,45 @@
+name: Discover opportunity leads
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 5 * * 1,3,5"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: discover-opportunity-leads
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Pull official sources and build radar
+        run: node tools/discover-opportunities.mjs
+      - name: Upload radar report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: discovery-radar
+          path: |
+            reports/discovery-radar.json
+            reports/discovery-radar.md
+          if-no-files-found: warn
+      - name: Commit changed reports
+        run: |
+          if [ -z "$(git status --porcelain -- reports/discovery-radar.json reports/discovery-radar.md)" ]; then
+            echo "Discovery radar is unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/discovery-radar.json reports/discovery-radar.md
+          git commit -m "chore: update discovery radar"
+          git push

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "limits": {
+    "timeoutMs": 10000,
+    "concurrency": 4,
+    "maxResponseBytes": 3500000,
+    "maxItemsPerSource": 300,
+    "maxCandidates": 150
+  },
+  "profiles": {
+    "mohammad": {
+      "label": "محمد",
+      "minScore": 7,
+      "keywords": [
+        { "term": "brain computer", "weight": 9 },
+        { "term": "computational neuroscience", "weight": 9 },
+        { "term": "neuroimaging", "weight": 8 },
+        { "term": "neuroai", "weight": 8 },
+        { "term": "machine learning", "weight": 6 },
+        { "term": "research engineer", "weight": 6 },
+        { "term": "research scientist", "weight": 6 },
+        { "term": "applied ai", "weight": 6 },
+        { "term": "signal processing", "weight": 6 },
+        { "term": "deep learning", "weight": 5 },
+        { "term": "computer vision", "weight": 5 },
+        { "term": "foundation model", "weight": 5 },
+        { "term": "life science", "weight": 4 },
+        { "term": "healthcare", "weight": 4 },
+        { "term": "eeg", "weight": 7 },
+        { "term": "bci", "weight": 7 },
+        { "term": "python", "weight": 2 }
+      ]
+    },
+    "arzoo": {
+      "label": "آرزو",
+      "minScore": 6,
+      "keywords": [
+        { "term": "embroidery", "weight": 9 },
+        { "term": "artist residency", "weight": 8 },
+        { "term": "cultural heritage", "weight": 8 },
+        { "term": "jewellery", "weight": 7 },
+        { "term": "jewelry", "weight": 7 },
+        { "term": "textile", "weight": 7 },
+        { "term": "craft", "weight": 7 },
+        { "term": "open call", "weight": 6 },
+        { "term": "residency", "weight": 6 },
+        { "term": "fashion", "weight": 6 },
+        { "term": "sustainable", "weight": 5 },
+        { "term": "sustainability", "weight": 5 },
+        { "term": "fine art", "weight": 5 },
+        { "term": "accessories", "weight": 5 },
+        { "term": "materials", "weight": 4 },
+        { "term": "model", "weight": 4 },
+        { "term": "creative", "weight": 3 },
+        { "term": "design", "weight": 3 },
+        { "term": "social media", "weight": 3 },
+        { "term": "content", "weight": 2 }
+      ]
+    }
+  },
+  "sources": [
+    { "id": "ashby-mistral", "label": "Mistral AI", "kind": "ashby", "board": "mistral.ai", "persons": ["mohammad"] },
+    { "id": "ashby-cohere", "label": "Cohere", "kind": "ashby", "board": "cohere", "persons": ["mohammad"] },
+    { "id": "ashby-sona", "label": "Sona", "kind": "ashby", "board": "sona", "persons": ["mohammad"] },
+    { "id": "ashby-fundamental", "label": "Fundamental", "kind": "ashby", "board": "fundamental", "persons": ["mohammad"] },
+    { "id": "ashby-cantina", "label": "Cantina", "kind": "ashby", "board": "cantina", "persons": ["mohammad"] },
+    { "id": "ashby-planday", "label": "Planday / Xero", "kind": "ashby", "board": "planday-from-xero", "persons": ["mohammad"] },
+    { "id": "greenhouse-anthropic", "label": "Anthropic", "kind": "greenhouse", "board": "anthropic", "persons": ["mohammad"] },
+    { "id": "greenhouse-neuralink", "label": "Neuralink", "kind": "greenhouse", "board": "neuralink", "persons": ["mohammad"] },
+    { "id": "greenhouse-goat", "label": "GOAT Group", "kind": "greenhouse", "board": "goatgroup", "persons": ["arzoo"] },
+    { "id": "greenhouse-stitchfix", "label": "Stitch Fix", "kind": "greenhouse", "board": "stitchfix", "persons": ["arzoo"] },
+    { "id": "on-the-move-rss", "label": "On the Move", "kind": "rss", "url": "https://on-the-move.org/feed", "persons": ["arzoo"], "maxBytes": 1000000 },
+    { "id": "watch-loewe-craft", "label": "LOEWE Craft Prize", "kind": "watch", "url": "https://craftprize.loewe.com/en/craftprize2027", "persons": ["arzoo"], "maxBytes": 500000 },
+    { "id": "watch-eacea-erasmus", "label": "EACEA Erasmus Mundus Catalogue", "kind": "watch", "url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en", "persons": ["arzoo"], "maxBytes": 1500000 },
+    { "id": "watch-euraxess", "label": "EURAXESS Jobs", "kind": "watch", "url": "https://euraxess.ec.europa.eu/jobs/search", "persons": ["mohammad"], "maxBytes": 1000000 },
+    { "id": "watch-rijksakademie", "label": "Rijksakademie Open Calls", "kind": "watch", "url": "https://rijksakademie.nl/en/tech-fellows/apply", "persons": ["arzoo"], "maxBytes": 1000000 }
+  ]
+}

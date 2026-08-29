@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#163f34">
+  <title>رادار کشف فرصت | نقشه اپلای</title>
+  <link rel="manifest" href="../manifest.webmanifest">
+  <link rel="icon" href="../assets/icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="../assets/icons/icon-192.png">
+  <link rel="stylesheet" href="../assets/radar.css">
+  <script defer src="../assets/radar.js"></script>
+  <script defer src="../assets/pwa.js"></script>
+</head>
+<body>
+  <header class="topbar"><a href="../">← بازگشت به پنل اصلی</a><span>DISCOVERY RADAR</span></header>
+  <main>
+    <section class="hero">
+      <div><p class="eyebrow">سرنخ‌های ماشینی از منابع رسمی</p><h1>رادار کشف فرصت</h1><p>بردهای استخدام رسمی و چند منبع منتخب هنری/تحصیلی به‌صورت محدود پایش می‌شوند. امتیازها فقط تطابق واژه‌ها را نشان می‌دهند، نه واجدشرایط‌بودن.</p></div>
+      <div class="metrics"><article><b id="candidate-count">—</b><span>سرنخ تازه</span></article><article><b id="mohammad-count">—</b><span>برای محمد</span></article><article><b id="arzoo-count">—</b><span>برای آرزو</span></article></div>
+    </section>
+    <aside class="warning"><strong>تأیید انسانی الزامی است</strong><p>همه موارد این صفحه «سرنخ تأییدنشده» هستند. پیش از اپلای یا انتقال به پنل اصلی، ددلاین، شرایط ملیت/سن/مدرک، بودجه، ویزا، هزینه و دامنه واقعی فرم اپلای را در منبع رسمی بررسی کنید.</p></aside>
+    <section class="controls" aria-label="فیلترها">
+      <label>شخص<select id="person-filter"><option value="all">همه</option><option value="mohammad">محمد</option><option value="arzoo">آرزو</option></select></label>
+      <label>منبع<select id="source-filter"><option value="all">همه منابع</option></select></label>
+      <label>حداقل امتیاز<input id="score-filter" type="range" min="0" max="30" value="6"><output id="score-output">۶</output></label>
+    </section>
+    <p id="status" role="status">در حال دریافت گزارش…</p>
+    <section id="candidate-list" class="candidate-list" aria-label="سرنخ‌ها"></section>
+    <section class="watch"><div><p class="eyebrow">SOURCE WATCH</p><h2>وضعیت منابع</h2></div><div id="source-list" class="source-list"></div></section>
+  </main>
+  <footer><span>داده‌ها ممکن است قدیمی یا ناقص باشند.</span><a href="../">پنل فرصت‌های تأییدشده ←</a></footer>
+</body>
+</html>
