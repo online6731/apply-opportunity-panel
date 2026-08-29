@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#164c3b">
+  <meta name="description" content="گزارش خودکار سلامت لینک‌ها و ددلاین‌های فرصت‌های نقشه اپلای">
+  <title>سلامت فرصت‌ها | نقشه اپلای</title>
+  <link rel="manifest" href="../manifest.webmanifest">
+  <link rel="icon" href="../assets/icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="../assets/icons/icon-192.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;500;600;700&family=DM+Sans:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/health.css">
+  <script defer src="../assets/health.js"></script>
+  <script defer src="../assets/pwa.js"></script>
+</head>
+<body>
+  <header><a href="../">← پنل اصلی</a><span>OPPORTUNITY HEALTH</span><a href="../workspace/">فضای کاری ↗</a></header>
+  <main>
+    <section class="health-hero">
+      <div><span class="eyebrow">پایش خودکار هفتگی · منبع رسمی</span><h1>سلامت لینک‌ها و<br><em>ددلاین‌ها</em></h1><p>هر هفته ساختار ۳۸ رکورد و دسترسی به صفحه رسمی بررسی می‌شود. خطای موقت سایت ثالث به معنی بسته‌شدن فرصت نیست؛ ددلاین و eligibility پیش از اقدام دوباره کنترل شود.</p></div>
+      <div id="structural-status" class="structural-status" aria-live="polite"><i></i><strong>در حال بارگذاری</strong><span>گزارش خودکار</span></div>
+    </section>
+    <section class="metric-grid" aria-label="خلاصه سلامت"><article><small>کل منابع</small><strong id="metric-total">—</strong></article><article><small>در دسترس</small><strong id="metric-ok">—</strong></article><article><small>خطای موقت</small><strong id="metric-transient">—</strong></article><article><small>لینک شکسته</small><strong id="metric-broken">—</strong></article><article><small>ددلاین فعال</small><strong id="metric-active">—</strong></article></section>
+    <section class="health-content">
+      <div class="health-heading"><div><span class="eyebrow">SOURCE MONITOR</span><h2>جزئیات بررسی</h2><p id="generated-at">—</p></div><a class="raw-link" href="../reports/opportunity-health.md">گزارش خام Markdown ↗</a></div>
+      <div class="filters"><label><span>جست‌وجو</span><input id="health-search" type="search" placeholder="عنوان یا شناسه…"></label><label><span>وضعیت لینک</span><select id="result-filter"><option value="all">همه</option><option value="ok">در دسترس</option><option value="transient">موقت/timeout</option><option value="broken">شکسته</option><option value="restricted">محدود</option></select></label><label><span>وضعیت ددلاین</span><select id="deadline-health-filter"><option value="all">همه</option><option value="active">فعال</option><option value="rolling">مستمر</option><option value="upcoming">آینده</option><option value="expired">گذشته</option><option value="unknown">نامشخص</option></select></label><label><span>مرتب‌سازی</span><select id="health-sort"><option value="status">اول خطاها</option><option value="deadline">نزدیک‌ترین ددلاین</option><option value="speed">کندترین پاسخ</option></select></label></div>
+      <div class="result-line"><strong id="health-count">۰</strong><span>منبع مطابق فیلتر</span></div>
+      <div id="health-list" class="health-list" aria-live="polite"></div>
+      <div id="health-error" class="health-error" hidden><h2>گزارش بارگذاری نشد</h2><p>فایل گزارش هنوز تولید نشده یا اتصال موقتاً در دسترس نیست.</p><a href="../reports/opportunity-health.json">بازکردن JSON خام</a></div>
+    </section>
+  </main>
+  <footer><a href="../">نقشه اپلای</a><span>ساخته‌شده توسط GitHub Actions · خطاهای ثالث non-fatal هستند</span><a href="https://github.com/online6731/apply-opportunity-panel/actions" target="_blank" rel="noreferrer">اجرای پایش ↗</a></footer>
+</body>
+</html>

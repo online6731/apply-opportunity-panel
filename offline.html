@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#164c3b">
+  <title>آفلاین | نقشه اپلای</title>
+  <style>
+    :root { color-scheme: light dark; font-family: system-ui, "Segoe UI", sans-serif; }
+    * { box-sizing: border-box; }
+    body { min-height: 100vh; margin: 0; display: grid; place-items: center; padding: 24px; background: #f5f4ed; color: #17221d; }
+    main { width: min(100%, 560px); padding: clamp(28px, 6vw, 54px); border: 1px solid #d9ddd4; border-radius: 28px; background: #fffefa; box-shadow: 0 18px 55px rgba(25,45,35,.09); }
+    .mark { width: 56px; aspect-ratio: 1; display: grid; place-items: center; border-radius: 18px; background: #164c3b; color: white; font-size: 28px; font-weight: 800; }
+    h1 { margin: 24px 0 10px; font-size: clamp(30px, 8vw, 48px); }
+    p { margin: 0 0 24px; color: #65716a; line-height: 1.9; }
+    a { display: inline-flex; min-height: 44px; align-items: center; padding: 8px 18px; border-radius: 12px; background: #164c3b; color: white; text-decoration: none; font-weight: 700; }
+    small { display: block; margin-top: 24px; color: #65716a; direction: ltr; text-align: left; }
+    @media (prefers-color-scheme: dark) {
+      body { background: #111814; color: #edf5ef; }
+      main { background: #18221d; border-color: #314138; }
+      p, small { color: #a9b7ae; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="mark" aria-hidden="true">ن</div>
+    <h1>فعلاً آفلاین هستید</h1>
+    <p>صفحه‌ای که خواستید قبلاً ذخیره نشده است. صفحه اصلی و فرصت‌هایی که در بازدید قبلی بارگیری شده‌اند ممکن است همچنان در دسترس باشند.</p>
+    <a id="home-link" href="./">تلاش دوباره و بازگشت به پنل</a>
+    <small>You are offline. Reconnect to refresh official opportunity links.</small>
+  </main>
+  <script>
+    (function () {
+      var scriptURL = navigator.serviceWorker && navigator.serviceWorker.controller && navigator.serviceWorker.controller.scriptURL;
+      if (scriptURL) document.getElementById("home-link").href = new URL("./", scriptURL).href;
+    }());
+  </script>
+</body>
+</html>

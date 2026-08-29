@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="چک‌لیست شخصی‌سازی‌شده آمادگی اپلای برای فرصت‌های کاری، دکتری، بورسیه، رزیدنسی، مدلینگ و کسب‌وکار">
+  <meta name="theme-color" content="#173d32">
+  <title>مرکز آمادگی اپلای | نقشه اپلای</title>
+  <link rel="manifest" href="../manifest.webmanifest">
+  <link rel="icon" href="../assets/icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="../assets/icons/icon-192.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;500;600;700;800&family=DM+Sans:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/checklists.css">
+  <script defer src="../data/application-config.js"></script>
+  <script defer src="../assets/checklists.js"></script>
+  <script defer src="../assets/pwa.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">رفتن به محتوای اصلی</a>
+
+  <header class="site-header">
+    <a class="brand" href="../" aria-label="بازگشت به نقشه اپلای">
+      <span class="brand-mark" aria-hidden="true">ن</span>
+      <span><strong>نقشه اپلای</strong><small>Apply Compass</small></span>
+    </a>
+    <nav aria-label="ناوبری صفحه">
+      <a href="../">داشبورد فرصت‌ها</a>
+      <a href="../report/">گزارش تحقیق</a>
+      <a href="../arzoo/">پروفایل آرزو</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="hero">
+      <div class="hero-copy">
+        <span class="eyebrow">APPLICATION READINESS · نسخه ۱.۰</span>
+        <h1>مدارک پراکنده را به یک<br><em>پکیج آماده ارسال</em> تبدیل کنید.</h1>
+        <p>این صفحه برای محمد و آرزو، و برای هر مسیر اپلای، اسناد لازم، شکاف‌ها، سؤال‌های ویزا و پرداخت، پروژه‌های پیشنهادی و خط قرمزهای ایمنی را یک‌جا نگه می‌دارد.</p>
+        <div class="privacy-note"><span aria-hidden="true">⌁</span><p><strong>حریم خصوصی:</strong> تیک‌ها فقط در مرورگر همین دستگاه ذخیره می‌شوند. هیچ شماره پاسپورت، آدرس، اطلاعات بانکی یا فایل شخصی در این صفحه ثبت نکنید.</p></div>
+      </div>
+
+      <div class="readiness-panel" aria-live="polite">
+        <div class="progress-ring" id="progress-ring" style="--progress: 0" role="progressbar" aria-label="درصد آمادگی" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+          <div><strong id="readiness-percent">۰٪</strong><span>آمادگی انتخاب فعلی</span></div>
+        </div>
+        <div class="progress-copy">
+          <p id="readiness-label">برای شروع، شخص و مسیر را انتخاب کنید.</p>
+          <div class="mini-metrics">
+            <div><strong id="completed-count">۰</strong><span>تکمیل‌شده</span></div>
+            <div><strong id="remaining-count">۰</strong><span>باقی‌مانده</span></div>
+            <div><strong id="critical-count">۰</strong><span>بحرانیِ باز</span></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="control-shell" aria-label="فیلتر و ابزارهای چک‌لیست">
+      <div class="control-main">
+        <fieldset class="person-switch">
+          <legend>پروفایل</legend>
+          <div id="person-buttons" class="segmented"></div>
+        </fieldset>
+
+        <label class="select-field">
+          <span>مسیر اپلای</span>
+          <select id="path-filter"></select>
+        </label>
+
+        <label class="search-field">
+          <span>جست‌وجو</span>
+          <span class="search-box"><i aria-hidden="true">⌕</i><input id="search-input" type="search" placeholder="مدرک، مهارت، ویزا، پورتفولیو…"></span>
+        </label>
+
+        <label class="critical-toggle">
+          <input id="critical-only" type="checkbox">
+          <span>فقط موارد بحرانی و مهم</span>
+        </label>
+      </div>
+      <div class="control-actions">
+        <button id="print-button" class="button button-primary" type="button"><span aria-hidden="true">⇩</span> چاپ / PDF</button>
+        <button id="reset-button" class="button button-quiet" type="button"><span aria-hidden="true">↺</span> پاک‌کردن تیک‌ها</button>
+      </div>
+    </section>
+
+    <nav class="section-nav" aria-label="بخش‌های آمادگی">
+      <a href="#documents">مدارک و کارها</a>
+      <a href="#gaps">شکاف‌های فعلی</a>
+      <a href="#projects">پروژه‌های پیشنهادی</a>
+      <a href="#templates">الگوهای خروجی</a>
+      <a href="#questions">ویزا و پرداخت</a>
+      <a href="#safety">خط قرمزها</a>
+    </nav>
+
+    <section id="documents" class="page-section checklist-section">
+      <div class="section-heading">
+        <div><span class="eyebrow">مدارک و اقدامات</span><h2>چک‌لیست آمادگی</h2></div>
+        <p>درصد آمادگی فقط از مواردی محاسبه می‌شود که با فیلتر فعلی تطابق دارند. هر تیک به‌صورت خودکار روی همین دستگاه ذخیره می‌شود.</p>
+      </div>
+      <div id="checklist-groups" class="checklist-groups"></div>
+      <div id="checklist-empty" class="empty-state" hidden>
+        <span aria-hidden="true">⌕</span><h3>موردی با این فیلتر پیدا نشد</h3><p>عبارت جست‌وجو یا مسیر را تغییر دهید.</p>
+      </div>
+    </section>
+
+    <section id="gaps" class="page-section soft-section">
+      <div class="section-heading">
+        <div><span class="eyebrow">آنچه هنوز مانع است</span><h2>شکاف‌های فعلی</h2></div>
+        <p>این موارد از تحلیل رزومه، GitHub، پورتفولیو و شرایط فرصت‌ها استخراج شده‌اند؛ اول شکاف‌های بحرانی را ببندید.</p>
+      </div>
+      <div id="gap-list" class="gap-grid"></div>
+    </section>
+
+    <section id="projects" class="page-section">
+      <div class="section-heading">
+        <div><span class="eyebrow">شاهد بساز، فقط ادعا نکن</span><h2>پروژه‌های پیشنهادی پورتفولیو</h2></div>
+        <p>هر پروژه برای بستن یک شکاف واقعی طراحی شده و باید یک خروجی قابل مشاهده و قابل ارزیابی تولید کند.</p>
+      </div>
+      <div id="project-list" class="project-grid"></div>
+    </section>
+
+    <section id="templates" class="page-section dark-section">
+      <div class="section-heading light-heading">
+        <div><span class="eyebrow">خروجی‌های استاندارد</span><h2>الگوها و نام فایل پیشنهادی</h2></div>
+        <p>این‌ها metadata هستند؛ خود فایل خصوصی باید بیرون از وب‌سایت و در پوشه امن نگه‌داری شود.</p>
+      </div>
+      <div id="template-list" class="template-grid"></div>
+    </section>
+
+    <section id="deadline-plan" class="page-section deadline-section">
+      <div class="section-heading">
+        <div><span class="eyebrow">مهلت داخلی، نه دقیقه نود</span><h2>برنامه آماده‌سازی بر اساس ددلاین</h2></div>
+        <p>مهلت داخلی ارسال را سه روز زودتر بگذارید؛ اختلاف ساعت، خرابی پورتال و پرداخت ناموفق را جدی بگیرید.</p>
+      </div>
+      <div id="deadline-list" class="deadline-grid"></div>
+    </section>
+
+    <section id="questions" class="page-section soft-section">
+      <div class="section-heading">
+        <div><span class="eyebrow">قبل از پرداخت یا ارسال بپرسید</span><h2>سؤال‌های کشور، ویزا، پرداخت و قرارداد</h2></div>
+        <p>پاسخ شفاهی یا پیام شبکه اجتماعی کافی نیست؛ برای موضوعات مهم پاسخ کتبی از منبع رسمی بگیرید.</p>
+      </div>
+      <div id="question-list" class="question-list"></div>
+    </section>
+
+    <section id="safety" class="page-section safety-section">
+      <div class="safety-intro">
+        <div><span class="eyebrow">STOP & VERIFY</span><h2>خط قرمزها</h2></div>
+        <p>اگر یکی از موارد «توقف» رخ داد، اطلاعات یا پول ارسال نکنید تا هویت، قرارداد و مقصد مستقل تأیید شود.</p>
+      </div>
+      <div id="red-flag-list" class="red-flag-grid"></div>
+      <aside class="ftc-card">
+        <span class="ftc-mark" aria-hidden="true">!</span>
+        <div>
+          <strong>قانون ساده FTC برای مدلینگ</strong>
+          <p>برای اینکه یک آژانس نماینده شما شود پول پیش ندهید. تضمین کار، اجبار به عکاس/کلاس خاص، درخواست اطلاعات مالی یا فشار برای تصمیم فوری از نشانه‌های کلاهبرداری است.</p>
+          <a href="https://consumer.ftc.gov/articles/modeling-scams" target="_blank" rel="noreferrer">راهنمای رسمی FTC درباره کلاهبرداری مدلینگ ↗</a>
+        </div>
+      </aside>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div><strong>مرکز آمادگی اپلای</strong><span>داده شخصی‌سازی‌شده بر اساس تحقیق ۲۰۲۶ · بدون ذخیره اطلاعات حساس</span></div>
+    <div><a href="../">داشبورد</a><a href="../report/">گزارش</a><a href="../arzoo/">آری‌دوچ</a></div>
+  </footer>
+
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+</body>
+</html>

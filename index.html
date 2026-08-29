@@ -3,14 +3,21 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#164c3b">
   <meta name="description" content="پنل تحلیل و پیگیری فرصت‌های کاری، تحصیلی و هنری برای محمد پارسیان و آرزو براهویی">
   <title>نقشه اپلای | فرصت‌های محمد و آرزو</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="assets/icons/icon-192.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;500;600;700;800&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/styles.css">
   <script defer src="data/opportunities.js"></script>
+  <script defer src="data/deadlines.js"></script>
+  <script defer src="data/application-config.js"></script>
   <script defer src="assets/app.js"></script>
+  <script defer src="assets/pwa.js"></script>
 </head>
 <body data-page="dashboard">
   <a class="skip-link" href="#main">رفتن به محتوای اصلی</a>
@@ -23,6 +30,8 @@
       <nav class="side-nav">
         <a class="active" href="#overview"><span>◈</span> نمای کلی</a>
         <a href="#opportunities"><span>⌕</span> فرصت‌ها</a>
+        <a href="workspace/"><span>▦</span> فضای کاری خصوصی</a>
+        <a href="checklists/"><span>☑</span> چک‌لیست آمادگی</a>
         <a href="#roadmap"><span>↗</span> برنامه اقدام</a>
         <a href="#method"><span>◎</span> روش ارزیابی</a>
         <a href="arzoo/"><span>✦</span> پروفایل آرزو</a>
@@ -40,6 +49,7 @@
         <button class="menu-button" type="button" aria-label="باز کردن منو" aria-expanded="false">☰</button>
         <div class="breadcrumb"><span>خانه</span><b>/</b><strong>داشبورد فرصت‌ها</strong></div>
         <div class="top-actions">
+          <button id="install-app" class="button button-quiet" type="button" hidden>نصب برنامه</button>
           <button id="theme-toggle" class="icon-button" type="button" aria-label="تغییر پوسته">◐</button>
           <button id="export-button" class="button button-quiet" type="button">دریافت CSV</button>
         </div>
@@ -51,8 +61,8 @@
           <h1>از «همه‌چیز ممکن است»<br>به <em>مسیرهای واقعاً قابل اقدام</em></h1>
         <p>۳۸ فرصت کاری، دکتری، بورسیه، رزیدنسی هنری و فراخوان معتبر بر اساس شواهد واقعی هر پروفایل رتبه‌بندی شده‌اند؛ نه صرفاً بر اساس کلیدواژه.</p>
           <div class="hero-actions">
-            <a class="button button-primary" href="#opportunities">دیدن فرصت‌های فعال</a>
-            <a class="button button-ghost" href="#roadmap">برنامه ۹۰ روزه</a>
+            <a class="button button-primary" href="workspace/">باز کردن فضای کاری خصوصی</a>
+            <a class="button button-ghost" href="#opportunities">دیدن فرصت‌های فعال</a>
           </div>
         </div>
         <div class="hero-visual" aria-label="خلاصه آماری فرصت‌ها">
@@ -65,6 +75,45 @@
           <div class="floating-stat stat-a"><b id="high-fit-count">—</b><span>تطابق بالا</span></div>
           <div class="floating-stat stat-b"><b id="funded-count">—</b><span>حمایت مالی یا جایزه</span></div>
           <div class="floating-stat stat-c"><b>۲</b><span>پروفایل مستقل</span></div>
+        </div>
+      </section>
+
+      <section class="section-block command-center" aria-label="ابزارهای اجرایی اپلای">
+        <div class="section-heading">
+          <div><span class="eyebrow">نسخه پیشرفته · داده‌های شخصی فقط روی دستگاه شما</span><h2>از کشف فرصت تا ارسال و پیگیری</h2></div>
+          <p>داشبورد عمومی برای تحقیق است؛ فضای کاری خصوصی وضعیت اپلای، یادداشت، چک‌لیست و خروجی‌های شما را بدون ارسال به سرور در همین مرورگر نگه می‌دارد.</p>
+        </div>
+        <div class="command-grid">
+          <a class="command-card primary-command" href="workspace/">
+            <span class="command-icon">▦</span><small>APPLICATION OS</small><h3>مدیریت کامل اپلای‌ها</h3><p>کانبان، جدول، وضعیت، اولویت، اقدام بعدی، یادداشت، مقایسه سه‌تایی و تقویم ددلاین.</p><b>ورود به فضای کاری ←</b>
+          </a>
+          <a class="command-card" href="checklists/">
+            <span class="command-icon">☑</span><small>READINESS</small><h3>چک‌لیست مدارک و آمادگی</h3><p>CV، SOP، توصیه‌نامه، پورتفولیو، مدلینگ، زبان، ویزا و پرداخت برای هر مسیر.</p><b>سنجش آمادگی ←</b>
+          </a>
+          <a class="command-card" href="workspace/#application-kit">
+            <span class="command-icon">✦</span><small>APPLICATION KIT</small><h3>سازنده بسته اپلای</h3><p>پرامپت‌های هدفمند برای CV، کاورلتر، SOP، ایمیل استاد/ریکروتر و تمرین مصاحبه.</p><b>ساخت کیت ←</b>
+          </a>
+          <a class="command-card" href="health/">
+            <span class="command-icon">◎</span><small>LIVE HEALTH</small><h3>گزارش سلامت منابع</h3><p>بررسی هفتگی ساختار داده، لینک‌های رسمی و تغییر وضعیت منابع در GitHub Actions.</p><b id="health-card-status">در حال خواندن گزارش…</b>
+          </a>
+        </div>
+        <div class="privacy-strip"><span>🔒</span><p><strong>مرز عمومی/خصوصی:</strong> وضعیت اپلای، یادداشت‌ها و فایل پشتیبان در localStorage مرورگر می‌ماند. GitHub Pages آن‌ها را دریافت نمی‌کند؛ برای جابه‌جایی دستگاه باید خروجی JSON رمزنگاری‌نشده را خودتان امن نگهداری کنید.</p></div>
+      </section>
+
+      <section id="intelligence" class="section-block intelligence-section">
+        <div class="section-heading">
+          <div><span class="eyebrow">مرکز فرمان ددلاین</span><h2>کارهایی که نباید از دست بروند</h2></div>
+          <p>این بخش ددلاین‌های ساختاریافته را به وقت محلی مرتب می‌کند. تاریخ صفحه رسمی همچنان مرجع نهایی است.</p>
+        </div>
+        <div class="intelligence-metrics">
+          <article><small>ددلاین ۱۴ روز آینده</small><strong id="deadline-14-count">—</strong><span>نیازمند تصمیم فوری</span></article>
+          <article><small>فرصت با تطابق +۹۰٪</small><strong id="top-fit-live-count">—</strong><span>اولویت‌های اصلی</span></article>
+          <article><small>پرونده فعال در ترکر</small><strong id="tracker-count">—</strong><span>آماده‌سازی تا آفر</span></article>
+          <article><small>آمادگی مدارک</small><strong id="readiness-count">—</strong><span>بر اساس چک‌لیست محلی</span></article>
+        </div>
+        <div class="intelligence-layout">
+          <div><div class="subheading"><h3>تقویم فوری</h3><a href="workspace/#deadlines">تقویم کامل ←</a></div><div id="urgent-deadline-list" class="urgent-deadline-list"></div></div>
+          <aside class="next-best-panel"><span class="eyebrow">NEXT BEST ACTION</span><h3 id="next-best-title">در حال محاسبه…</h3><p id="next-best-copy">اولویت بعدی بر اساس ددلاین، تطابق و آمادگی انتخاب می‌شود.</p><a id="next-best-link" class="button button-primary" href="workspace/">شروع اقدام</a></aside>
         </div>
       </section>
 
@@ -135,6 +184,11 @@
           <label><span>نوع فرصت</span><select id="type-filter"><option value="all">همه انواع</option></select></label>
           <label><span>وضعیت</span><select id="status-filter"><option value="all">همه وضعیت‌ها</option><option value="open">فعال</option><option value="rolling">بدون ددلاین ثابت</option><option value="upcoming">دوره بعد / در انتظار</option></select></label>
           <label><span>حداقل تطابق</span><select id="fit-filter"><option value="0">همه</option><option value="70">۷۰٪ به بالا</option><option value="80">۸۰٪ به بالا</option><option value="90">۹۰٪ به بالا</option></select></label>
+          <label><span>حمایت مالی</span><select id="funding-filter"><option value="all">همه</option><option value="funded">بورسیه/جایزه</option><option value="salary">حقوق</option><option value="self-funded">بدون پوشش روشن</option></select></label>
+          <label><span>کشور/منطقه</span><select id="country-filter"><option value="all">همه کشورها</option></select></label>
+          <label><span>بازه ددلاین</span><select id="deadline-filter"><option value="all">همه</option><option value="14">۱۴ روز آینده</option><option value="30">۳۰ روز آینده</option><option value="90">۹۰ روز آینده</option><option value="rolling">بدون ددلاین ثابت</option><option value="upcoming">دوره آینده</option></select></label>
+          <label><span>قابلیت اقدام</span><select id="feasibility-filter"><option value="all">همه</option><option value="now">قابل اقدام اکنون</option><option value="conditional">مشروط/پس از جابه‌جایی</option><option value="upcoming">برای آماده‌سازی</option></select></label>
+          <label><span>مرتب‌سازی</span><select id="sort-filter"><option value="fit">بیشترین تطابق</option><option value="deadline">نزدیک‌ترین ددلاین</option><option value="fit-asc">کمترین تطابق</option></select></label>
           <button id="reset-filters" class="button button-ghost" type="button">پاک‌کردن فیلترها</button>
         </div>
 
@@ -185,7 +239,7 @@
 
       <footer class="footer">
         <div><strong>نقشه اپلای</strong><span>تحقیق و دسته‌بندی شخصی‌سازی‌شده · ۲۰۲۶</span></div>
-        <div><a href="report/">گزارش کامل تحقیق</a><a href="arzoo/">پروفایل آرزو</a><a href="https://github.com/online6731" target="_blank" rel="noreferrer">پروفایل محمد</a></div>
+        <div><a href="workspace/">فضای کاری</a><a href="checklists/">چک‌لیست</a><a href="report/">گزارش تحقیق</a><a href="arzoo/">پروفایل آرزو</a></div>
       </footer>
     </main>
   </div>

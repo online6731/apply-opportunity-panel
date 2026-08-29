@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#123f32">
+  <title>فضای کاری اپلای | قطب‌نمای اپلای</title>
+  <link rel="manifest" href="../manifest.webmanifest">
+  <link rel="icon" href="../assets/icons/icon-192.png" sizes="192x192" type="image/png">
+  <link rel="apple-touch-icon" href="../assets/icons/icon-192.png">
+  <link rel="stylesheet" href="../assets/workspace.css">
+  <script src="../data/application-config.js"></script>
+  <script src="../data/deadlines.js"></script>
+  <script src="../data/opportunities.js"></script>
+  <script defer src="../assets/workspace.js"></script>
+  <script defer src="../assets/pwa.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#workspace-main">پرش به محتوای اصلی</a>
+
+  <div class="workspace-shell">
+    <aside class="workspace-sidebar" id="workspace-sidebar">
+      <a class="workspace-brand" href="../index.html" aria-label="بازگشت به قطب‌نمای اپلای">
+        <span class="workspace-brand-mark">ق</span>
+        <span><strong>فضای کاری اپلای</strong><small>PRIVATE WORKSPACE</small></span>
+      </a>
+
+      <nav class="workspace-nav" aria-label="بخش‌های فضای کاری">
+        <a class="active" href="#overview"><span>◫</span>نمای کلی</a>
+        <a href="#tracker"><span>▦</span>پیگیری فرصت‌ها</a>
+        <a href="#timeline"><span>◷</span>خط زمانی</a>
+        <a href="#documents"><span>✓</span>مدارک</a>
+        <a href="#application-kit"><span>✦</span>کیت هوش مصنوعی</a>
+        <a href="#backup"><span>⇩</span>پشتیبان و خروجی</a>
+      </nav>
+
+      <div class="privacy-card">
+        <span class="privacy-icon" aria-hidden="true">⌂</span>
+        <div><strong>خصوصی روی همین دستگاه</strong><p>اطلاعات فقط در مرورگر شما و داخل <span lang="en">localStorage</span> ذخیره می‌شود.</p></div>
+      </div>
+    </aside>
+
+    <div class="workspace-content">
+      <header class="workspace-topbar">
+        <button class="icon-button mobile-menu" id="mobile-menu" type="button" aria-controls="workspace-sidebar" aria-expanded="false" aria-label="باز کردن منو">☰</button>
+        <div class="topbar-title">
+          <span>قطب‌نمای اپلای /</span>
+          <strong>فضای کاری خصوصی</strong>
+        </div>
+        <div class="topbar-actions">
+          <span class="save-status" id="save-status" aria-live="polite"><i></i>ذخیره خودکار فعال</span>
+          <button class="icon-button" id="theme-toggle" type="button" aria-label="تغییر پوسته">◐</button>
+          <button class="primary-button compact" id="new-opportunity-top" type="button">＋ فرصت دستی</button>
+        </div>
+      </header>
+
+      <main id="workspace-main">
+        <section class="workspace-section overview-section" id="overview">
+          <div class="privacy-notice">
+            <div>
+              <span class="notice-lock" aria-hidden="true">⌁</span>
+              <div><strong>این پنل حساب کاربری یا سرور ندارد.</strong><p>یادداشت‌ها، وضعیت اپلای و مدارک شما به هیچ مقصدی ارسال نمی‌شوند. برای انتقال بین دستگاه‌ها از فایل پشتیبان استفاده کنید.</p></div>
+            </div>
+            <button class="text-button" id="dismiss-privacy" type="button">متوجه شدم</button>
+          </div>
+
+          <div class="section-heading split-heading">
+            <div><span class="eyebrow">APPLICATION COMMAND CENTER</span><h1>از فهرست فرصت تا <em>اقدام بعدی</em></h1><p>۳۸ فرصت تحقیق‌شده از ابتدا آماده‌اند؛ وضعیت، ددلاین، مدارک و متن‌های اپلای را بدون خروج داده از دستگاه مدیریت کنید.</p></div>
+            <div class="today-panel"><small>امروز</small><strong id="today-label">—</strong><span id="next-deadline-label">در حال محاسبه نزدیک‌ترین ددلاین…</span></div>
+          </div>
+
+          <div class="metrics-grid" id="metrics-grid" aria-label="شاخص‌های پیگیری">
+            <article><span class="metric-symbol mint">◎</span><div><small>همه فرصت‌ها</small><strong id="metric-total">۰</strong><p id="metric-total-sub">شامل موارد دستی</p></div></article>
+            <article><span class="metric-symbol coral">◷</span><div><small>ددلاین تا ۱۴ روز</small><strong id="metric-urgent">۰</strong><p id="metric-urgent-sub">نیازمند اقدام سریع</p></div></article>
+            <article><span class="metric-symbol blue">↗</span><div><small>در حال آماده‌سازی</small><strong id="metric-preparing">۰</strong><p>پرونده‌های فعال</p></div></article>
+            <article><span class="metric-symbol amber">✓</span><div><small>ارسال‌شده</small><strong id="metric-applied">۰</strong><p id="metric-success-sub">مصاحبه و آفر جداگانه</p></div></article>
+          </div>
+
+          <div class="overview-grid">
+            <article class="surface pipeline-surface">
+              <div class="surface-heading"><div><small>PIPELINE</small><h2>جریان اپلای</h2></div><span id="pipeline-caption">—</span></div>
+              <div class="pipeline-chart" id="pipeline-chart" aria-label="تعداد فرصت‌ها در هر مرحله"></div>
+            </article>
+            <article class="surface action-surface">
+              <div class="surface-heading"><div><small>NEXT ACTIONS</small><h2>صف اقدام امروز</h2></div><a href="#tracker">همه فرصت‌ها ←</a></div>
+              <div class="action-queue" id="action-queue"></div>
+            </article>
+          </div>
+        </section>
+
+        <section class="workspace-section tracker-section" id="tracker">
+          <div class="section-heading tracker-heading">
+            <div><span class="eyebrow">TRACKER</span><h2>پیگیری فرصت‌ها</h2><p>مرحله را با کشیدن کارت، انتخاب سریع یا فرم کامل تغییر دهید.</p></div>
+            <div class="heading-actions">
+              <div class="segmented" aria-label="نوع نمایش">
+                <button class="active" type="button" data-view="kanban" aria-pressed="true">کانبان</button>
+                <button type="button" data-view="table" aria-pressed="false">جدول فشرده</button>
+              </div>
+              <button class="primary-button" id="new-opportunity" type="button">＋ افزودن فرصت</button>
+            </div>
+          </div>
+
+          <div class="tracker-toolbar">
+            <label class="search-control"><span class="sr-only">جست‌وجو</span><i aria-hidden="true">⌕</i><input id="tracker-search" type="search" placeholder="جست‌وجوی عنوان، سازمان یا یادداشت…" autocomplete="off"></label>
+            <label><span>شخص</span><select id="filter-person"><option value="all">هر دو پروفایل</option><option value="mohammad">محمد</option><option value="arzoo">آرزو</option></select></label>
+            <label><span>مرحله</span><select id="filter-stage"><option value="all">همه مراحل</option></select></label>
+            <label><span>اولویت</span><select id="filter-priority"><option value="all">همه اولویت‌ها</option><option value="high">بالا</option><option value="medium">متوسط</option><option value="low">پایین</option></select></label>
+            <label><span>نوع</span><select id="filter-type"><option value="all">همه انواع</option></select></label>
+            <button class="secondary-button" id="clear-filters" type="button">پاک‌کردن فیلتر</button>
+          </div>
+
+          <div class="tracker-summary"><span id="tracker-result-count">۰ فرصت</span><span>برای مقایسه تا ۳ مورد، گزینه «مقایسه» را روی کارت بزنید.</span></div>
+          <div id="kanban-view" class="kanban-board" aria-label="برد کانبان فرصت‌ها"></div>
+          <div id="table-view" class="table-shell" hidden>
+            <table class="tracker-table">
+              <thead><tr><th>فرصت</th><th>شخص</th><th>مرحله</th><th>اولویت</th><th>ددلاین / موعد</th><th>تطابق</th><th>اقدام</th></tr></thead>
+              <tbody id="tracker-table-body"></tbody>
+            </table>
+          </div>
+          <div class="empty-panel" id="tracker-empty" hidden><span>⌕</span><h3>فرصتی با این فیلترها پیدا نشد</h3><button class="secondary-button" type="button" data-action="clear-filters">نمایش همه</button></div>
+        </section>
+
+        <section class="workspace-section timeline-section" id="timeline">
+          <div class="section-heading split-heading compact-heading">
+            <div><span class="eyebrow">DEADLINE RADAR</span><h2>خط زمانی ددلاین‌ها</h2><p>ددلاین رسمی و موعد اقدام شخصی کنار هم دیده می‌شوند؛ خروجی تقویم در بخش پشتیبان آماده است.</p></div>
+            <label class="inline-select"><span>بازه نمایش</span><select id="timeline-range"><option value="30">۳۰ روز آینده</option><option value="90" selected>۹۰ روز آینده</option><option value="180">۱۸۰ روز آینده</option><option value="all">همه تاریخ‌ها</option></select></label>
+          </div>
+          <div class="timeline-layout">
+            <div class="deadline-timeline" id="deadline-timeline"></div>
+            <aside class="surface no-deadline-surface"><div class="surface-heading"><div><small>ROLLING / WATCHLIST</small><h3>بدون تاریخ قطعی</h3></div><span id="no-deadline-count">۰</span></div><div id="no-deadline-list" class="mini-list"></div></aside>
+          </div>
+        </section>
+
+        <section class="workspace-section documents-section" id="documents">
+          <div class="section-heading split-heading compact-heading">
+            <div><span class="eyebrow">DOCUMENT VAULT CHECKLIST</span><h2>آمادگی مدارک به تفکیک شخص</h2><p>فقط وضعیت آماده‌بودن ثبت می‌شود؛ هیچ فایل شخصی در این صفحه آپلود یا ارسال نمی‌شود.</p></div>
+            <div class="segmented" id="document-person-tabs" aria-label="انتخاب شخص"></div>
+          </div>
+          <div class="documents-layout">
+            <article class="surface document-progress-card">
+              <div class="document-progress-head"><div><small id="document-person-kicker">—</small><h3 id="document-person-name">—</h3></div><strong id="document-progress-percent">۰٪</strong></div>
+              <div class="progress-track" role="progressbar" aria-label="درصد آمادگی مدارک" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><i id="document-progress-bar"></i></div>
+              <p id="document-progress-note">—</p>
+            </article>
+            <article class="surface document-checklist-card"><div id="document-checklist" class="document-checklist"></div></article>
+          </div>
+        </section>
+
+        <section class="workspace-section kit-section" id="application-kit">
+          <div class="section-heading split-heading compact-heading">
+            <div><span class="eyebrow">LOCAL AI PROMPT STUDIO</span><h2>سازنده کیت اپلای</h2><p>یک پرامپت کامل و قابل‌کپی تولید می‌کند؛ آن را در ابزار هوش مصنوعی دلخواه خود اجرا کنید. هیچ API یا کلیدی در کار نیست.</p></div>
+            <span class="local-only-pill">بدون ارسال داده</span>
+          </div>
+          <div class="kit-layout">
+            <form class="surface kit-controls" id="kit-form">
+              <label><span>شخص</span><select id="kit-person"></select></label>
+              <label><span>فرصت هدف</span><select id="kit-opportunity"></select></label>
+              <label><span>خروجی موردنیاز</span><select id="kit-type">
+                <option value="cv">رزومه هدفمند / بازنویسی CV</option>
+                <option value="letter">کاورلتر یا SOP</option>
+                <option value="email">ایمیل استاد یا ریکروتر</option>
+                <option value="interview">آمادگی مصاحبه</option>
+              </select></label>
+              <label><span>زبان خروجی</span><select id="kit-language"><option value="English">انگلیسی</option><option value="Persian">فارسی</option><option value="Bilingual">دو‌زبانه</option></select></label>
+              <label><span>لحن</span><select id="kit-tone"><option value="professional">حرفه‌ای و مستقیم</option><option value="academic">آکادمیک و پژوهشی</option><option value="warm">گرم و شخصی</option><option value="concise">بسیار کوتاه</option></select></label>
+              <label class="wide-field"><span>دستور تکمیلی اختیاری</span><textarea id="kit-extra" rows="4" placeholder="مثلاً: روی تجربه EEG و رتبه مسابقه تأکید کن؛ ادعای بدون مدرک نساز."></textarea></label>
+              <button class="primary-button wide-button" type="submit">✦ ساخت پرامپت اپلای</button>
+            </form>
+            <article class="surface prompt-output-card">
+              <div class="prompt-output-head"><div><small>GENERATED PROMPT</small><h3 id="prompt-title">پرامپت شما اینجا ساخته می‌شود</h3></div><span id="prompt-word-count">۰ واژه</span></div>
+              <textarea id="prompt-output" aria-label="پرامپت تولیدشده" readonly placeholder="یک فرصت و نوع خروجی را انتخاب کنید و دکمه ساخت را بزنید."></textarea>
+              <div class="prompt-actions"><button class="secondary-button" id="copy-prompt" type="button" disabled>کپی پرامپت</button><button class="secondary-button" id="download-prompt" type="button" disabled>دانلود TXT</button></div>
+            </article>
+          </div>
+        </section>
+
+        <section class="workspace-section backup-section" id="backup">
+          <div class="section-heading split-heading compact-heading">
+            <div><span class="eyebrow">PORTABILITY & PRIVACY</span><h2>پشتیبان، خروجی و بازنشانی</h2><p>برای انتقال دستگاه، فایل JSON بگیرید. CSV برای تحلیل و ICS برای تقویم آماده می‌شود.</p></div>
+            <span class="last-backup" id="last-backup">هنوز پشتیبان نگرفته‌اید</span>
+          </div>
+          <div class="backup-grid">
+            <article class="surface backup-card"><span class="backup-symbol">{ }</span><h3>پشتیبان کامل JSON</h3><p>تمام مراحل، یادداشت‌ها، موارد دستی و چک‌لیست مدارک.</p><div><button class="secondary-button" id="export-json" type="button">دانلود JSON</button><label class="file-button">ورود پشتیبان<input id="import-json" type="file" accept="application/json,.json"></label></div></article>
+            <article class="surface backup-card"><span class="backup-symbol">▤</span><h3>خروجی جدولی CSV</h3><p>مناسب Excel و Google Sheets؛ شامل وضعیت فعلی همه فرصت‌ها.</p><button class="secondary-button" id="export-csv" type="button">دانلود CSV</button></article>
+            <article class="surface backup-card"><span class="backup-symbol">◷</span><h3>تقویم ICS</h3><p>ددلاین‌های رسمی و موعدهای شخصی را به تقویم اضافه کنید.</p><button class="secondary-button" id="export-ics" type="button">دانلود تقویم</button></article>
+            <article class="surface backup-card danger-card"><span class="backup-symbol">↺</span><h3>بازنشانی Tracker</h3><p>فقط داده همین فضای کاری را پاک می‌کند؛ داده پنل اصلی یا سایر سایت‌ها دست‌نخورده می‌ماند.</p><button class="danger-button" id="reset-workspace" type="button">پاک‌کردن داده Tracker</button></article>
+          </div>
+        </section>
+      </main>
+      <footer class="workspace-footer"><span>قطب‌نمای اپلای · فضای کاری خصوصی دستگاه</span><a href="../index.html">بازگشت به فهرست فرصت‌ها ←</a></footer>
+    </div>
+  </div>
+
+  <div class="compare-tray" id="compare-tray" hidden>
+    <div><strong>مقایسه فرصت‌ها</strong><span id="compare-summary">۰ از ۳ انتخاب شده</span></div>
+    <div id="compare-chips" class="compare-chips"></div>
+    <button class="primary-button compact" id="open-compare" type="button">باز کردن مقایسه</button>
+    <button class="icon-button" id="clear-compare" type="button" aria-label="پاک‌کردن مقایسه">×</button>
+  </div>
+
+  <dialog class="workspace-dialog opportunity-dialog" id="opportunity-dialog">
+    <form method="dialog" class="dialog-frame" id="opportunity-form">
+      <div class="dialog-header"><div><small id="opportunity-dialog-kicker">EDIT OPPORTUNITY</small><h2 id="opportunity-dialog-title">ویرایش فرصت</h2></div><button class="dialog-close" type="button" data-close-dialog="opportunity-dialog" aria-label="بستن">×</button></div>
+      <div class="form-grid">
+        <input id="opportunity-id" type="hidden">
+        <label><span>برای چه کسی؟</span><select id="opportunity-person" required><option value="mohammad">محمد</option><option value="arzoo">آرزو</option></select></label>
+        <label><span>مرحله</span><select id="opportunity-stage" required></select></label>
+        <label><span>عنوان فرصت</span><input id="opportunity-title" type="text" required></label>
+        <label><span>سازمان</span><input id="opportunity-organization" type="text" required></label>
+        <label><span>نوع</span><select id="opportunity-type" required></select></label>
+        <label><span>اولویت</span><select id="opportunity-priority"><option value="high">بالا</option><option value="medium">متوسط</option><option value="low">پایین</option></select></label>
+        <label><span>کشور</span><input id="opportunity-country" type="text"></label>
+        <label><span>شهر / مدل کار</span><input id="opportunity-location" type="text"></label>
+        <label><span>ددلاین رسمی</span><input id="opportunity-deadline-date" type="date"></label>
+        <label><span>برچسب ددلاین</span><input id="opportunity-deadline-label" type="text" placeholder="مثلاً پذیرش مستمر"></label>
+        <label><span>موعد اقدام شخصی</span><input id="opportunity-due-date" type="date"></label>
+        <label><span>تاریخ ارسال</span><input id="opportunity-applied-date" type="date"></label>
+        <label><span>امتیاز تطابق</span><input id="opportunity-fit" type="number" min="0" max="100" step="1"></label>
+        <label><span>لینک منبع</span><input id="opportunity-url" type="url" placeholder="https://…"></label>
+        <label class="full-field"><span>اقدام بعدی</span><textarea id="opportunity-next-action" rows="3"></textarea></label>
+        <label class="full-field"><span>یادداشت خصوصی</span><textarea id="opportunity-notes" rows="5" placeholder="وضعیت تماس، مدارک ناقص، نام استاد یا نکات مصاحبه…"></textarea></label>
+      </div>
+      <div class="dialog-actions"><button class="danger-link" id="delete-manual-opportunity" type="button" hidden>حذف فرصت دستی</button><span></span><button class="secondary-button" type="button" data-close-dialog="opportunity-dialog">انصراف</button><button class="primary-button" type="submit">ذخیره تغییرات</button></div>
+    </form>
+  </dialog>
+
+  <dialog class="workspace-dialog compare-dialog" id="compare-dialog">
+    <div class="dialog-frame wide-dialog-frame">
+      <div class="dialog-header"><div><small>COMPARE UP TO 3</small><h2>مقایسه کنار هم</h2></div><button class="dialog-close" type="button" data-close-dialog="compare-dialog" aria-label="بستن">×</button></div>
+      <div class="compare-grid" id="compare-grid"></div>
+    </div>
+  </dialog>
+
+  <dialog class="workspace-dialog confirm-dialog" id="confirm-dialog">
+    <form method="dialog" class="dialog-frame small-dialog-frame">
+      <div class="dialog-header"><div><small>CONFIRM</small><h2 id="confirm-title">آیا مطمئن هستید؟</h2></div><button class="dialog-close" type="button" data-close-dialog="confirm-dialog" aria-label="بستن">×</button></div>
+      <p id="confirm-message"></p>
+      <div class="dialog-actions"><span></span><button class="secondary-button" value="cancel">انصراف</button><button class="danger-button" id="confirm-action" value="confirm">تأیید</button></div>
+    </form>
+  </dialog>
+
+  <div class="toast-region" id="toast-region" aria-live="polite" aria-atomic="true"></div>
+  <div class="mobile-overlay" id="mobile-overlay" hidden></div>
+</body>
+</html>

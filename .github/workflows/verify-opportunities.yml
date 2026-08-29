@@ -1,0 +1,54 @@
+name: Verify opportunity links
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * 1"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: verify-opportunity-links
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Validate data and check official links
+        env:
+          OPPORTUNITY_TIMEOUT_MS: "10000"
+          OPPORTUNITY_CONCURRENCY: "5"
+        run: node tools/verify-opportunities.mjs
+
+      - name: Preserve reports for failed validation
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: opportunity-health-report
+          path: |
+            reports/opportunity-health.json
+            reports/opportunity-health.md
+          if-no-files-found: warn
+
+      - name: Commit changed health reports
+        run: |
+          if [ -z "$(git status --porcelain -- reports/opportunity-health.json reports/opportunity-health.md)" ]; then
+            echo "Opportunity health reports are unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/opportunity-health.json reports/opportunity-health.md
+          git commit -m "chore: update opportunity link health"
+          git push
