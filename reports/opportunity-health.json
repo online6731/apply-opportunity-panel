@@ -13,10 +13,10 @@
   },
   "summary": {
     "total": 38,
-    "ok": 36,
+    "ok": 38,
     "restricted": 0,
     "broken": 0,
-    "transient": 2,
+    "transient": 0,
     "warning": 0,
     "deadlines": {
       "active": 21,
@@ -36,7 +36,7 @@
       "status": 200,
       "finalUrl": "https://sdrive.cnrs.fr/s/eDrkeXfjdWSF77Z",
       "redirects": [],
-      "durationMs": 5987,
+      "durationMs": 978,
       "error": null,
       "deadline": {
         "result": "active",
@@ -48,13 +48,13 @@
       "id": "m-rome-neuroai-2026",
       "title": "دکتری بورسیه NeuroAI و تصویربرداری عصبی محاسباتی",
       "sourceUrl": "https://www.unicampus.it/bando/bando-dottorato-di-ricerca-in-intelligenza-artificiale-dottorato-nazionale-area-salute-e-scienze-della-vita-xlii-ciclo-a-a-2026-2027/",
-      "result": "transient",
-      "method": null,
-      "status": null,
-      "finalUrl": null,
+      "result": "ok",
+      "method": "HEAD",
+      "status": 200,
+      "finalUrl": "https://www.unicampus.it/bando/bando-dottorato-di-ricerca-in-intelligenza-artificiale-dottorato-nazionale-area-salute-e-scienze-della-vita-xlii-ciclo-a-a-2026-2027/",
       "redirects": [],
-      "durationMs": 10022,
-      "error": "timeout after 10000ms",
+      "durationMs": 2459,
+      "error": null,
       "deadline": {
         "result": "active",
         "date": "2026-09-07",
@@ -70,7 +70,7 @@
       "status": 200,
       "finalUrl": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7860/",
       "redirects": [],
-      "durationMs": 6042,
+      "durationMs": 683,
       "error": null,
       "deadline": {
         "result": "active",
@@ -87,7 +87,7 @@
       "status": 200,
       "finalUrl": "https://jobs.ashbyhq.com/mistral.ai/37108a18-4eaa-4554-af3c-39e3556191cb",
       "redirects": [],
-      "durationMs": 5652,
+      "durationMs": 597,
       "error": null,
       "deadline": {
         "result": "rolling",
@@ -104,7 +104,7 @@
       "status": 200,
       "finalUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5021015008",
       "redirects": [],
-      "durationMs": 5764,
+      "durationMs": 591,
       "error": null,
       "deadline": {
         "result": "rolling",
@@ -121,7 +121,7 @@
       "status": 200,
       "finalUrl": "https://jobs.ashbyhq.com/cohere/3fe03041-347a-479f-8361-6b1f5f81338e",
       "redirects": [],
-      "durationMs": 758,
+      "durationMs": 125,
       "error": null,
       "deadline": {
         "result": "rolling",
@@ -138,7 +138,7 @@
       "status": 200,
       "finalUrl": "https://jobs.ashbyhq.com/planday-from-xero/673f9368-7abe-4641-a9cb-b5c4d0909058",
       "redirects": [],
-      "durationMs": 874,
+      "durationMs": 181,
       "error": null,
       "deadline": {
         "result": "rolling",
@@ -155,7 +155,7 @@
       "status": 200,
       "finalUrl": "https://usccareers.usc.edu/job/los-angeles/research-engineer/1209/81182316976",
       "redirects": [],
-      "durationMs": 2221,
+      "durationMs": 544,
       "error": null,
       "deadline": {
         "result": "rolling",
@@ -172,7 +172,7 @@
       "status": 200,
       "finalUrl": "https://emploi.cnrs.fr/Offres/Doctorant/UMR8003-DESFRI-006/Default.aspx",
       "redirects": [],
-      "durationMs": 2395,
+      "durationMs": 1198,
       "error": null,
       "deadline": {
         "result": "active",
@@ -191,7 +191,7 @@
       "redirects": [
         "https://job-boards.greenhouse.io/neuralink/jobs/5663271003?gh_jid=5663271003"
       ],
-      "durationMs": 2624,
+      "durationMs": 968,
       "error": null,
       "deadline": {
         "result": "rolling",
@@ -208,7 +208,7 @@
       "status": 200,
       "finalUrl": "https://www.kuleuven.be/personeel/jobsite/jobs/60743253",
       "redirects": [],
-      "durationMs": 1907,
+      "durationMs": 933,
       "error": null,
       "deadline": {
         "result": "active",
@@ -225,7 +225,7 @@
       "status": 200,
       "finalUrl": "https://jobs.ashbyhq.com/sona/b0ecc744-e4ac-441e-9f19-dbd961847836",
       "redirects": [],
-      "durationMs": 790,
+      "durationMs": 253,
       "error": null,
       "deadline": {
         "result": "rolling",
@@ -242,7 +242,7 @@
       "status": 200,
       "finalUrl": "https://jobs.ashbyhq.com/cohere/876a2d31-e6c3-497b-9c8e-0b7d111fb4cd",
       "redirects": [],
-      "durationMs": 830,
+      "durationMs": 369,
       "error": null,
       "deadline": {
         "result": "rolling",
@@ -259,7 +259,7 @@
       "status": 200,
       "finalUrl": "https://jobs.ashbyhq.com/fundamental/9ce70592-8637-461f-b47c-6a1b47561461",
       "redirects": [],
-      "durationMs": 732,
+      "durationMs": 88,
       "error": null,
       "deadline": {
         "result": "rolling",
@@ -276,7 +276,7 @@
       "status": 200,
       "finalUrl": "https://jobs.ashbyhq.com/cantina/e39ea193-e746-4062-b604-51ef3cb0b913",
       "redirects": [],
-      "durationMs": 716,
+      "durationMs": 116,
       "error": null,
       "deadline": {
         "result": "rolling",
@@ -293,7 +293,7 @@
       "status": 200,
       "finalUrl": "https://craftprize.loewe.com/en/craftprize2027",
       "redirects": [],
-      "durationMs": 1762,
+      "durationMs": 577,
       "error": null,
       "deadline": {
         "result": "active",
@@ -310,7 +310,7 @@
       "status": 200,
       "finalUrl": "https://craftforms.org/",
       "redirects": [],
-      "durationMs": 2732,
+      "durationMs": 2696,
       "error": null,
       "deadline": {
         "result": "active",
@@ -327,7 +327,7 @@
       "status": 200,
       "finalUrl": "https://www.macdowell.org/apply/application-guidelines",
       "redirects": [],
-      "durationMs": 1069,
+      "durationMs": 785,
       "error": null,
       "deadline": {
         "result": "active",
@@ -344,7 +344,7 @@
       "status": 202,
       "finalUrl": "https://artomi.org/event/open-call-2027/",
       "redirects": [],
-      "durationMs": 1415,
+      "durationMs": 389,
       "error": null,
       "deadline": {
         "result": "active",
@@ -361,7 +361,7 @@
       "status": 200,
       "finalUrl": "https://www.hayamaresidency.com/",
       "redirects": [],
-      "durationMs": 833,
+      "durationMs": 168,
       "error": null,
       "deadline": {
         "result": "active",
@@ -380,7 +380,7 @@
       "redirects": [
         "https://www.khncenterforthearts.org/residencyresident-application/how-apply"
       ],
-      "durationMs": 2333,
+      "durationMs": 238,
       "error": null,
       "deadline": {
         "result": "active",
@@ -397,7 +397,7 @@
       "status": 200,
       "finalUrl": "https://surelsplace.org/month-long-residencies/",
       "redirects": [],
-      "durationMs": 825,
+      "durationMs": 580,
       "error": null,
       "deadline": {
         "result": "active",
@@ -414,7 +414,7 @@
       "status": 200,
       "finalUrl": "https://artssoutheast.org/onview-residency-app",
       "redirects": [],
-      "durationMs": 623,
+      "durationMs": 187,
       "error": null,
       "deadline": {
         "result": "active",
@@ -427,11 +427,11 @@
       "title": "Glen Arbor Arts Center Artist-in-Residence 2027",
       "sourceUrl": "https://glenarborart.org/artist-in-residence/",
       "result": "ok",
-      "method": "HEAD",
+      "method": "GET",
       "status": 200,
       "finalUrl": "https://glenarborart.org/artist-in-residence/",
       "redirects": [],
-      "durationMs": 1159,
+      "durationMs": 934,
       "error": null,
       "deadline": {
         "result": "active",
@@ -450,7 +450,7 @@
       "redirects": [
         "https://www.deziart.co/artprize"
       ],
-      "durationMs": 2106,
+      "durationMs": 263,
       "error": null,
       "deadline": {
         "result": "active",
@@ -467,7 +467,7 @@
       "status": 200,
       "finalUrl": "https://innovateartistgrants.org/",
       "redirects": [],
-      "durationMs": 2494,
+      "durationMs": 563,
       "error": null,
       "deadline": {
         "result": "active",
@@ -484,7 +484,7 @@
       "status": 200,
       "finalUrl": "https://www.yicca.org/",
       "redirects": [],
-      "durationMs": 913,
+      "durationMs": 1042,
       "error": null,
       "deadline": {
         "result": "active",
@@ -501,7 +501,7 @@
       "status": 200,
       "finalUrl": "https://www.archenemyarts.com/opencall",
       "redirects": [],
-      "durationMs": 1980,
+      "durationMs": 119,
       "error": null,
       "deadline": {
         "result": "active",
@@ -518,7 +518,7 @@
       "status": 200,
       "finalUrl": "https://www.marihe.eu/how-to-apply",
       "redirects": [],
-      "durationMs": 2558,
+      "durationMs": 2855,
       "error": null,
       "deadline": {
         "result": "active",
@@ -535,7 +535,7 @@
       "status": 200,
       "finalUrl": "https://www.gla.ac.uk/postgraduate/erasmusmundus/magma/apply/",
       "redirects": [],
-      "durationMs": 887,
+      "durationMs": 1052,
       "error": null,
       "deadline": {
         "result": "upcoming",
@@ -547,13 +547,13 @@
       "id": "arzoo-daad-fine-art-design-2027",
       "title": "DAAD Study Scholarships — Postgraduate Studies in Fine Art, Design, Visual Communication and Film",
       "sourceUrl": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135742",
-      "result": "transient",
-      "method": null,
-      "status": null,
-      "finalUrl": null,
+      "result": "ok",
+      "method": "HEAD",
+      "status": 200,
+      "finalUrl": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135742",
       "redirects": [],
-      "durationMs": 10010,
-      "error": "timeout after 10000ms",
+      "durationMs": 522,
+      "error": null,
       "deadline": {
         "result": "active",
         "date": "2026-09-23",
@@ -569,7 +569,7 @@
       "status": 200,
       "finalUrl": "https://platform.agency/apply-here/",
       "redirects": [],
-      "durationMs": 1092,
+      "durationMs": 574,
       "error": null,
       "deadline": {
         "result": "rolling",
@@ -586,7 +586,7 @@
       "status": 200,
       "finalUrl": "https://www.newgenerationmodels.com/en/become/",
       "redirects": [],
-      "durationMs": 2620,
+      "durationMs": 945,
       "error": null,
       "deadline": {
         "result": "rolling",
@@ -603,7 +603,7 @@
       "status": 200,
       "finalUrl": "https://elitemodelmanagement.com/amsterdam/get-scouted.web",
       "redirects": [],
-      "durationMs": 1770,
+      "durationMs": 605,
       "error": null,
       "deadline": {
         "result": "rolling",
@@ -620,7 +620,7 @@
       "status": 200,
       "finalUrl": "https://fashion-for-good.homerun.co/social-media-content-intern",
       "redirects": [],
-      "durationMs": 1967,
+      "durationMs": 498,
       "error": null,
       "deadline": {
         "result": "unknown",
@@ -637,7 +637,7 @@
       "status": 200,
       "finalUrl": "https://fashion-for-good.homerun.co/innovation-intern-innovation-platform",
       "redirects": [],
-      "durationMs": 1571,
+      "durationMs": 459,
       "error": null,
       "deadline": {
         "result": "rolling",
@@ -654,7 +654,7 @@
       "status": 200,
       "finalUrl": "https://rijksakademie.nl/en/tech-fellows/apply",
       "redirects": [],
-      "durationMs": 2672,
+      "durationMs": 1020,
       "error": null,
       "deadline": {
         "result": "active",
@@ -671,7 +671,7 @@
       "status": 200,
       "finalUrl": "https://www.janvaneyck.nl/residency/",
       "redirects": [],
-      "durationMs": 2187,
+      "durationMs": 1592,
       "error": null,
       "deadline": {
         "result": "upcoming",
