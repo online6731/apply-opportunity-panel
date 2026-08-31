@@ -1,5 +1,5 @@
 {
-  "generatedDate": "2026-08-30",
+  "generatedDate": "2026-08-31",
   "schemaVersion": 1,
   "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
   "summary": {
@@ -20,6 +20,56 @@
     }
   },
   "candidates": [
+    {
+      "candidateId": "be7969360c1412c96425",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 39,
+      "evidence": [
+        {
+          "keyword": "embroidery",
+          "weight": 9,
+          "field": "details"
+        },
+        {
+          "keyword": "cultural heritage",
+          "weight": 8,
+          "field": "details"
+        },
+        {
+          "keyword": "craft",
+          "weight": 7,
+          "field": "details"
+        },
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] The Shine of Our Eyes: Residency Programme Open Call (Armenia)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://typography-worldwide.org/en/2026/08/13/the-shine-of-our-eyes-open-call/",
+      "applyUrl": "https://typography-worldwide.org/en/2026/08/13/the-shine-of-our-eyes-open-call/",
+      "discoveryUrl": "https://on-the-move.org/news/shine-our-eyes-residency-programme-open-call-armenia",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Mon, 31 Aug 2026 09:21:32 +0000",
+      "discoveredDate": "2026-08-31",
+      "status": "unverified-lead"
+    },
     {
       "candidateId": "96468f7564694a5485e1",
       "person": "mohammad",
@@ -117,46 +167,6 @@
       "sourceLabel": "Mistral AI",
       "sourceType": "job-board-api",
       "publishedAt": "2026-07-02T17:48:59.330+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "35eb58225d0ed0af2f51",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 23,
-      "evidence": [
-        {
-          "keyword": "textile",
-          "weight": 7,
-          "field": "title"
-        },
-        {
-          "keyword": "craft",
-          "weight": 7,
-          "field": "details"
-        },
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "design",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Textile Art Biennial BIEN 2027 (Slovenia)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://docs.google.com/document/d/14zv5oPWUiBRvoX5TBfoojb7OOGihBRkbE0137RR23Ng/edit?tab=t.0",
-      "applyUrl": "https://docs.google.com/document/d/14zv5oPWUiBRvoX5TBfoojb7OOGihBRkbE0137RR23Ng/edit?tab=t.0",
-      "discoveryUrl": "https://on-the-move.org/news/textile-art-biennial-bien-2027-slovenia",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Thu, 20 Aug 2026 04:00:00 +0000",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
@@ -806,46 +816,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "95d7fb9c91388e0896e5",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 18,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "research engineer",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Head of Applied Science, Korea",
-      "organization": "Mistral AI",
-      "location": "Seoul",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/826dd35b-03dc-4f5b-bfa2-2d3c91003154",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/826dd35b-03dc-4f5b-bfa2-2d3c91003154/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-07-10T11:19:37.513+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "63f889ea59c23bd531fb",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -1337,7 +1307,7 @@
           "field": "details"
         }
       ],
-      "title": "Head of Applied AI Engineering, Korea",
+      "title": "Lead Applied AI Engineer, Korea",
       "organization": "Mistral AI",
       "location": "Seoul",
       "url": "https://jobs.ashbyhq.com/mistral.ai/a50e295c-c615-4b72-a482-2987a4d10e91",
@@ -1418,6 +1388,36 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-08-03T16:33:45.506+00:00",
       "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "32372c313656dbc57813",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 14,
+      "evidence": [
+        {
+          "keyword": "artist residency",
+          "weight": 8,
+          "field": "details"
+        },
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "details"
+        }
+      ],
+      "title": "[News] IterCulture: Teatri Riflessi 2027 International Short Performance Competition (Italy)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.iterculture.eu/en/teatri-riflessi/tr2027/tr12/",
+      "applyUrl": "https://www.iterculture.eu/en/teatri-riflessi/tr2027/tr12/",
+      "discoveryUrl": "https://on-the-move.org/news/iterculture-teatri-riflessi-2027-international-short-performance-competition-italy",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Mon, 31 Aug 2026 04:00:00 +0000",
+      "discoveredDate": "2026-08-31",
       "status": "unverified-lead"
     },
     {
@@ -1862,36 +1862,6 @@
       "sourceLabel": "Cohere",
       "sourceType": "job-board-api",
       "publishedAt": "2024-12-03T14:25:43.571+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "933287dee1aa60795255",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 12,
-      "evidence": [
-        {
-          "keyword": "open call",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Camargo Foundation: Fellowship 2027–2028 for Artists, Scholars and Thinkers (France)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://camargofoundation.org/en/camargo-fellowship-2026-2027",
-      "applyUrl": "https://camargofoundation.org/en/camargo-fellowship-2026-2027",
-      "discoveryUrl": "https://on-the-move.org/news/camargo-foundation-fellowship-2027-2028-artists-scholars-and-thinkers-france",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Wed, 19 Aug 2026 04:00:00 +0000",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
@@ -2372,6 +2342,41 @@
       "sourceLabel": "Mistral AI",
       "sourceType": "job-board-api",
       "publishedAt": "2026-07-10T11:27:44.445+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "95d7fb9c91388e0896e5",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Lead Applied Scientist, Korea",
+      "organization": "Mistral AI",
+      "location": "Seoul",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/826dd35b-03dc-4f5b-bfa2-2d3c91003154",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/826dd35b-03dc-4f5b-bfa2-2d3c91003154/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-10T11:19:37.513+00:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
@@ -4639,9 +4644,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 173,
-      "contentHash": "26608076746113a8702dff2350e77f68be1814706d3ec3a95ac8843f926dff38",
-      "lastChangedDate": null,
+      "itemCount": 172,
+      "contentHash": "b0dd5628c22edb7715d093db5a9418e6be95f69213b2d61669db6a863397396b",
+      "lastChangedDate": "2026-08-31",
       "error": null
     },
     {
@@ -4652,8 +4657,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 146,
-      "contentHash": "66c00825216269313d16b37921b711d8ad30ba0660fe2e258287bcd1244c5ee7",
-      "lastChangedDate": null,
+      "contentHash": "16e9d42d92107dcbab91b2411a7f9f03627e9faff80a09befcfa99fddae915ca",
+      "lastChangedDate": "2026-08-31",
       "error": null
     },
     {
@@ -4700,8 +4705,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 10,
-      "contentHash": "a86ab8d6f39e4168b10fb96a6bca4753d11d61ee89943f499e0c02fff5faca70",
-      "lastChangedDate": null,
+      "contentHash": "8614dfe4a13e151128f7bcf3caac1fdce912497a734f647a7220ccb6ac8e4b58",
+      "lastChangedDate": "2026-08-31",
       "error": null
     },
     {
@@ -4712,8 +4717,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 571,
-      "contentHash": "853574682c294c13081a7071d5d2b7fc64b749186e74a7b399ab58f4dc6c6adb",
-      "lastChangedDate": null,
+      "contentHash": "67fdf555c79330e6c7622f84d646ebb7cd87442d40b38c5a5778d6765345f5af",
+      "lastChangedDate": "2026-08-31",
       "error": null
     },
     {
@@ -4723,9 +4728,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/neuralink/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 76,
-      "contentHash": "e5a045c307342c634f226defe9dabc3e9ae6b631170ec6fcbef9f89be1717503",
-      "lastChangedDate": null,
+      "itemCount": 75,
+      "contentHash": "62ec0f7e75443e5179917b22a1f6e3d618529799f5cb500305532d63149c928c",
+      "lastChangedDate": "2026-08-31",
       "error": null
     },
     {
@@ -4748,8 +4753,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 12,
-      "contentHash": "0552c1453455dc7b010c6f91c99b1b6d2ec79134cea9eba99e6800717c1efdb8",
-      "lastChangedDate": "2026-08-29",
+      "contentHash": "528a6641b4fb0f2ad7658342851ba9af694cf9c597039fbb880eb7beab1b49dc",
+      "lastChangedDate": "2026-08-31",
       "error": null
     },
     {
@@ -4760,8 +4765,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 10,
-      "contentHash": "e57f923fccdf0f2c1b3e7f3cc4fdbd9fb66be6d14e2750523b0cacd6a2a429de",
-      "lastChangedDate": null,
+      "contentHash": "c98adf42c40cec7ac8b99ce6e0ab52da13480f231a074ebcd05f9028a1304f83",
+      "lastChangedDate": "2026-08-31",
       "error": null
     },
     {
@@ -4796,8 +4801,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "dc57511c882bf7daeecbc1e2e3b6b74b5a81f6e76a91832e57f48aadb6706d4a",
-      "lastChangedDate": "2026-08-30",
+      "contentHash": "56819009cc54c73fa7a699394e810d48b33c3613e3ac7389366e3e23480a952a",
+      "lastChangedDate": "2026-08-31",
       "error": null
     },
     {
