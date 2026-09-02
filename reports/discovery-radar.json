@@ -1,13 +1,13 @@
 {
-  "generatedDate": "2026-08-31",
+  "generatedDate": "2026-09-02",
   "schemaVersion": 1,
   "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
   "summary": {
-    "candidates": 133,
-    "mohammad": 126,
-    "arzoo": 7,
-    "sourceErrors": 0,
-    "excludedExisting": 10
+    "candidates": 132,
+    "mohammad": 124,
+    "arzoo": 8,
+    "sourceErrors": 1,
+    "excludedExisting": 9
   },
   "profiles": {
     "mohammad": {
@@ -749,7 +749,7 @@
         {
           "keyword": "research engineer",
           "weight": 6,
-          "field": "title"
+          "field": "details"
         },
         {
           "keyword": "healthcare",
@@ -762,7 +762,7 @@
           "field": "details"
         }
       ],
-      "title": "Applied Scientist/Research Engineer, EMEA",
+      "title": "Applied Scientist, EMEA",
       "organization": "Mistral AI",
       "location": "Paris",
       "url": "https://jobs.ashbyhq.com/mistral.ai/2ed434c7-2e1d-4acd-acb2-01edaa4a1208",
@@ -1012,6 +1012,46 @@
       "sourceLabel": "Mistral AI",
       "sourceType": "job-board-api",
       "publishedAt": "2026-07-03T16:39:26.888+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "5fd4a10859a6e64dff3b",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied Scientist (Internship)",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-03T16:37:30.355+00:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
@@ -1926,7 +1966,7 @@
       "sourceId": "ashby-cohere",
       "sourceLabel": "Cohere",
       "sourceType": "job-board-api",
-      "publishedAt": "2026-08-28T20:32:55.278+00:00",
+      "publishedAt": "2026-09-01T23:23:18.358+00:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
@@ -1961,7 +2001,7 @@
       "sourceId": "ashby-cohere",
       "sourceLabel": "Cohere",
       "sourceType": "job-board-api",
-      "publishedAt": "2026-08-28T20:30:58.199+00:00",
+      "publishedAt": "2026-09-01T23:06:28.297+00:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
@@ -3081,41 +3121,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "5fd4a10859a6e64dff3b",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 12,
-      "evidence": [
-        {
-          "keyword": "research engineer",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Applied Scientist / Research Engineer (Internship)",
-      "organization": "Mistral AI",
-      "location": "Paris",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-07-03T16:37:30.355+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "45e2e390a75740c2143e",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -3421,6 +3426,36 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "7e5ba21c3bc1f7e7121b",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Business Development Representative",
+      "organization": "Cohere",
+      "location": "Toronto",
+      "url": "https://jobs.ashbyhq.com/cohere/e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-08-31T16:57:04.408+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "618aab8b31f72c424dcf",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -3511,36 +3546,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "7e5ba21c3bc1f7e7121b",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 10,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        }
-      ],
-      "title": "Business Development Representative",
-      "organization": "Cohere",
-      "location": "Toronto",
-      "url": "https://jobs.ashbyhq.com/cohere/e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-cohere",
-      "sourceLabel": "Cohere",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-07-31T18:48:27.507+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "bfad464bb72a4942b0ce",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -3597,36 +3602,6 @@
       "sourceLabel": "Mistral AI",
       "sourceType": "job-board-api",
       "publishedAt": "2026-07-27T18:43:05.348+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "8cfaf45bd6cc4967dcb6",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 10,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        }
-      ],
-      "title": "VP, Global Developer Relations",
-      "organization": "Mistral AI",
-      "location": "Paris",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/f3e60b63-24a5-4cfc-8a57-b3cd67d47435",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/f3e60b63-24a5-4cfc-8a57-b3cd67d47435/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-07-21T15:32:41.557+00:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
@@ -3901,7 +3876,7 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "fee27c0b0aadd17b6034",
+      "candidateId": "e31dda50c2d1affb0a24",
       "person": "arzoo",
       "personLabel": "آرزو",
       "score": 9,
@@ -3912,22 +3887,22 @@
           "field": "details"
         },
         {
-          "keyword": "design",
+          "keyword": "creative",
           "weight": 3,
           "field": "details"
         }
       ],
-      "title": "[News] Tokyo Biennale 2027 Call for Site-responsive Proposals from Artists and Curators (Japan)",
+      "title": "[News] European Festivals Association: European Festivals Fund for Emerging Artists #5",
       "organization": "On the Move",
       "location": "",
-      "url": "https://socialdive.jp/en/",
-      "applyUrl": "https://socialdive.jp/en/",
-      "discoveryUrl": "https://on-the-move.org/news/tokyo-biennale-2027-call-site-responsive-proposals-artists-and-curators-japan",
+      "url": "https://www.effea.eu/news/item/2026/09/01/effea-call-5-is-open",
+      "applyUrl": "https://www.effea.eu/news/item/2026/09/01/effea-call-5-is-open",
+      "discoveryUrl": "https://on-the-move.org/news/european-festivals-association-european-festivals-fund-emerging-artists-5",
       "sourceId": "on-the-move-rss",
       "sourceLabel": "On the Move",
       "sourceType": "curated-rss",
-      "publishedAt": "Tue, 25 Aug 2026 04:00:00 +0000",
-      "discoveredDate": "2026-08-30",
+      "publishedAt": "Tue, 01 Sep 2026 16:54:00 +0000",
+      "discoveredDate": "2026-09-02",
       "status": "unverified-lead"
     },
     {
@@ -4047,36 +4022,6 @@
       "sourceLabel": "Cohere",
       "sourceType": "job-board-api",
       "publishedAt": "2026-08-14T15:25:00.640+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "c1f5ff3c245e29ec20ba",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 8,
-      "evidence": [
-        {
-          "keyword": "life science",
-          "weight": 4,
-          "field": "title"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "title"
-        }
-      ],
-      "title": "Sales Director - Healthcare & Life Sciences",
-      "organization": "Cohere",
-      "location": "New York",
-      "url": "https://jobs.ashbyhq.com/cohere/cbb71f8e-bed7-495d-bf16-3fae2f7aedf7",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/cbb71f8e-bed7-495d-bf16-3fae2f7aedf7/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-cohere",
-      "sourceLabel": "Cohere",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-07-29T13:41:42.001+00:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
@@ -4634,6 +4579,31 @@
       "publishedAt": "2025-05-30T19:47:45-04:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
+    },
+    {
+      "candidateId": "e551a5be1f899d961267",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 6,
+      "evidence": [
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "details"
+        }
+      ],
+      "title": "[News] International Mute Photo Festival: 2027 Call for Photography (Greece)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://drive.google.com/file/d/1h8TdcgL9GO-gKWc3VmX4saFE-FhQOSnd/view",
+      "applyUrl": "https://drive.google.com/file/d/1h8TdcgL9GO-gKWc3VmX4saFE-FhQOSnd/view",
+      "discoveryUrl": "https://on-the-move.org/news/international-mute-photo-festival-2027-call-photography-greece",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Tue, 01 Sep 2026 15:46:01 +0000",
+      "discoveredDate": "2026-09-02",
+      "status": "unverified-lead"
     }
   ],
   "sources": [
@@ -4644,9 +4614,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 172,
-      "contentHash": "b0dd5628c22edb7715d093db5a9418e6be95f69213b2d61669db6a863397396b",
-      "lastChangedDate": "2026-08-31",
+      "itemCount": 171,
+      "contentHash": "b62303c1791b4c0cfacb52be7f9a55f141e18a576646c6df222fa8cbfd5689f4",
+      "lastChangedDate": "2026-09-02",
       "error": null
     },
     {
@@ -4656,9 +4626,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cohere",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 146,
-      "contentHash": "16e9d42d92107dcbab91b2411a7f9f03627e9faff80a09befcfa99fddae915ca",
-      "lastChangedDate": "2026-08-31",
+      "itemCount": 139,
+      "contentHash": "414df64be792670240aff1cba2ef01dfab97ae6c00b8b6bcc3d1066f15627c04",
+      "lastChangedDate": "2026-09-02",
       "error": null
     },
     {
@@ -4692,9 +4662,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cantina",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 20,
-      "contentHash": "54d5b1692d5c643096fd2b38605da3436c73327aedc3bb9d90c9f1ff320a5e22",
-      "lastChangedDate": null,
+      "itemCount": 19,
+      "contentHash": "3c37fdda12bbb76f35c6513e3067902dc7896cf417e80d99505762f4916cd756",
+      "lastChangedDate": "2026-09-02",
       "error": null
     },
     {
@@ -4716,9 +4686,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 571,
-      "contentHash": "67fdf555c79330e6c7622f84d646ebb7cd87442d40b38c5a5778d6765345f5af",
-      "lastChangedDate": "2026-08-31",
+      "itemCount": 577,
+      "contentHash": "d9a46deac0657ab623dafccdcdbf322c11c7b0934b6a5f01a6fc3f9e5d0b64b4",
+      "lastChangedDate": "2026-09-02",
       "error": null
     },
     {
@@ -4728,9 +4698,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/neuralink/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 75,
-      "contentHash": "62ec0f7e75443e5179917b22a1f6e3d618529799f5cb500305532d63149c928c",
-      "lastChangedDate": "2026-08-31",
+      "itemCount": 77,
+      "contentHash": "850d060eff5482f32f894c621c5e75e341af9117373e0971006a43989839d273",
+      "lastChangedDate": "2026-09-02",
       "error": null
     },
     {
@@ -4740,9 +4710,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/goatgroup/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 11,
-      "contentHash": "14c0c7307da82bd8e7abf423e9e673f60e5bbb1ece789056e8b3ea41b87a8a09",
-      "lastChangedDate": null,
+      "itemCount": 2,
+      "contentHash": "d2f2826d42ac5c60db33bc5457083bc4ca6cc2ce471cd36fd3eeaf3ba644bc2a",
+      "lastChangedDate": "2026-09-02",
       "error": null
     },
     {
@@ -4752,9 +4722,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/stitchfix/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 12,
-      "contentHash": "528a6641b4fb0f2ad7658342851ba9af694cf9c597039fbb880eb7beab1b49dc",
-      "lastChangedDate": "2026-08-31",
+      "itemCount": 13,
+      "contentHash": "df90a3bd88d924c31aeefcffd3154682c8ead0cdfa616dd32a7e1e79aaa3f0c5",
+      "lastChangedDate": "2026-09-02",
       "error": null
     },
     {
@@ -4765,8 +4735,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 10,
-      "contentHash": "c98adf42c40cec7ac8b99ce6e0ab52da13480f231a074ebcd05f9028a1304f83",
-      "lastChangedDate": "2026-08-31",
+      "contentHash": "f59a70eee9c60d196e25003c3af427878ab28c939f050bbadb1eb32459a32b7d",
+      "lastChangedDate": "2026-09-02",
       "error": null
     },
     {
@@ -4798,12 +4768,12 @@
       "label": "EURAXESS Jobs",
       "kind": "watch",
       "url": "https://euraxess.ec.europa.eu/jobs/search",
-      "status": "ok",
-      "httpStatus": 200,
+      "status": "error",
+      "httpStatus": null,
       "itemCount": 0,
       "contentHash": "56819009cc54c73fa7a699394e810d48b33c3613e3ac7389366e3e23480a952a",
       "lastChangedDate": "2026-08-31",
-      "error": null
+      "error": "HTTP 403"
     },
     {
       "id": "watch-rijksakademie",
@@ -4813,8 +4783,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "a50e85ca47f502768dd81ddb2b754719f6c45911ed8c8c576280fb553ff17d43",
-      "lastChangedDate": "2026-08-30",
+      "contentHash": "6eb14fe8b85fc47ee421ce573cb31016702452e84e9a4de74e82e9c884b12ebb",
+      "lastChangedDate": "2026-09-02",
       "error": null
     }
   ]
