@@ -1,12 +1,12 @@
 {
-  "generatedDate": "2026-09-02",
+  "generatedDate": "2026-09-04",
   "schemaVersion": 1,
   "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
   "summary": {
-    "candidates": 132,
+    "candidates": 133,
     "mohammad": 124,
-    "arzoo": 8,
-    "sourceErrors": 1,
+    "arzoo": 9,
+    "sourceErrors": 0,
     "excludedExisting": 9
   },
   "profiles": {
@@ -1291,38 +1291,38 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "1104e972715c137f0227",
-      "person": "mohammad",
-      "personLabel": "محمد",
+      "candidateId": "7a3a34cda703b8e42552",
+      "person": "arzoo",
+      "personLabel": "آرزو",
       "score": 16,
       "evidence": [
         {
-          "keyword": "machine learning",
+          "keyword": "residency",
           "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "sustainable",
+          "weight": 5,
           "field": "details"
         },
         {
-          "keyword": "applied ai",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
+          "keyword": "sustainability",
+          "weight": 5,
           "field": "details"
         }
       ],
-      "title": "Commercial Legal Counsel, APAC",
-      "organization": "Mistral AI",
-      "location": "Singapore",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/2be156c7-183a-49a3-89c6-62b8539b90f0",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/2be156c7-183a-49a3-89c6-62b8539b90f0/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-07-10T10:48:15.516+00:00",
-      "discoveredDate": "2026-08-30",
+      "title": "[News] Рroto produkciia Foundation/Ukrainian-Danish Youth House: Residency for Performing Arts Professionals from Ukraine, Moldova, and Sakartvelo (Moldova)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://artaudfellowship-ukraine.org/en/open-call-residency-for-performing-arts-professionals-from-ukraine-mykolaiv-region-moldova-and-sakartvelo/",
+      "applyUrl": "https://artaudfellowship-ukraine.org/en/open-call-residency-for-performing-arts-professionals-from-ukraine-mykolaiv-region-moldova-and-sakartvelo/",
+      "discoveryUrl": "https://on-the-move.org/news/rroto-produkciia-foundationukrainian-danish-youth-house-residency-performing-arts",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Thu, 03 Sep 2026 08:14:36 +0000",
+      "discoveredDate": "2026-09-04",
       "status": "unverified-lead"
     },
     {
@@ -1933,6 +1933,76 @@
       "sourceType": "curated-rss",
       "publishedAt": "Thu, 27 Aug 2026 13:11:42 +0000",
       "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "cdf425fc1efe18de0246",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Developer Relations Engineer",
+      "organization": "Mistral AI",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/c1d29d94-c1d5-4168-92fd-a01cc176e471",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/c1d29d94-c1d5-4168-92fd-a01cc176e471/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-09-03T20:57:30.769+00:00",
+      "discoveredDate": "2026-09-04",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "6a60ee5152f1fb4ae48b",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Research Engineer, ML Platform",
+      "organization": "Mistral AI",
+      "location": "Palo Alto",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/51c1df24-53f1-4ec9-9523-cd40c88e00cf",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/51c1df24-53f1-4ec9-9523-cd40c88e00cf/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-09-03T16:28:04.821+00:00",
+      "discoveredDate": "2026-09-04",
       "status": "unverified-lead"
     },
     {
@@ -3426,36 +3496,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "7e5ba21c3bc1f7e7121b",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 10,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        }
-      ],
-      "title": "Business Development Representative",
-      "organization": "Cohere",
-      "location": "Toronto",
-      "url": "https://jobs.ashbyhq.com/cohere/e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-cohere",
-      "sourceLabel": "Cohere",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-08-31T16:57:04.408+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "618aab8b31f72c424dcf",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -3481,7 +3521,37 @@
       "sourceId": "ashby-cohere",
       "sourceLabel": "Cohere",
       "sourceType": "job-board-api",
-      "publishedAt": "2026-08-28T16:59:53.422+00:00",
+      "publishedAt": "2026-09-02T23:02:11.382+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "7e5ba21c3bc1f7e7121b",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Business Development Representative",
+      "organization": "Cohere",
+      "location": "Toronto",
+      "url": "https://jobs.ashbyhq.com/cohere/e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-09-02T13:46:47.656+00:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
@@ -4556,31 +4626,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "c12a03c5bf8100f81eca",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 7,
-      "evidence": [
-        {
-          "keyword": "bci",
-          "weight": 7,
-          "field": "title"
-        }
-      ],
-      "title": "Software Engineer Intern, BCI Applications",
-      "organization": "Neuralink",
-      "location": "Austin, Texas, United States; South San Francisco, California, United States",
-      "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003",
-      "applyUrl": "https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003",
-      "discoveryUrl": null,
-      "sourceId": "greenhouse-neuralink",
-      "sourceLabel": "Neuralink",
-      "sourceType": "job-board-api",
-      "publishedAt": "2025-05-30T19:47:45-04:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "e551a5be1f899d961267",
       "person": "arzoo",
       "personLabel": "آرزو",
@@ -4614,9 +4659,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 171,
-      "contentHash": "b62303c1791b4c0cfacb52be7f9a55f141e18a576646c6df222fa8cbfd5689f4",
-      "lastChangedDate": "2026-09-02",
+      "itemCount": 174,
+      "contentHash": "1c9ebc3a7352c1421034f4f53f9377370a8c210d89c0fdb987e9fb52f176eee0",
+      "lastChangedDate": "2026-09-04",
       "error": null
     },
     {
@@ -4626,9 +4671,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cohere",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 139,
-      "contentHash": "414df64be792670240aff1cba2ef01dfab97ae6c00b8b6bcc3d1066f15627c04",
-      "lastChangedDate": "2026-09-02",
+      "itemCount": 144,
+      "contentHash": "ba9138b5620e28cc58408060b5b43b967fb9c632d5950334cf15f6dce6edade4",
+      "lastChangedDate": "2026-09-04",
       "error": null
     },
     {
@@ -4686,9 +4731,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 577,
-      "contentHash": "d9a46deac0657ab623dafccdcdbf322c11c7b0934b6a5f01a6fc3f9e5d0b64b4",
-      "lastChangedDate": "2026-09-02",
+      "itemCount": 590,
+      "contentHash": "b054e21e502c829e6a9e5f48204a4d1365079ead92d8800b6e4c30f41e638f3b",
+      "lastChangedDate": "2026-09-04",
       "error": null
     },
     {
@@ -4698,9 +4743,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/neuralink/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 77,
-      "contentHash": "850d060eff5482f32f894c621c5e75e341af9117373e0971006a43989839d273",
-      "lastChangedDate": "2026-09-02",
+      "itemCount": 76,
+      "contentHash": "6f73a7197becec1a90c20e55a79a343e587f2d4c70050462180368264d581f97",
+      "lastChangedDate": "2026-09-04",
       "error": null
     },
     {
@@ -4710,9 +4755,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/goatgroup/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 2,
-      "contentHash": "d2f2826d42ac5c60db33bc5457083bc4ca6cc2ce471cd36fd3eeaf3ba644bc2a",
-      "lastChangedDate": "2026-09-02",
+      "itemCount": 3,
+      "contentHash": "0f10736cc5d63043808cf100d7f0784fa2cd6f83f101d820b985223786f2eba0",
+      "lastChangedDate": "2026-09-04",
       "error": null
     },
     {
@@ -4722,9 +4767,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/stitchfix/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 13,
-      "contentHash": "df90a3bd88d924c31aeefcffd3154682c8ead0cdfa616dd32a7e1e79aaa3f0c5",
-      "lastChangedDate": "2026-09-02",
+      "itemCount": 17,
+      "contentHash": "319affeb0240f1c1b5634ebac3aa2ffa8d1eda6a6641778e4896c8488439138d",
+      "lastChangedDate": "2026-09-04",
       "error": null
     },
     {
@@ -4735,8 +4780,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 10,
-      "contentHash": "f59a70eee9c60d196e25003c3af427878ab28c939f050bbadb1eb32459a32b7d",
-      "lastChangedDate": "2026-09-02",
+      "contentHash": "ff05ab2eb314e3e6de0fefdc07dfe2a35b3cf28cb81224d4efb0f0598a9707ba",
+      "lastChangedDate": "2026-09-04",
       "error": null
     },
     {
@@ -4759,8 +4804,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "8e04c09efadfae130fc7cd777ed295fa7877c563f2f810412eb43bbb127b696f",
-      "lastChangedDate": "2026-08-30",
+      "contentHash": "455997fcec2e8faacbfafba5ef4b32b39ac5e9e57025ca6a4547368a2ea5e07c",
+      "lastChangedDate": "2026-09-04",
       "error": null
     },
     {
@@ -4768,12 +4813,12 @@
       "label": "EURAXESS Jobs",
       "kind": "watch",
       "url": "https://euraxess.ec.europa.eu/jobs/search",
-      "status": "error",
-      "httpStatus": null,
+      "status": "ok",
+      "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "56819009cc54c73fa7a699394e810d48b33c3613e3ac7389366e3e23480a952a",
-      "lastChangedDate": "2026-08-31",
-      "error": "HTTP 403"
+      "contentHash": "91165ef497d8891b92d23e385808abb9a75760882b08a842847a1047cb6205fb",
+      "lastChangedDate": "2026-09-04",
+      "error": null
     },
     {
       "id": "watch-rijksakademie",
@@ -4783,8 +4828,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "6eb14fe8b85fc47ee421ce573cb31016702452e84e9a4de74e82e9c884b12ebb",
-      "lastChangedDate": "2026-09-02",
+      "contentHash": "95c6c094fa38765361db245e4f6db897270cb10376d14469ef07f09f6773ca17",
+      "lastChangedDate": "2026-09-04",
       "error": null
     }
   ]
