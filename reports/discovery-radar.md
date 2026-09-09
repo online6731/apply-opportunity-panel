@@ -1,13 +1,13 @@
 # Discovery radar
 
-Generated after a semantic change: **2026-09-07**  
+Generated after a semantic change: **2026-09-09**  
 **Unverified leads only.** A human must verify eligibility, deadline, funding, visa rules, fees and the real official application destination before adding anything to the main dashboard.
 
 ## Summary
 
-- Candidates: 135
-- Mohammad: 128
-- Arzoo: 7
+- Candidates: 137
+- Mohammad: 131
+- Arzoo: 6
 - Source errors: 0
 - Existing opportunities excluded: 9
 
@@ -47,7 +47,6 @@ Generated after a semantic change: **2026-09-07**
 | آرزو | 16 | [News] Рroto produkciia Foundation/Ukrainian-Danish Youth House: Residency for Performing Arts Professionals from Ukraine, Moldova, and Sakartvelo (Moldova) | On the Move | residency (+6), sustainable (+5), sustainability (+5) | [official](https://artaudfellowship-ukraine.org/en/open-call-residency-for-performing-arts-professionals-from-ukraine-mykolaiv-region-moldova-and-sakartvelo/) |
 | محمد | 16 | Lead Applied AI Engineer, Korea | Mistral AI | machine learning (+6), applied ai (+6), healthcare (+4) | [official](https://jobs.ashbyhq.com/mistral.ai/a50e295c-c615-4b72-a482-2987a4d10e91) |
 | محمد | 15 | Product Marketing Manager, Science | Mistral AI | machine learning (+6), foundation model (+5), healthcare (+4) | [official](https://jobs.ashbyhq.com/mistral.ai/696c62ac-9e3b-490b-813c-9a0fe0c8b6ae) |
-| آرزو | 14 | [News] IterCulture: Teatri Riflessi 2027 International Short Performance Competition (Italy) | On the Move | artist residency (+8), residency (+6) | [official](https://www.iterculture.eu/en/teatri-riflessi/tr2027/tr12/) |
 | محمد | 14 | Manager Applied AI Architecture, Healthcare & Life Sciences | Anthropic | applied ai (+6), life science (+4), healthcare (+4) | [official](https://job-boards.greenhouse.io/anthropic/jobs/5390890008) |
 | محمد | 14 | Member of Technical Staff, Multilingual | Cohere | research engineer (+6), research scientist (+6), python (+2) | [official](https://jobs.ashbyhq.com/cohere/a87be947-00f0-4a4c-a690-a4922f88f553) |
 | محمد | 14 | Team Lead (Engineering) | Planday / Xero | eeg (+7), bci (+7) | [official](https://jobs.ashbyhq.com/planday-from-xero/981a9bd4-6748-4dda-89b6-bfa8194f76ff) |
@@ -91,6 +90,7 @@ Generated after a semantic change: **2026-09-07**
 | محمد | 12 | AI Deployment Strategist, Physics - EMEA | Mistral AI | applied ai (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/f8b8ed83-d80f-4142-816e-054d23121d75) |
 | محمد | 12 | Lead Applied AI Engineer (Fullstack Focus) | Mistral AI | applied ai (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/52fc0112-06d1-49cb-9863-05df53db6642) |
 | محمد | 12 | Data Engineer, Senior | Mistral AI | machine learning (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/16a5a705-f08d-4e1a-9c2a-b6778d17afa7) |
+| محمد | 12 | Data Scientist | Mistral AI | machine learning (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/1d04f989-fa28-45bb-ac4f-60d4bf3f38bc) |
 | محمد | 12 | AI Deployment Strategist | Mistral AI | applied ai (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/44b8e5d7-2571-4d1a-939e-9aad7f200081) |
 | محمد | 12 | AI Deployment Strategist | Mistral AI | applied ai (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/ce5c2671-6db3-499c-928f-ea5a919d566e) |
 | محمد | 12 | AI Deployment Strategist | Mistral AI | applied ai (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/4b088dc3-d21a-4eab-8151-5159e0254ca7) |
@@ -110,6 +110,8 @@ Generated after a semantic change: **2026-09-07**
 | محمد | 11 | AI Scientist, Robotics | Mistral AI | deep learning (+5), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/c70522d8-73cb-46ed-9f9a-5cb807420485) |
 | محمد | 11 | Data Scientist (Forward Deployed) | Fundamental | machine learning (+6), foundation model (+5) | [official](https://jobs.ashbyhq.com/fundamental/cc862e89-7d13-4a6d-b15d-21703e44b7dd) |
 | آرزو | 10 | [News] German Commission for UNESCO: Fair Culture Charter Discussion Papers Call for Tender | On the Move | sustainable (+5), creative (+3), content (+2) | [official](https://www.fair-culture.org/) |
+| محمد | 10 | Head of Financial Systems | Mistral AI | applied ai (+6), healthcare (+4) | [official](https://jobs.ashbyhq.com/mistral.ai/5ad87243-8890-4724-b98d-5fe962840d7e) |
+| محمد | 10 | Solution Operations Manager, Value Realization | Mistral AI | applied ai (+6), healthcare (+4) | [official](https://jobs.ashbyhq.com/mistral.ai/2df2088b-09a8-4f0f-bc53-cca5bc031412) |
 | محمد | 10 | Senior Director, Solutions Architecture — Americas | Cohere | applied ai (+6), healthcare (+4) | [official](https://jobs.ashbyhq.com/cohere/1e6c4acf-d98a-46ac-bacb-d609ca1326c1) |
 | محمد | 10 | Business Development Representative | Cohere | machine learning (+6), healthcare (+4) | [official](https://jobs.ashbyhq.com/cohere/e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2) |
 | محمد | 10 | Business Development Representative - French Speaking | Cohere | machine learning (+6), healthcare (+4) | [official](https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89) |
@@ -155,18 +157,18 @@ Generated after a semantic change: **2026-09-07**
 
 | Source | Kind | Status | Items | Last change | Error |
 |---|---|---|---:|---|---|
-| Mistral AI | ashby | ok | 178 | 2026-09-07 | — |
-| Cohere | ashby | ok | 143 | 2026-09-07 | — |
+| Mistral AI | ashby | ok | 186 | 2026-09-09 | — |
+| Cohere | ashby | ok | 143 | 2026-09-09 | — |
 | Sona | ashby | ok | 12 | — | — |
 | Fundamental | ashby | ok | 18 | — | — |
-| Cantina | ashby | ok | 21 | 2026-09-07 | — |
+| Cantina | ashby | ok | 21 | 2026-09-09 | — |
 | Planday / Xero | ashby | ok | 9 | 2026-09-07 | — |
-| Anthropic | greenhouse | ok | 592 | 2026-09-07 | — |
-| Neuralink | greenhouse | ok | 78 | 2026-09-07 | — |
+| Anthropic | greenhouse | ok | 595 | 2026-09-09 | — |
+| Neuralink | greenhouse | ok | 79 | 2026-09-09 | — |
 | GOAT Group | greenhouse | ok | 3 | 2026-09-04 | — |
-| Stitch Fix | greenhouse | ok | 17 | 2026-09-07 | — |
-| On the Move | rss | ok | 10 | 2026-09-07 | — |
+| Stitch Fix | greenhouse | ok | 16 | 2026-09-09 | — |
+| On the Move | rss | ok | 10 | 2026-09-09 | — |
 | LOEWE Craft Prize | watch | ok | 0 | 2026-08-30 | — |
 | EACEA Erasmus Mundus Catalogue | watch | ok | 0 | 2026-09-04 | — |
-| EURAXESS Jobs | watch | ok | 0 | 2026-09-07 | — |
+| EURAXESS Jobs | watch | ok | 0 | 2026-09-09 | — |
 | Rijksakademie Open Calls | watch | ok | 0 | 2026-09-04 | — |
