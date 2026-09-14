@@ -1,13 +1,13 @@
 {
-  "generatedDate": "2026-09-11",
+  "generatedDate": "2026-09-14",
   "schemaVersion": 1,
   "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
   "summary": {
-    "candidates": 139,
-    "mohammad": 133,
+    "candidates": 141,
+    "mohammad": 135,
     "arzoo": 6,
     "sourceErrors": 0,
-    "excludedExisting": 9
+    "excludedExisting": 8
   },
   "profiles": {
     "mohammad": {
@@ -118,6 +118,51 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-07-02T17:48:59.330+00:00",
       "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "92731252c869b9e9900a",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 23,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "deep learning",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer - (Internship)",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-09-14T09:15:24.530+00:00",
+      "discoveredDate": "2026-09-14",
       "status": "unverified-lead"
     },
     {
@@ -1786,6 +1831,76 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "f060143e7686e97cfecf",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI Engineer, AI for Mistral",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/b85acb55-fe6d-4f63-80bb-6309dd26ec58",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/b85acb55-fe6d-4f63-80bb-6309dd26ec58/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-09-11T18:38:18.327+00:00",
+      "discoveredDate": "2026-09-14",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "d3edebd307c89a4e7b99",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Research Engineer, Full Stack",
+      "organization": "Mistral AI",
+      "location": "Palo Alto",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/cce4be06-ac42-4c69-9bcd-7f5dca6f5e3c",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/cce4be06-ac42-4c69-9bcd-7f5dca6f5e3c/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-09-11T15:18:15.865+00:00",
+      "discoveredDate": "2026-09-14",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "6dfd918873a82908acbe",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -1907,7 +2022,7 @@
           "field": "details"
         }
       ],
-      "title": "AI Developer Relations Engineer",
+      "title": "Developer Relations Engineer",
       "organization": "Mistral AI",
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/mistral.ai/c1d29d94-c1d5-4168-92fd-a01cc176e471",
@@ -3446,48 +3561,13 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "136eab1ef1164717aa26",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 10,
-      "evidence": [
-        {
-          "keyword": "sustainable",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "details"
-        },
-        {
-          "keyword": "content",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "[News] German Commission for UNESCO: Fair Culture Charter Discussion Papers Call for Tender",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.fair-culture.org/",
-      "applyUrl": "https://www.fair-culture.org/",
-      "discoveryUrl": "https://on-the-move.org/news/german-commission-unesco-fair-culture-charter-discussion-papers-call-tender",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Fri, 04 Sep 2026 11:05:01 +0000",
-      "discoveredDate": "2026-09-07",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "ada3e16469159d00bee5",
+      "candidateId": "618aab8b31f72c424dcf",
       "person": "mohammad",
       "personLabel": "محمد",
       "score": 10,
       "evidence": [
         {
-          "keyword": "research engineer",
+          "keyword": "applied ai",
           "weight": 6,
           "field": "details"
         },
@@ -3497,17 +3577,17 @@
           "field": "details"
         }
       ],
-      "title": "Compute Solution Architect",
-      "organization": "Mistral AI",
-      "location": "New York",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/6addff7a-13f6-4e21-bac3-ac823566ede6",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/6addff7a-13f6-4e21-bac3-ac823566ede6/application",
+      "title": "Senior Director, Solutions Architecture — Americas",
+      "organization": "Cohere",
+      "location": "United States",
+      "url": "https://jobs.ashbyhq.com/cohere/1e6c4acf-d98a-46ac-bacb-d609ca1326c1",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/1e6c4acf-d98a-46ac-bacb-d609ca1326c1/application",
       "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
       "sourceType": "job-board-api",
-      "publishedAt": "2026-09-10T11:36:05.907+00:00",
-      "discoveredDate": "2026-09-11",
+      "publishedAt": "2026-09-11T19:35:45.786+00:00",
+      "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
     {
@@ -3628,36 +3708,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-09-07T16:10:19.891+00:00",
       "discoveredDate": "2026-09-09",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "618aab8b31f72c424dcf",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 10,
-      "evidence": [
-        {
-          "keyword": "applied ai",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        }
-      ],
-      "title": "Senior Director, Solutions Architecture — Americas",
-      "organization": "Cohere",
-      "location": "United States",
-      "url": "https://jobs.ashbyhq.com/cohere/1e6c4acf-d98a-46ac-bacb-d609ca1326c1",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/1e6c4acf-d98a-46ac-bacb-d609ca1326c1/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-cohere",
-      "sourceLabel": "Cohere",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-09-02T23:02:11.382+00:00",
-      "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
     {
@@ -4809,6 +4859,31 @@
       "publishedAt": "Thu, 10 Sep 2026 09:18:28 +0000",
       "discoveredDate": "2026-09-11",
       "status": "unverified-lead"
+    },
+    {
+      "candidateId": "49ebbcdbc5a6c4aff040",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 6,
+      "evidence": [
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "details"
+        }
+      ],
+      "title": "[News] CIRKULUM Festival 2027 for Contemporary Circus Artists (Czech Republic)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfnS_3YWWzUfnlXFVMNTkLC9HZ_rF2H4miaLnbjObR_cYovHg/viewform",
+      "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfnS_3YWWzUfnlXFVMNTkLC9HZ_rF2H4miaLnbjObR_cYovHg/viewform",
+      "discoveryUrl": "https://on-the-move.org/news/cirkulum-festival-2027-contemporary-circus-artists-czech-republic",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Mon, 14 Sep 2026 08:25:45 +0000",
+      "discoveredDate": "2026-09-14",
+      "status": "unverified-lead"
     }
   ],
   "sources": [
@@ -4819,9 +4894,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 190,
-      "contentHash": "880b2f742da8b88a494113d15283cabfa9cdee157c0093d11daaa9fd60e4b937",
-      "lastChangedDate": "2026-09-11",
+      "itemCount": 195,
+      "contentHash": "52f0c55eaf3e72fdd12f8f3bf91ec4edde59977ec0d47fb962839f609804f618",
+      "lastChangedDate": "2026-09-14",
       "error": null
     },
     {
@@ -4831,9 +4906,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cohere",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 143,
-      "contentHash": "45eb4979c9fa3963623198ea7af1035fb7de44ccd083045510a48f6d27215ad9",
-      "lastChangedDate": "2026-09-11",
+      "itemCount": 144,
+      "contentHash": "1489f549f4ad2aef979d01eb6384bc5008037fa39ecadd70c7d5eb5839a69cfe",
+      "lastChangedDate": "2026-09-14",
       "error": null
     },
     {
@@ -4844,8 +4919,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 13,
-      "contentHash": "a496b3856bdf734e9248a147dec4386f99533a513366d93a17280557fdc4274c",
-      "lastChangedDate": "2026-09-11",
+      "contentHash": "15019ea22e37a0cbca0bb2610daad395d15104611586c427299c730132ed5ef6",
+      "lastChangedDate": "2026-09-14",
       "error": null
     },
     {
@@ -4879,9 +4954,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/planday-from-xero",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 8,
-      "contentHash": "7a2a96ec6ba47717afff8b369e08e849c0f70278a0eac2e10344f7fbf6e85153",
-      "lastChangedDate": "2026-09-11",
+      "itemCount": 7,
+      "contentHash": "da98bdedf864921b7f8f97a684b7171a411667c1c517d4cb138d108c0fa32d07",
+      "lastChangedDate": "2026-09-14",
       "error": null
     },
     {
@@ -4891,9 +4966,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 594,
-      "contentHash": "af9adef7d64ffd2f36e44dd26a1cc7cfd26d84ebf68bcec31f58983121382849",
-      "lastChangedDate": "2026-09-11",
+      "itemCount": 596,
+      "contentHash": "faab299054c5ce4bfe730d0ac7a3930e683c35c8518eeeb0ae3d98a26248cd35",
+      "lastChangedDate": "2026-09-14",
       "error": null
     },
     {
@@ -4904,8 +4979,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 79,
-      "contentHash": "37e9c2cb939e2ac352ddbd415966df90b6f66120c7fdaf434d3b6eb1525a5ff6",
-      "lastChangedDate": "2026-09-11",
+      "contentHash": "d85be84d4ba5f96e9e9b90d7fd43a4bd77c8ccf395977bd08eefccf86717b936",
+      "lastChangedDate": "2026-09-14",
       "error": null
     },
     {
@@ -4928,8 +5003,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 16,
-      "contentHash": "0690799fffbe5480e003d3206222f3a29882f95bb4356cf74a80d0f0a7abd62c",
-      "lastChangedDate": "2026-09-11",
+      "contentHash": "d849daa0fe02d1072881460a0833abae9c8fd1fb9df3adb77af7261d9ef9205a",
+      "lastChangedDate": "2026-09-14",
       "error": null
     },
     {
@@ -4940,8 +5015,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 10,
-      "contentHash": "2b3fdb1e3158f6bc9f8f9eace0909d7c463515d6615d115fd9996d5470fcfcc4",
-      "lastChangedDate": "2026-09-11",
+      "contentHash": "ba490e321fed13d0a3ab48f10d857ec2da089d3d760c46133a9afddc5bcceb47",
+      "lastChangedDate": "2026-09-14",
       "error": null
     },
     {
@@ -4976,8 +5051,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "cb8b250906cd84b29097c9f6d452a9afc25838e1f782ed95d0a320cdb917fe43",
-      "lastChangedDate": "2026-09-11",
+      "contentHash": "7cbf8b82b8ac17d970b33eeff379b8a97d2c8033eb4455c5b92bfb910ca93933",
+      "lastChangedDate": "2026-09-14",
       "error": null
     },
     {
