@@ -1,11 +1,11 @@
 {
-  "generatedDate": "2026-09-14",
+  "generatedDate": "2026-09-16",
   "schemaVersion": 1,
   "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
   "summary": {
     "candidates": 141,
-    "mohammad": 135,
-    "arzoo": 6,
+    "mohammad": 134,
+    "arzoo": 7,
     "sourceErrors": 0,
     "excludedExisting": 8
   },
@@ -526,6 +526,46 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "91805458212ed7422f1b",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 20,
+      "evidence": [
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "sustainable",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "sustainability",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "materials",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "[News] CONVIVIUM: CONVIVIAL FOODSCAPES Residency for Visual Artists (Portugal)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://quintadasrelvas.pt/convivialfoodscapes/",
+      "applyUrl": "https://quintadasrelvas.pt/convivialfoodscapes/",
+      "discoveryUrl": "https://on-the-move.org/news/convivium-convivial-foodscapes-residency-visual-artists-portugal",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Mon, 14 Sep 2026 13:40:56 +0000",
+      "discoveredDate": "2026-09-16",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "05df35a15421741a011e",
       "person": "arzoo",
       "personLabel": "آرزو",
@@ -563,46 +603,6 @@
       "sourceType": "curated-rss",
       "publishedAt": "Thu, 10 Sep 2026 09:40:10 +0000",
       "discoveredDate": "2026-09-11",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "0ba45dba906674c8b8b3",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 19,
-      "evidence": [
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "sustainable",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "sustainability",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] VEIK: Light Art Residency Rottal Spring 2027 (Austria)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.blockheide-leuchtet.at/artist_in_residence.php",
-      "applyUrl": "https://www.blockheide-leuchtet.at/artist_in_residence.php",
-      "discoveryUrl": "https://on-the-move.org/news/veik-light-art-residency-rottal-spring-2027-austria",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Mon, 07 Sep 2026 04:00:00 +0000",
-      "discoveredDate": "2026-09-07",
       "status": "unverified-lead"
     },
     {
@@ -1166,6 +1166,81 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "062b02bc9534fb320ea3",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 17,
+      "evidence": [
+        {
+          "keyword": "cultural heritage",
+          "weight": 8,
+          "field": "details"
+        },
+        {
+          "keyword": "fashion",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "design",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Africa-Europe Partnerships for Culture: Mobility Scheme for Individuals",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.goethe.de/prj/aep/en/cal/ssa/mobility-grants-for-artists-an.html",
+      "applyUrl": "https://www.goethe.de/prj/aep/en/cal/ssa/mobility-grants-for-artists-an.html",
+      "discoveryUrl": "https://on-the-move.org/news/africa-europe-partnerships-culture-mobility-scheme-individuals",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Tue, 15 Sep 2026 13:42:26 +0000",
+      "discoveredDate": "2026-09-16",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "fbb5ae2ef9a370a96cd7",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 17,
+      "evidence": [
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "sustainability",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        },
+        {
+          "keyword": "design",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Skopje European Capital of Culture 2028: Project Proposals",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://skopje2028.mk/open-call-for-project-proposals/",
+      "applyUrl": "https://skopje2028.mk/open-call-for-project-proposals/",
+      "discoveryUrl": "https://on-the-move.org/news/skopje-european-capital-culture-2028-project-proposals",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Tue, 15 Sep 2026 04:00:00 +0000",
+      "discoveredDate": "2026-09-16",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "5b5fcc782f1512f7b5ae",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -1238,6 +1313,41 @@
       "sourceType": "job-board-api",
       "publishedAt": "2025-11-07T23:27:54.368+00:00",
       "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "2372b373d89dc5c9a728",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 16,
+      "evidence": [
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "materials",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Delfina Foundation: Residency for Visual Artists from Portugal and Portuguese-speaking African Nations 2027 (UK)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.delfinafoundation.com/open-calls/current/open-call-for-artists-from-portugal-or-portugese-speaking-african-nations/",
+      "applyUrl": "https://www.delfinafoundation.com/open-calls/current/open-call-for-artists-from-portugal-or-portugese-speaking-african-nations/",
+      "discoveryUrl": "https://on-the-move.org/news/delfina-foundation-residency-visual-artists-portugal-and-portuguese-speaking-african-nations",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Wed, 16 Sep 2026 04:00:00 +0000",
+      "discoveredDate": "2026-09-16",
       "status": "unverified-lead"
     },
     {
@@ -1343,41 +1453,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-08-03T16:33:45.506+00:00",
       "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "e073dfd6e30f31f3817c",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 14,
-      "evidence": [
-        {
-          "keyword": "open call",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "sustainability",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Skopje European Capital of Culture 2028: National and International Experts",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://skopje2028.mk/call-for-expressions-of-interest-for-independent-national-and-international-experts-for-the-evaluation-of-project-proposals/",
-      "applyUrl": "https://skopje2028.mk/call-for-expressions-of-interest-for-independent-national-and-international-experts-for-the-evaluation-of-project-proposals/",
-      "discoveryUrl": "https://on-the-move.org/news/skopje-european-capital-culture-2028-national-and-international-experts",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Wed, 09 Sep 2026 10:53:15 +0000",
-      "discoveredDate": "2026-09-11",
       "status": "unverified-lead"
     },
     {
@@ -3637,7 +3712,7 @@
           "field": "title"
         }
       ],
-      "title": "Applied AI Architect, Beneficial Deployments (Life Sciences)",
+      "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences)",
       "organization": "Anthropic",
       "location": "London, UK",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5413642008",
@@ -3857,36 +3932,6 @@
       "sourceLabel": "Mistral AI",
       "sourceType": "job-board-api",
       "publishedAt": "2026-07-27T18:43:05.348+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "a1d91b23df5f5c6a30c3",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 10,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        }
-      ],
-      "title": "Legal Counsel, Banking / Financing (Project finance)",
-      "organization": "Mistral AI",
-      "location": "Paris",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/665f13ce-685e-4eca-8aa4-76dcbd3e0765",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/665f13ce-685e-4eca-8aa4-76dcbd3e0765/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-07-10T10:54:09.664+00:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
@@ -4131,6 +4176,66 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "494e88c6400717397de5",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 9,
+      "evidence": [
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "design",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] HBK Braunschweig: Braunschweig Projects Residency Programme 2027–28 (Germany)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.hbk-bs.de/bs-projects-english/call-and-application-1/",
+      "applyUrl": "https://www.hbk-bs.de/bs-projects-english/call-and-application-1/",
+      "discoveryUrl": "https://on-the-move.org/news/hbk-braunschweig-braunschweig-projects-residency-programme-2027-28-germany",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Tue, 15 Sep 2026 04:15:00 +0000",
+      "discoveredDate": "2026-09-16",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "ba57268eb47b3390c421",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "life science",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Senior Account Executive",
+      "organization": "Cohere",
+      "location": "Stockholm",
+      "url": "https://jobs.ashbyhq.com/cohere/fd92000d-241c-4cf6-86b1-2d9ab796bcbf",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/fd92000d-241c-4cf6-86b1-2d9ab796bcbf/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-09-15T13:00:26.970+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "521a0d978ac90a1c24f5",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -4247,36 +4352,6 @@
       "sourceLabel": "Cohere",
       "sourceType": "job-board-api",
       "publishedAt": "2026-08-14T15:25:40.761+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "ba57268eb47b3390c421",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 8,
-      "evidence": [
-        {
-          "keyword": "life science",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        }
-      ],
-      "title": "Senior Account Executive",
-      "organization": "Cohere",
-      "location": "Stockholm",
-      "url": "https://jobs.ashbyhq.com/cohere/fd92000d-241c-4cf6-86b1-2d9ab796bcbf",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/fd92000d-241c-4cf6-86b1-2d9ab796bcbf/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-cohere",
-      "sourceLabel": "Cohere",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-08-14T15:25:00.640+00:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
@@ -4811,56 +4886,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "1810a37a6112b38fca19",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 6,
-      "evidence": [
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "title"
-        }
-      ],
-      "title": "[News] Ses12naus: Visual Arts Residency 2026–2027 (Spain)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://ses12naus.org/en/programa/open-call-2026-2027-2/",
-      "applyUrl": "https://ses12naus.org/en/programa/open-call-2026-2027-2/",
-      "discoveryUrl": "https://on-the-move.org/news/ses12naus-visual-arts-residency-2026-2027-spain",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Wed, 09 Sep 2026 13:25:41 +0000",
-      "discoveredDate": "2026-09-11",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "daafecfa74b7d54657ff",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 6,
-      "evidence": [
-        {
-          "keyword": "open call",
-          "weight": 6,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Kiruna 2029 European Capital of Culture: Artistic Projects and Early Ideas (Sweden)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://kiruna.se/2029",
-      "applyUrl": "https://kiruna.se/2029",
-      "discoveryUrl": "https://on-the-move.org/news/kiruna-2029-european-capital-culture-artistic-projects-and-early-ideas-sweden",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Thu, 10 Sep 2026 09:18:28 +0000",
-      "discoveredDate": "2026-09-11",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "49ebbcdbc5a6c4aff040",
       "person": "arzoo",
       "personLabel": "آرزو",
@@ -4894,9 +4919,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 195,
-      "contentHash": "52f0c55eaf3e72fdd12f8f3bf91ec4edde59977ec0d47fb962839f609804f618",
-      "lastChangedDate": "2026-09-14",
+      "itemCount": 191,
+      "contentHash": "66014efef028f2a6d4d142ba5cc7ea6bb56abd647ec22e6285ef45354541b92d",
+      "lastChangedDate": "2026-09-16",
       "error": null
     },
     {
@@ -4906,9 +4931,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cohere",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 144,
-      "contentHash": "1489f549f4ad2aef979d01eb6384bc5008037fa39ecadd70c7d5eb5839a69cfe",
-      "lastChangedDate": "2026-09-14",
+      "itemCount": 142,
+      "contentHash": "316de8be1eccdccbb3c55a441dd20700d532c52f0413ae2cbbe9cb079c4be0f3",
+      "lastChangedDate": "2026-09-16",
       "error": null
     },
     {
@@ -4942,9 +4967,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cantina",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 22,
-      "contentHash": "58d7f48016295b6c08078b8271f222a8d4c0cc78596bde813f09111f6059f665",
-      "lastChangedDate": "2026-09-11",
+      "itemCount": 21,
+      "contentHash": "933c5f9e6ec726714f5c48dbb779a35b79fca29e95133cc5e4669c8dd42406d0",
+      "lastChangedDate": "2026-09-16",
       "error": null
     },
     {
@@ -4955,8 +4980,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 7,
-      "contentHash": "da98bdedf864921b7f8f97a684b7171a411667c1c517d4cb138d108c0fa32d07",
-      "lastChangedDate": "2026-09-14",
+      "contentHash": "7e5f961c4594667182cc1643e76d2a343c1a9119ef47fd713971097b749a7a00",
+      "lastChangedDate": "2026-09-16",
       "error": null
     },
     {
@@ -4966,9 +4991,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 596,
-      "contentHash": "faab299054c5ce4bfe730d0ac7a3930e683c35c8518eeeb0ae3d98a26248cd35",
-      "lastChangedDate": "2026-09-14",
+      "itemCount": 595,
+      "contentHash": "fe47d6df86dc2638e284d6b704514874acee7bb602f11cac65fd227c315375c8",
+      "lastChangedDate": "2026-09-16",
       "error": null
     },
     {
@@ -4979,8 +5004,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 79,
-      "contentHash": "d85be84d4ba5f96e9e9b90d7fd43a4bd77c8ccf395977bd08eefccf86717b936",
-      "lastChangedDate": "2026-09-14",
+      "contentHash": "39e33463dd5a2f5a7509fb671bd40100f03c583a8dd854b517eef0aecf87bdcd",
+      "lastChangedDate": "2026-09-16",
       "error": null
     },
     {
@@ -5002,9 +5027,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/stitchfix/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 16,
-      "contentHash": "d849daa0fe02d1072881460a0833abae9c8fd1fb9df3adb77af7261d9ef9205a",
-      "lastChangedDate": "2026-09-14",
+      "itemCount": 17,
+      "contentHash": "90398957e2179e6c46d2f57f50f5c66d107b58edc523bb5e27ff36e0ef63faed",
+      "lastChangedDate": "2026-09-16",
       "error": null
     },
     {
@@ -5015,8 +5040,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 10,
-      "contentHash": "ba490e321fed13d0a3ab48f10d857ec2da089d3d760c46133a9afddc5bcceb47",
-      "lastChangedDate": "2026-09-14",
+      "contentHash": "314613bd4a1856b6d84c80aeaf3df13a65647f142525635a8ceb9da891f9af4a",
+      "lastChangedDate": "2026-09-16",
       "error": null
     },
     {
@@ -5039,8 +5064,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "455997fcec2e8faacbfafba5ef4b32b39ac5e9e57025ca6a4547368a2ea5e07c",
-      "lastChangedDate": "2026-09-04",
+      "contentHash": "6b16b241921729c9a1d6834e4672a2baad9d3ec375977075ed44a0371be0ba8d",
+      "lastChangedDate": "2026-09-16",
       "error": null
     },
     {
@@ -5051,8 +5076,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "7cbf8b82b8ac17d970b33eeff379b8a97d2c8033eb4455c5b92bfb910ca93933",
-      "lastChangedDate": "2026-09-14",
+      "contentHash": "92de031e78443a292d1ac90056cac551e1d301da11a90f439826c44c6e9e8bcd",
+      "lastChangedDate": "2026-09-16",
       "error": null
     },
     {
