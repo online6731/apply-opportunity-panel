@@ -1,11 +1,11 @@
 {
-  "generatedDate": "2026-09-18",
+  "generatedDate": "2026-09-21",
   "schemaVersion": 1,
   "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
   "summary": {
-    "candidates": 143,
+    "candidates": 142,
     "mohammad": 134,
-    "arzoo": 9,
+    "arzoo": 8,
     "sourceErrors": 0,
     "excludedExisting": 7
   },
@@ -603,6 +603,46 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-05-12T07:03:27.125+00:00",
       "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "dd19ebbbe1bc910b8aa7",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied Scientist (Internship in Paris or London)",
+      "organization": "Mistral AI",
+      "location": "Seoul",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/60ab6a5e-9b02-4ae7-a0fb-4c7d9ec0fdf8",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/60ab6a5e-9b02-4ae7-a0fb-4c7d9ec0fdf8/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-09-18T18:59:19.957+00:00",
+      "discoveredDate": "2026-09-21",
       "status": "unverified-lead"
     },
     {
@@ -1268,6 +1308,41 @@
       "sourceType": "curated-rss",
       "publishedAt": "Wed, 16 Sep 2026 04:00:00 +0000",
       "discoveredDate": "2026-09-16",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "77a6e2aca0d4468b9201",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 16,
+      "evidence": [
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "research scientist",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Talent Acquisition, Research - North America",
+      "organization": "Mistral AI",
+      "location": "Palo Alto",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/685e4183-7744-4f7e-94fb-1a7b587409ab",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/685e4183-7744-4f7e-94fb-1a7b587409ab/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-09-18T20:32:12.759+00:00",
+      "discoveredDate": "2026-09-21",
       "status": "unverified-lead"
     },
     {
@@ -3586,41 +3661,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "ac551c63e5c63df50f4e",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 11,
-      "evidence": [
-        {
-          "keyword": "deep learning",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "AI Scientist, Robotics",
-      "organization": "Mistral AI",
-      "location": "Paris",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/c70522d8-73cb-46ed-9f9a-5cb807420485",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/c70522d8-73cb-46ed-9f9a-5cb807420485/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-07-03T11:53:06.014+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "8afca88cecad9d3c0180",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -3651,7 +3691,7 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "558ed11304323f30f11c",
+      "candidateId": "e68468ca39004af7a40a",
       "person": "arzoo",
       "personLabel": "آرزو",
       "score": 10,
@@ -3675,14 +3715,14 @@
       "title": "[News] Call for Researchers &gt; Cultural Mobility Funding Guide – Focus on Africa (2027 Edition)",
       "organization": "On the Move",
       "location": "",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSe22LbH4_O9eXJhRZdkjBItZ97UoiAdKbqxI6-U7pxsms7SGQ/viewform",
-      "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe22LbH4_O9eXJhRZdkjBItZ97UoiAdKbqxI6-U7pxsms7SGQ/viewform",
+      "url": "https://form.jotform.com/262596860109061",
+      "applyUrl": "https://form.jotform.com/262596860109061",
       "discoveryUrl": "https://on-the-move.org/news/call-researchers-cultural-mobility-funding-guide-focus-africa-2027-edition",
       "sourceId": "on-the-move-rss",
       "sourceLabel": "On the Move",
       "sourceType": "curated-rss",
       "publishedAt": "Wed, 16 Sep 2026 07:09:31 +0000",
-      "discoveredDate": "2026-09-18",
+      "discoveredDate": "2026-09-21",
       "status": "unverified-lead"
     },
     {
@@ -3822,7 +3862,7 @@
           "field": "details"
         }
       ],
-      "title": "Head of Financial Systems",
+      "title": "Head of, Financial Systems Engineering",
       "organization": "Mistral AI",
       "location": "Paris",
       "url": "https://jobs.ashbyhq.com/mistral.ai/5ad87243-8890-4724-b98d-5fe962840d7e",
@@ -4152,7 +4192,7 @@
           "field": "details"
         }
       ],
-      "title": "Solution Operations Manager, Revenue Growth",
+      "title": "Solution Operations Manager, Verticalization",
       "organization": "Mistral AI",
       "location": "Paris",
       "url": "https://jobs.ashbyhq.com/mistral.ai/7a95bd55-84fc-40c6-ba0f-d2b0426ad3f1",
@@ -4223,36 +4263,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-06-24T13:51:42-04:00",
       "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "494e88c6400717397de5",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 9,
-      "evidence": [
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "design",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] HBK Braunschweig: Braunschweig Projects Residency Programme 2027–28 (Germany)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.hbk-bs.de/bs-projects-english/call-and-application-1/",
-      "applyUrl": "https://www.hbk-bs.de/bs-projects-english/call-and-application-1/",
-      "discoveryUrl": "https://on-the-move.org/news/hbk-braunschweig-braunschweig-projects-residency-programme-2027-28-germany",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Tue, 15 Sep 2026 04:15:00 +0000",
-      "discoveredDate": "2026-09-16",
       "status": "unverified-lead"
     },
     {
@@ -4587,36 +4597,6 @@
       "sourceLabel": "Cohere",
       "sourceType": "job-board-api",
       "publishedAt": "2026-03-23T12:25:55.605+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "88ab7e213112a0ea48e0",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 8,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Machine Learning Engineer, Images",
-      "organization": "Cantina",
-      "location": "Bay Area or Remote",
-      "url": "https://jobs.ashbyhq.com/cantina/5c01c77f-f15e-40cb-9d42-15c9c0491ea4",
-      "applyUrl": "https://jobs.ashbyhq.com/cantina/5c01c77f-f15e-40cb-9d42-15c9c0491ea4/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-cantina",
-      "sourceLabel": "Cantina",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-03-05T00:14:46.137+00:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
@@ -4979,9 +4959,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 195,
-      "contentHash": "03eb0d3da9250749a41818561e356ef7c80e508dc1d05a631b5b8e0473fcbf5a",
-      "lastChangedDate": "2026-09-18",
+      "itemCount": 198,
+      "contentHash": "15aa519eb20203a87f55d9fb3405f1020f20013ad7ba47f0c813eb4b3dcb6ded",
+      "lastChangedDate": "2026-09-21",
       "error": null
     },
     {
@@ -4992,8 +4972,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 142,
-      "contentHash": "27eda02d9c683ff7ad2f4cf7c4a6fca52a59999cc2d6e662f480c77c242ac7a4",
-      "lastChangedDate": "2026-09-18",
+      "contentHash": "8dd5ea55c07d9785d86bef38d5f589e9fcbb20750c58163b437d309e756e8bed",
+      "lastChangedDate": "2026-09-21",
       "error": null
     },
     {
@@ -5027,9 +5007,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cantina",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 21,
-      "contentHash": "933c5f9e6ec726714f5c48dbb779a35b79fca29e95133cc5e4669c8dd42406d0",
-      "lastChangedDate": "2026-09-16",
+      "itemCount": 20,
+      "contentHash": "00fb07bbd0fbddc7030e2b9f9aa55dd09ecc6955d6a6d49ed28762bfd7038e53",
+      "lastChangedDate": "2026-09-21",
       "error": null
     },
     {
@@ -5051,9 +5031,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 608,
-      "contentHash": "c1ce903ee756cb4571fba099b165b31ea7d036fa062358159e7656a8b70328ec",
-      "lastChangedDate": "2026-09-18",
+      "itemCount": 615,
+      "contentHash": "b1fc687af5d33b79a82683b0c2d3a5abb1bcafa5098895396172bf775542a864",
+      "lastChangedDate": "2026-09-21",
       "error": null
     },
     {
@@ -5064,8 +5044,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 77,
-      "contentHash": "2191f41ff59941104fc70e9fd7cf117b5995b5cf2377ce1b645f1d336727788f",
-      "lastChangedDate": "2026-09-18",
+      "contentHash": "61d70955e3c4565bc6e467b0b9a6d0ff958b07254351a34bb80831e2f5c15a3e",
+      "lastChangedDate": "2026-09-21",
       "error": null
     },
     {
@@ -5075,9 +5055,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/goatgroup/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 2,
-      "contentHash": "0c453be358d14f83d42f01b2669d5c29798304c1fc67a552891593ba97daff3f",
-      "lastChangedDate": "2026-09-18",
+      "itemCount": 3,
+      "contentHash": "5ccc2b614abc6a941a3016b1073490d5c834993853c53137457775b54c591727",
+      "lastChangedDate": "2026-09-21",
       "error": null
     },
     {
@@ -5087,9 +5067,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/stitchfix/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 14,
-      "contentHash": "8924876a28a59b3b16261a3935c27f8a73a2951f9d9d14f73043923aeac6be1a",
-      "lastChangedDate": "2026-09-18",
+      "itemCount": 15,
+      "contentHash": "daf7e4b44532c78506690c7c99835d57f826095ebb053955e4d86e073711f3e3",
+      "lastChangedDate": "2026-09-21",
       "error": null
     },
     {
@@ -5100,8 +5080,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 10,
-      "contentHash": "4d7368f9ddcb0e5fb63e228c42f5f679af9dc4ef92c4bfe5b070ac7afd833eea",
-      "lastChangedDate": "2026-09-18",
+      "contentHash": "c0f242cb2f11de747c80d588e36c6964ffb0be8bb1304eaedcbfbab4144cb45b",
+      "lastChangedDate": "2026-09-21",
       "error": null
     },
     {
@@ -5136,8 +5116,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "e1f3407f126ffdc72af51477d5c8d8ba8157454fea46e70df04c939c59ca6810",
-      "lastChangedDate": "2026-09-18",
+      "contentHash": "708b6cab9b2c57024c46b5023155205d760585a395f3695a5cbbe51bb4ca5dca",
+      "lastChangedDate": "2026-09-21",
       "error": null
     },
     {
