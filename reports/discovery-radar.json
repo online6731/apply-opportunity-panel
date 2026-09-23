@@ -1,11 +1,11 @@
 {
-  "generatedDate": "2026-09-21",
+  "generatedDate": "2026-09-23",
   "schemaVersion": 1,
   "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
   "summary": {
-    "candidates": 142,
-    "mohammad": 134,
-    "arzoo": 8,
+    "candidates": 139,
+    "mohammad": 133,
+    "arzoo": 6,
     "sourceErrors": 0,
     "excludedExisting": 7
   },
@@ -399,7 +399,7 @@
         {
           "keyword": "machine learning",
           "weight": 6,
-          "field": "title"
+          "field": "details"
         },
         {
           "keyword": "applied ai",
@@ -422,7 +422,7 @@
           "field": "details"
         }
       ],
-      "title": "Applied AI, Forward Deployed Machine Learning Engineer, Critical and Sovereign Institutions, EMEA",
+      "title": "Applied AI - Forward Deployed Engineer - Defense",
       "organization": "Mistral AI",
       "location": "Paris",
       "url": "https://jobs.ashbyhq.com/mistral.ai/8ba58450-68eb-4009-a34b-b9d402414f39",
@@ -526,6 +526,126 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "f4fcd1bc545d09684f27",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 22,
+      "evidence": [
+        {
+          "keyword": "craft",
+          "weight": 7,
+          "field": "details"
+        },
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "fashion",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Make-a-thek: Mobility Scheme and Knowledge Exchange Programme 2026–2027",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.makeathek.eu/opencall",
+      "applyUrl": "https://www.makeathek.eu/opencall",
+      "discoveryUrl": "https://on-the-move.org/news/make-thek-mobility-scheme-and-knowledge-exchange-programme-2026-2027",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Tue, 22 Sep 2026 10:04:27 +0000",
+      "discoveredDate": "2026-09-23",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "748da6dcf1489d739788",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 21,
+      "evidence": [
+        {
+          "keyword": "artist residency",
+          "weight": 8,
+          "field": "details"
+        },
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "materials",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "design",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] EU Delegation to the United States of America: Transatlantic Stars Programme 2027 (USA)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://mailchi.mp/trsproject/3q8lcvd353",
+      "applyUrl": "https://mailchi.mp/trsproject/3q8lcvd353",
+      "discoveryUrl": "https://on-the-move.org/news/eu-delegation-united-states-america-transatlantic-stars-programme-2027-usa",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Tue, 22 Sep 2026 09:15:11 +0000",
+      "discoveredDate": "2026-09-23",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "0aa10d7b0fa4b55cd649",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 19,
+      "evidence": [
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "materials",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] National Asian Culture Center: ACC NEXT Emerging Asian Artists International 2027 (South Korea)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.acc.go.kr/en/board/board.do?PID=1001&amp;boardID=NOTICE&amp;action=Read&amp;idx=2866",
+      "applyUrl": "https://www.acc.go.kr/en/board/board.do?PID=1001&amp;boardID=NOTICE&amp;action=Read&amp;idx=2866",
+      "discoveryUrl": "https://on-the-move.org/news/national-asian-culture-center-acc-next-emerging-asian-artists-international-2027-south-korea",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Wed, 23 Sep 2026 04:30:00 +0000",
+      "discoveredDate": "2026-09-23",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "d24bbb66d3ab88182c7f",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -603,6 +723,46 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-05-12T07:03:27.125+00:00",
       "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "6705cb778014e9372909",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Deployment Strategist, AI4Eng",
+      "organization": "Mistral AI",
+      "location": "Singapore",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/02872623-51af-4d91-8634-4d8abbc0694a",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/02872623-51af-4d91-8634-4d8abbc0694a/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-09-23T06:31:07.157+00:00",
+      "discoveredDate": "2026-09-23",
       "status": "unverified-lead"
     },
     {
@@ -1166,41 +1326,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "062b02bc9534fb320ea3",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 17,
-      "evidence": [
-        {
-          "keyword": "cultural heritage",
-          "weight": 8,
-          "field": "details"
-        },
-        {
-          "keyword": "fashion",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "design",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Africa-Europe Partnerships for Culture: Mobility Scheme for Individuals",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.goethe.de/prj/aep/en/cal/ssa/mobility-grants-for-artists-an.html",
-      "applyUrl": "https://www.goethe.de/prj/aep/en/cal/ssa/mobility-grants-for-artists-an.html",
-      "discoveryUrl": "https://on-the-move.org/news/africa-europe-partnerships-culture-mobility-scheme-individuals",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Tue, 15 Sep 2026 13:42:26 +0000",
-      "discoveredDate": "2026-09-16",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "5b5fcc782f1512f7b5ae",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -1276,7 +1401,7 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "2372b373d89dc5c9a728",
+      "candidateId": "5c88f09ac533bbae2e81",
       "person": "arzoo",
       "personLabel": "آرزو",
       "score": 16,
@@ -1297,17 +1422,17 @@
           "field": "details"
         }
       ],
-      "title": "[News] Delfina Foundation: Residency for Visual Artists from Portugal and Portuguese-speaking African Nations 2027 (UK)",
+      "title": "[News] Gasworks: 2027 Residency for Artists Based in East Africa (UK)",
       "organization": "On the Move",
       "location": "",
-      "url": "https://www.delfinafoundation.com/open-calls/current/open-call-for-artists-from-portugal-or-portugese-speaking-african-nations/",
-      "applyUrl": "https://www.delfinafoundation.com/open-calls/current/open-call-for-artists-from-portugal-or-portugese-speaking-african-nations/",
-      "discoveryUrl": "https://on-the-move.org/news/delfina-foundation-residency-visual-artists-portugal-and-portuguese-speaking-african-nations",
+      "url": "https://www.gasworks.org.uk/opportunities/residency-open-call-for-artists-based-in-east-africa-2027",
+      "applyUrl": "https://www.gasworks.org.uk/opportunities/residency-open-call-for-artists-based-in-east-africa-2027",
+      "discoveryUrl": "https://on-the-move.org/news/gasworks-2027-residency-artists-based-east-africa-uk",
       "sourceId": "on-the-move-rss",
       "sourceLabel": "On the Move",
       "sourceType": "curated-rss",
-      "publishedAt": "Wed, 16 Sep 2026 04:00:00 +0000",
-      "discoveredDate": "2026-09-16",
+      "publishedAt": "Tue, 22 Sep 2026 08:38:08 +0000",
+      "discoveredDate": "2026-09-23",
       "status": "unverified-lead"
     },
     {
@@ -1413,41 +1538,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-06-18T18:30:08.048+00:00",
       "discoveredDate": "2026-09-11",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "609416fbc6f394468c66",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 15,
-      "evidence": [
-        {
-          "keyword": "open call",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] El Graner: Arts Factory International Residency Grant 2027 in Dance and the Performing Arts (Spain)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://mercatflors.cat/en/beca/2027-call-for-proposals-for-creative-grants-el-graner-fabrica-de-creacio/",
-      "applyUrl": "https://mercatflors.cat/en/beca/2027-call-for-proposals-for-creative-grants-el-graner-fabrica-de-creacio/",
-      "discoveryUrl": "https://on-the-move.org/news/el-graner-arts-factory-international-residency-grant-2027-dance-and-performing-arts-spain",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Thu, 17 Sep 2026 12:56:21 +0000",
-      "discoveredDate": "2026-09-18",
       "status": "unverified-lead"
     },
     {
@@ -2451,41 +2541,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "5874b6ddd364e0556cab",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 12,
-      "evidence": [
-        {
-          "keyword": "applied ai",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris",
-      "organization": "Mistral AI",
-      "location": "Paris",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/0b342cda-4a57-4604-9d5b-48373e8e85ea",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/0b342cda-4a57-4604-9d5b-48373e8e85ea/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-07-21T09:35:28.297+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "1df8ca0fd4de52dcb705",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -3382,7 +3437,7 @@
           "field": "details"
         }
       ],
-      "title": "Forward Deployed Engineer, Agentic Platform (UK/Europe)",
+      "title": "Forward Deployed Engineer, Agentic Platform (Europe)",
       "organization": "Cohere",
       "location": "Europe",
       "url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0",
@@ -3536,36 +3591,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "9a104df47f6be20c9176",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 11,
-      "evidence": [
-        {
-          "keyword": "cultural heritage",
-          "weight": 8,
-          "field": "details"
-        },
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "title"
-        }
-      ],
-      "title": "[News] Africa-Europe Partnerships for Culture: Grants for Creative and Artistic Practitioners in Southern Africa 2nd Call",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.goethe.de/prj/aep/en/cal/sna.html",
-      "applyUrl": "https://www.goethe.de/prj/aep/en/cal/sna.html",
-      "discoveryUrl": "https://on-the-move.org/news/africa-europe-partnerships-culture-grants-creative-and-artistic-practitioners-southern-0",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Thu, 17 Sep 2026 13:47:57 +0000",
-      "discoveredDate": "2026-09-18",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "a3dfb6863a09f078bece",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -3626,41 +3651,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "94a3efdd2ff2f76cf084",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 11,
-      "evidence": [
-        {
-          "keyword": "deep learning",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Applied Scientist, AI4Engineering",
-      "organization": "Mistral AI",
-      "location": "Paris",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/556595b2-d78b-486e-a3b2-14ad533f8caa",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/556595b2-d78b-486e-a3b2-14ad533f8caa/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-07-10T10:42:11.671+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "8afca88cecad9d3c0180",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -3688,41 +3678,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-06-16T12:16:27.535+00:00",
       "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "e68468ca39004af7a40a",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 10,
-      "evidence": [
-        {
-          "keyword": "materials",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "details"
-        },
-        {
-          "keyword": "design",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Call for Researchers &gt; Cultural Mobility Funding Guide – Focus on Africa (2027 Edition)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://form.jotform.com/262596860109061",
-      "applyUrl": "https://form.jotform.com/262596860109061",
-      "discoveryUrl": "https://on-the-move.org/news/call-researchers-cultural-mobility-funding-guide-focus-africa-2027-edition",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Wed, 16 Sep 2026 07:09:31 +0000",
-      "discoveredDate": "2026-09-21",
       "status": "unverified-lead"
     },
     {
@@ -4263,101 +4218,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-06-24T13:51:42-04:00",
       "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "7871bf26e73ccd9a295f",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 9,
-      "evidence": [
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Kino Úsmev: Art Connect Residency 2027 (Slovakia)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://kinousmev.sk/article-detail/6aa816c44246b6cfdbb208dc/",
-      "applyUrl": "https://kinousmev.sk/article-detail/6aa816c44246b6cfdbb208dc/",
-      "discoveryUrl": "https://on-the-move.org/news/kino-usmev-art-connect-residency-2027-slovakia",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Thu, 17 Sep 2026 11:58:33 +0000",
-      "discoveredDate": "2026-09-18",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "9ca5136ff91fa7e430c8",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 9,
-      "evidence": [
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] European Media Art Platform Residency Programme 2027",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://call.emare.eu/",
-      "applyUrl": "https://call.emare.eu/",
-      "discoveryUrl": "https://on-the-move.org/news/european-media-art-platform-residency-programme-2027",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Fri, 18 Sep 2026 04:15:00 +0000",
-      "discoveredDate": "2026-09-18",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "764b810512dd2ad54d21",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 8,
-      "evidence": [
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "details"
-        },
-        {
-          "keyword": "social media",
-          "weight": 3,
-          "field": "details"
-        },
-        {
-          "keyword": "content",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Africa-Europe Partnerships for Culture: Connect and Create Relay Scheme 2027",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.institutfrancais.com/en/program/project-support/connect-create-strengthen-cultural-ties-between-Africa-and-Europe",
-      "applyUrl": "https://www.institutfrancais.com/en/program/project-support/connect-create-strengthen-cultural-ties-between-Africa-and-Europe",
-      "discoveryUrl": "https://on-the-move.org/news/africa-europe-partnerships-culture-connect-and-create-relay-scheme-2027",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Fri, 18 Sep 2026 04:00:00 +0000",
-      "discoveredDate": "2026-09-18",
       "status": "unverified-lead"
     },
     {
@@ -4949,6 +4809,56 @@
       "publishedAt": "2025-05-30T19:47:45-04:00",
       "discoveredDate": "2026-09-07",
       "status": "unverified-lead"
+    },
+    {
+      "candidateId": "03e5655dc3c69fd65fbe",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 6,
+      "evidence": [
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "details"
+        }
+      ],
+      "title": "[News] IETM Global Connect Programme for Supported Membership 2027 (Cyprus)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.ietm.org/en/projects/ietm-global-connect",
+      "applyUrl": "https://www.ietm.org/en/projects/ietm-global-connect",
+      "discoveryUrl": "https://on-the-move.org/news/ietm-global-connect-programme-supported-membership-2027-cyprus",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Wed, 23 Sep 2026 04:15:00 +0000",
+      "discoveredDate": "2026-09-23",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "bda90fee21ab67c4cd59",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 6,
+      "evidence": [
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
+        }
+      ],
+      "title": "[News] Ubah Rumah Residency 2027/2028 for Southeast Asian Artists (Indonesia)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.ubahrumah.com/ubah-rumah-residency/ubah-rumah-residency-open-call",
+      "applyUrl": "https://www.ubahrumah.com/ubah-rumah-residency/ubah-rumah-residency-open-call",
+      "discoveryUrl": "https://on-the-move.org/news/ubah-rumah-residency-20272028-southeast-asian-artists-indonesia",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Wed, 23 Sep 2026 04:00:00 +0000",
+      "discoveredDate": "2026-09-23",
+      "status": "unverified-lead"
     }
   ],
   "sources": [
@@ -4959,9 +4869,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 198,
-      "contentHash": "15aa519eb20203a87f55d9fb3405f1020f20013ad7ba47f0c813eb4b3dcb6ded",
-      "lastChangedDate": "2026-09-21",
+      "itemCount": 199,
+      "contentHash": "f9b9b8a01d379f127aff61b69492f17a5c9f7ee018f62ba2a7d3c239e7f3f84d",
+      "lastChangedDate": "2026-09-23",
       "error": null
     },
     {
@@ -4971,9 +4881,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cohere",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 142,
-      "contentHash": "8dd5ea55c07d9785d86bef38d5f589e9fcbb20750c58163b437d309e756e8bed",
-      "lastChangedDate": "2026-09-21",
+      "itemCount": 143,
+      "contentHash": "cd08a81716af7f4d61f7772347a02e398845233332759f7e3b2a4d14cc11bffa",
+      "lastChangedDate": "2026-09-23",
       "error": null
     },
     {
@@ -5007,9 +4917,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cantina",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 20,
-      "contentHash": "00fb07bbd0fbddc7030e2b9f9aa55dd09ecc6955d6a6d49ed28762bfd7038e53",
-      "lastChangedDate": "2026-09-21",
+      "itemCount": 18,
+      "contentHash": "4d61f9cc03b9e6b14269edc9441ac50218f1d4f47c818073f0fd8ec865e93b1a",
+      "lastChangedDate": "2026-09-23",
       "error": null
     },
     {
@@ -5031,9 +4941,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 615,
-      "contentHash": "b1fc687af5d33b79a82683b0c2d3a5abb1bcafa5098895396172bf775542a864",
-      "lastChangedDate": "2026-09-21",
+      "itemCount": 629,
+      "contentHash": "27e8fab1d524a73182336b2e7d19c6ad3e37ad898672c3bf8c24270bd9353898",
+      "lastChangedDate": "2026-09-23",
       "error": null
     },
     {
@@ -5044,8 +4954,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 77,
-      "contentHash": "61d70955e3c4565bc6e467b0b9a6d0ff958b07254351a34bb80831e2f5c15a3e",
-      "lastChangedDate": "2026-09-21",
+      "contentHash": "8d3af3e031848f69b24bf51e056a32d2781000a510510d1e025cd5ad79a9e949",
+      "lastChangedDate": "2026-09-23",
       "error": null
     },
     {
@@ -5067,9 +4977,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/stitchfix/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 15,
-      "contentHash": "daf7e4b44532c78506690c7c99835d57f826095ebb053955e4d86e073711f3e3",
-      "lastChangedDate": "2026-09-21",
+      "itemCount": 17,
+      "contentHash": "555151ccf3a8683dc0b5fdc46188d42ef171f81dcdbb4fc7ea5e8d5a71d1f613",
+      "lastChangedDate": "2026-09-23",
       "error": null
     },
     {
@@ -5080,8 +4990,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 10,
-      "contentHash": "c0f242cb2f11de747c80d588e36c6964ffb0be8bb1304eaedcbfbab4144cb45b",
-      "lastChangedDate": "2026-09-21",
+      "contentHash": "007ba34a906ccbbed17cbaca3030938930e5326280623a033c6979ae9b650c80",
+      "lastChangedDate": "2026-09-23",
       "error": null
     },
     {
@@ -5116,8 +5026,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "708b6cab9b2c57024c46b5023155205d760585a395f3695a5cbbe51bb4ca5dca",
-      "lastChangedDate": "2026-09-21",
+      "contentHash": "109b8e9c1f01edbfaa809ec539e519386847ce5332de835613970527e49d5dfd",
+      "lastChangedDate": "2026-09-23",
       "error": null
     },
     {
