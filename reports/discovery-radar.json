@@ -1,13 +1,13 @@
 {
-  "generatedDate": "2026-09-23",
+  "generatedDate": "2026-09-25",
   "schemaVersion": 1,
   "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
   "summary": {
-    "candidates": 139,
-    "mohammad": 133,
-    "arzoo": 6,
+    "candidates": 142,
+    "mohammad": 134,
+    "arzoo": 8,
     "sourceErrors": 0,
-    "excludedExisting": 7
+    "excludedExisting": 6
   },
   "profiles": {
     "mohammad": {
@@ -118,6 +118,46 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-07-02T17:48:59.330+00:00",
       "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "aacbc5dac16ac3009391",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 23,
+      "evidence": [
+        {
+          "keyword": "cultural heritage",
+          "weight": 8,
+          "field": "details"
+        },
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "fashion",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "design",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Festival ADAR: Residency for Groups Based in Europe 2026–2027 (Spain)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://festivaladar.com/en/artist-residency-open-call-2026-27/",
+      "applyUrl": "https://festivaladar.com/en/artist-residency-open-call-2026-27/",
+      "discoveryUrl": "https://on-the-move.org/news/festival-adar-residency-groups-based-europe-2026-2027-spain",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Fri, 25 Sep 2026 07:11:19 +0000",
+      "discoveredDate": "2026-09-25",
       "status": "unverified-lead"
     },
     {
@@ -526,86 +566,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "f4fcd1bc545d09684f27",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 22,
-      "evidence": [
-        {
-          "keyword": "craft",
-          "weight": 7,
-          "field": "details"
-        },
-        {
-          "keyword": "open call",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "fashion",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Make-a-thek: Mobility Scheme and Knowledge Exchange Programme 2026–2027",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.makeathek.eu/opencall",
-      "applyUrl": "https://www.makeathek.eu/opencall",
-      "discoveryUrl": "https://on-the-move.org/news/make-thek-mobility-scheme-and-knowledge-exchange-programme-2026-2027",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Tue, 22 Sep 2026 10:04:27 +0000",
-      "discoveredDate": "2026-09-23",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "748da6dcf1489d739788",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 21,
-      "evidence": [
-        {
-          "keyword": "artist residency",
-          "weight": 8,
-          "field": "details"
-        },
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "materials",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "design",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] EU Delegation to the United States of America: Transatlantic Stars Programme 2027 (USA)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://mailchi.mp/trsproject/3q8lcvd353",
-      "applyUrl": "https://mailchi.mp/trsproject/3q8lcvd353",
-      "discoveryUrl": "https://on-the-move.org/news/eu-delegation-united-states-america-transatlantic-stars-programme-2027-usa",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Tue, 22 Sep 2026 09:15:11 +0000",
-      "discoveredDate": "2026-09-23",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "0aa10d7b0fa4b55cd649",
       "person": "arzoo",
       "personLabel": "آرزو",
@@ -643,6 +603,46 @@
       "sourceType": "curated-rss",
       "publishedAt": "Wed, 23 Sep 2026 04:30:00 +0000",
       "discoveredDate": "2026-09-23",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "e91943e454314d81d2a1",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 19,
+      "evidence": [
+        {
+          "keyword": "jewellery",
+          "weight": 7,
+          "field": "details"
+        },
+        {
+          "keyword": "fashion",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "title"
+        },
+        {
+          "keyword": "design",
+          "weight": 3,
+          "field": "title"
+        }
+      ],
+      "title": "[News] EMMA – Creative Center Pforzheim: Designers in Residence 2027 (Germany)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://veranstaltungen.emma-pf.de/en/events/designers-in-residence-2027",
+      "applyUrl": "https://veranstaltungen.emma-pf.de/en/events/designers-in-residence-2027",
+      "discoveryUrl": "https://on-the-move.org/news/emma-creative-center-pforzheim-designers-residence-2027-germany",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Fri, 25 Sep 2026 04:15:00 +0000",
+      "discoveredDate": "2026-09-25",
       "status": "unverified-lead"
     },
     {
@@ -1401,7 +1401,7 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "5c88f09ac533bbae2e81",
+      "candidateId": "bb2c0b983d3d809f1e30",
       "person": "arzoo",
       "personLabel": "آرزو",
       "score": 16,
@@ -1422,17 +1422,17 @@
           "field": "details"
         }
       ],
-      "title": "[News] Gasworks: 2027 Residency for Artists Based in East Africa (UK)",
+      "title": "[News] Gasworks: 2027 Residency for Artists Based in Central America (UK)",
       "organization": "On the Move",
       "location": "",
-      "url": "https://www.gasworks.org.uk/opportunities/residency-open-call-for-artists-based-in-east-africa-2027",
-      "applyUrl": "https://www.gasworks.org.uk/opportunities/residency-open-call-for-artists-based-in-east-africa-2027",
-      "discoveryUrl": "https://on-the-move.org/news/gasworks-2027-residency-artists-based-east-africa-uk",
+      "url": "https://www.gasworks.org.uk/opportunities/residency-open-call-for-artists-based-in-central-america-2027",
+      "applyUrl": "https://www.gasworks.org.uk/opportunities/residency-open-call-for-artists-based-in-central-america-2027",
+      "discoveryUrl": "https://on-the-move.org/news/gasworks-2027-residency-artists-based-central-america-uk",
       "sourceId": "on-the-move-rss",
       "sourceLabel": "On the Move",
       "sourceType": "curated-rss",
-      "publishedAt": "Tue, 22 Sep 2026 08:38:08 +0000",
-      "discoveredDate": "2026-09-23",
+      "publishedAt": "Fri, 25 Sep 2026 04:00:00 +0000",
+      "discoveredDate": "2026-09-25",
       "status": "unverified-lead"
     },
     {
@@ -1573,6 +1573,41 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-08-03T16:33:45.506+00:00",
       "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "030fa9d6918d40045533",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 14,
+      "evidence": [
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "sustainable",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Matsu Biennial 2026 Call for International Artists (Taiwan)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://matsubiennial.tw/en/news/details/88",
+      "applyUrl": "https://matsubiennial.tw/en/news/details/88",
+      "discoveryUrl": "https://on-the-move.org/news/matsu-biennial-2026-call-international-artists-taiwan",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Thu, 24 Sep 2026 04:00:00 +0000",
+      "discoveredDate": "2026-09-25",
       "status": "unverified-lead"
     },
     {
@@ -3681,6 +3716,36 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "d618861743270aafed86",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Head of FDE Learning Programs",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/416a4800-33ea-4491-852e-7fba887f2f35",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/416a4800-33ea-4491-852e-7fba887f2f35/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-09-24T15:45:07.916+00:00",
+      "discoveredDate": "2026-09-25",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "8cfaf45bd6cc4967dcb6",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -4218,6 +4283,66 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-06-24T13:51:42-04:00",
       "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "65e5daaca536cc6fab07",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 9,
+      "evidence": [
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Art Explora/Cité internationale des arts: Residency Programme 2027 (France)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.artexplora.org/en/the-artists-residencies-programme-presentation",
+      "applyUrl": "https://www.artexplora.org/en/the-artists-residencies-programme-presentation",
+      "discoveryUrl": "https://on-the-move.org/news/art-exploracite-internationale-des-arts-residency-programme-2027-france",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Thu, 24 Sep 2026 04:15:00 +0000",
+      "discoveredDate": "2026-09-25",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "0e5ad882c13498e4ee92",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 9,
+      "evidence": [
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "design",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Busan Metropolitan City: Land and Ecological Art (South Korea)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://eulsukdo-ecoart.com/en/",
+      "applyUrl": "https://eulsukdo-ecoart.com/en/",
+      "discoveryUrl": "https://on-the-move.org/news/busan-metropolitan-city-land-and-ecological-art-south-korea",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Fri, 25 Sep 2026 04:30:00 +0000",
+      "discoveredDate": "2026-09-25",
       "status": "unverified-lead"
     },
     {
@@ -4834,31 +4959,6 @@
       "publishedAt": "Wed, 23 Sep 2026 04:15:00 +0000",
       "discoveredDate": "2026-09-23",
       "status": "unverified-lead"
-    },
-    {
-      "candidateId": "bda90fee21ab67c4cd59",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 6,
-      "evidence": [
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "title"
-        }
-      ],
-      "title": "[News] Ubah Rumah Residency 2027/2028 for Southeast Asian Artists (Indonesia)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.ubahrumah.com/ubah-rumah-residency/ubah-rumah-residency-open-call",
-      "applyUrl": "https://www.ubahrumah.com/ubah-rumah-residency/ubah-rumah-residency-open-call",
-      "discoveryUrl": "https://on-the-move.org/news/ubah-rumah-residency-20272028-southeast-asian-artists-indonesia",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Wed, 23 Sep 2026 04:00:00 +0000",
-      "discoveredDate": "2026-09-23",
-      "status": "unverified-lead"
     }
   ],
   "sources": [
@@ -4869,9 +4969,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 199,
-      "contentHash": "f9b9b8a01d379f127aff61b69492f17a5c9f7ee018f62ba2a7d3c239e7f3f84d",
-      "lastChangedDate": "2026-09-23",
+      "itemCount": 203,
+      "contentHash": "708e3de3e2df3e3376288904af0522228d150d482bb1b829d12c06466715dcc3",
+      "lastChangedDate": "2026-09-25",
       "error": null
     },
     {
@@ -4881,9 +4981,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cohere",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 143,
-      "contentHash": "cd08a81716af7f4d61f7772347a02e398845233332759f7e3b2a4d14cc11bffa",
-      "lastChangedDate": "2026-09-23",
+      "itemCount": 147,
+      "contentHash": "9c82eba7d0e7c0164c2858668fe57a3d0dfa044767b425c0700c97cfd36e2cc6",
+      "lastChangedDate": "2026-09-25",
       "error": null
     },
     {
@@ -4893,9 +4993,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/sona",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 13,
-      "contentHash": "15019ea22e37a0cbca0bb2610daad395d15104611586c427299c730132ed5ef6",
-      "lastChangedDate": "2026-09-14",
+      "itemCount": 14,
+      "contentHash": "035a921505dd79220d0ee1933cd19a1e4978af3b8cde274972dc3ab82f77ddef",
+      "lastChangedDate": "2026-09-25",
       "error": null
     },
     {
@@ -4929,9 +5029,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/planday-from-xero",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 8,
-      "contentHash": "84b0b0d8b8d389081d4dfe1235bf040639e1d953fcbfc875ba07d76365c71fdc",
-      "lastChangedDate": "2026-09-18",
+      "itemCount": 6,
+      "contentHash": "8fdd1f7bf184904820e9b331b81d774d96593ff8a8e6d288e98572689cc8d4d8",
+      "lastChangedDate": "2026-09-25",
       "error": null
     },
     {
@@ -4941,9 +5041,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 629,
-      "contentHash": "27e8fab1d524a73182336b2e7d19c6ad3e37ad898672c3bf8c24270bd9353898",
-      "lastChangedDate": "2026-09-23",
+      "itemCount": 623,
+      "contentHash": "df6412fa1b4aae62d8af64e96f4d5744659c01fd1e9c6a96d002c6fee46d06af",
+      "lastChangedDate": "2026-09-25",
       "error": null
     },
     {
@@ -4954,8 +5054,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 77,
-      "contentHash": "8d3af3e031848f69b24bf51e056a32d2781000a510510d1e025cd5ad79a9e949",
-      "lastChangedDate": "2026-09-23",
+      "contentHash": "b434ae9f13ddaa7fed03b493cc946a291aaaaf78577c44a4710d89401196aa71",
+      "lastChangedDate": "2026-09-25",
       "error": null
     },
     {
@@ -4965,9 +5065,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/goatgroup/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 3,
-      "contentHash": "5ccc2b614abc6a941a3016b1073490d5c834993853c53137457775b54c591727",
-      "lastChangedDate": "2026-09-21",
+      "itemCount": 4,
+      "contentHash": "38d37e6689d9baf68e57fa06b4392b0e7ee50a54c4282c0249ffc7fe803ca724",
+      "lastChangedDate": "2026-09-25",
       "error": null
     },
     {
@@ -4977,9 +5077,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/stitchfix/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 17,
-      "contentHash": "555151ccf3a8683dc0b5fdc46188d42ef171f81dcdbb4fc7ea5e8d5a71d1f613",
-      "lastChangedDate": "2026-09-23",
+      "itemCount": 16,
+      "contentHash": "01627ed3b27d5ded685cbf761146637e7dd396d25672c7d7f2c28a7268899ee4",
+      "lastChangedDate": "2026-09-25",
       "error": null
     },
     {
@@ -4990,8 +5090,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 10,
-      "contentHash": "007ba34a906ccbbed17cbaca3030938930e5326280623a033c6979ae9b650c80",
-      "lastChangedDate": "2026-09-23",
+      "contentHash": "20473e9167a3e7a3414463dcd5544fd91dc007440f120f5dc0d2bf15c664cbc3",
+      "lastChangedDate": "2026-09-25",
       "error": null
     },
     {
@@ -5026,8 +5126,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "109b8e9c1f01edbfaa809ec539e519386847ce5332de835613970527e49d5dfd",
-      "lastChangedDate": "2026-09-23",
+      "contentHash": "4bb2b08bded6b5cf4a63800ee6927a23270af0f7757ef4f7829edae302707b17",
+      "lastChangedDate": "2026-09-25",
       "error": null
     },
     {
