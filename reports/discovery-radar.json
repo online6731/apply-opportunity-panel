@@ -1,10 +1,10 @@
 {
-  "generatedDate": "2026-09-25",
+  "generatedDate": "2026-09-28",
   "schemaVersion": 1,
   "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
   "summary": {
-    "candidates": 142,
-    "mohammad": 134,
+    "candidates": 148,
+    "mohammad": 140,
     "arzoo": 8,
     "sourceErrors": 0,
     "excludedExisting": 6
@@ -121,6 +121,51 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "1b7e1d1480f3d513e0c1",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 26,
+      "evidence": [
+        {
+          "keyword": "artist residency",
+          "weight": 8,
+          "field": "title"
+        },
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        },
+        {
+          "keyword": "design",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] dot.ateliers: 2027 Artist Residency (Ghana)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.dotateliers.space/apply",
+      "applyUrl": "https://www.dotateliers.space/apply",
+      "discoveryUrl": "https://on-the-move.org/news/dotateliers-2027-artist-residency-ghana",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Mon, 28 Sep 2026 04:00:00 +0000",
+      "discoveredDate": "2026-09-28",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "aacbc5dac16ac3009391",
       "person": "arzoo",
       "personLabel": "آرزو",
@@ -158,6 +203,51 @@
       "sourceType": "curated-rss",
       "publishedAt": "Fri, 25 Sep 2026 07:11:19 +0000",
       "discoveredDate": "2026-09-25",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "38e4ebab797c09ba7100",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 23,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "computer vision",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI Engineer, Robotics",
+      "organization": "Mistral AI",
+      "location": "Singapore",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/d5b3861e-d8ff-4b8f-b0a1-3b8582a1c7b4",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/d5b3861e-d8ff-4b8f-b0a1-3b8582a1c7b4/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-09-25T13:52:58.186+00:00",
+      "discoveredDate": "2026-09-28",
       "status": "unverified-lead"
     },
     {
@@ -329,7 +419,7 @@
       ],
       "title": "Applied AI, Forward Deployed Machine Learning Engineer",
       "organization": "Mistral AI",
-      "location": "Munich",
+      "location": "Paris",
       "url": "https://jobs.ashbyhq.com/mistral.ai/6ca94f06-e353-4f4f-91e2-56264fcb8863",
       "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/6ca94f06-e353-4f4f-91e2-56264fcb8863/application",
       "discoveryUrl": null,
@@ -566,46 +656,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "0aa10d7b0fa4b55cd649",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 19,
-      "evidence": [
-        {
-          "keyword": "open call",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "materials",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] National Asian Culture Center: ACC NEXT Emerging Asian Artists International 2027 (South Korea)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.acc.go.kr/en/board/board.do?PID=1001&amp;boardID=NOTICE&amp;action=Read&amp;idx=2866",
-      "applyUrl": "https://www.acc.go.kr/en/board/board.do?PID=1001&amp;boardID=NOTICE&amp;action=Read&amp;idx=2866",
-      "discoveryUrl": "https://on-the-move.org/news/national-asian-culture-center-acc-next-emerging-asian-artists-international-2027-south-korea",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Wed, 23 Sep 2026 04:30:00 +0000",
-      "discoveredDate": "2026-09-23",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "e91943e454314d81d2a1",
       "person": "arzoo",
       "personLabel": "آرزو",
@@ -726,6 +776,46 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "42420e89e0445cc79115",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied Science - Research Engineer (Robotics)",
+      "organization": "Mistral AI",
+      "location": "Singapore",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/50656710-0001-42b0-8571-2880492b1233",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/50656710-0001-42b0-8571-2880492b1233/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-09-25T13:53:06.231+00:00",
+      "discoveredDate": "2026-09-28",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "6705cb778014e9372909",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -752,7 +842,7 @@
           "field": "details"
         }
       ],
-      "title": "AI Deployment Strategist, AI4Eng",
+      "title": "AI Deployment Strategist, Industrial Engineering / Physics , APAC",
       "organization": "Mistral AI",
       "location": "Singapore",
       "url": "https://jobs.ashbyhq.com/mistral.ai/02872623-51af-4d91-8634-4d8abbc0694a",
@@ -1034,7 +1124,7 @@
       ],
       "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer",
       "organization": "Mistral AI",
-      "location": "Munich",
+      "location": "Paris",
       "url": "https://jobs.ashbyhq.com/mistral.ai/4758abfb-12fb-401e-8c3b-896361d7036d",
       "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/4758abfb-12fb-401e-8c3b-896361d7036d/application",
       "discoveryUrl": null,
@@ -1326,6 +1416,46 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "917e76bc37e89068d4f3",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 17,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "AI Scientist - Domain Expert Crashworthiness",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/bc659575-b7c2-406c-825b-fdd58c503594",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/bc659575-b7c2-406c-825b-fdd58c503594/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-09-28T10:42:15.202+00:00",
+      "discoveredDate": "2026-09-28",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "5b5fcc782f1512f7b5ae",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -1573,41 +1703,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-08-03T16:33:45.506+00:00",
       "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "030fa9d6918d40045533",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 14,
-      "evidence": [
-        {
-          "keyword": "open call",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "sustainable",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Matsu Biennial 2026 Call for International Artists (Taiwan)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://matsubiennial.tw/en/news/details/88",
-      "applyUrl": "https://matsubiennial.tw/en/news/details/88",
-      "discoveryUrl": "https://on-the-move.org/news/matsu-biennial-2026-call-international-artists-taiwan",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Thu, 24 Sep 2026 04:00:00 +0000",
-      "discoveredDate": "2026-09-25",
       "status": "unverified-lead"
     },
     {
@@ -2058,6 +2153,111 @@
       "sourceType": "job-board-api",
       "publishedAt": "2024-12-03T14:25:43.571+00:00",
       "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "b65058fe852cb178fac9",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        },
+        {
+          "keyword": "design",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Salzburg Global: Cultural Futures Forum 2027 on Recognition, Equity, and Workforce Futures (Austria)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.salzburgglobal.org/topics/culture/culture-arts-and-society/session/s976-01",
+      "applyUrl": "https://www.salzburgglobal.org/topics/culture/culture-arts-and-society/session/s976-01",
+      "discoveryUrl": "https://on-the-move.org/news/salzburg-global-cultural-futures-forum-2027-recognition-equity-and-workforce-futures-austria",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Mon, 28 Sep 2026 04:45:00 +0000",
+      "discoveredDate": "2026-09-28",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "2a870ba143e63e5cae5c",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Research Engineer - Cybersecurity (RL Environments)",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/818ab64d-6d6d-4e3e-9f6c-cc50ffd3e76c",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/818ab64d-6d6d-4e3e-9f6c-cc50ffd3e76c/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-09-25T13:54:19.412+00:00",
+      "discoveredDate": "2026-09-28",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "60b90e8f9a6c43c9d36b",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI Software Engineer - Defense",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/4f2f058d-3a04-4b0d-b964-700c1d7790ac",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/4f2f058d-3a04-4b0d-b964-700c1d7790ac/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-09-23T09:55:00.499+00:00",
+      "discoveredDate": "2026-09-28",
       "status": "unverified-lead"
     },
     {
@@ -3299,7 +3499,7 @@
       ],
       "title": "AI Deployment Strategist",
       "organization": "Mistral AI",
-      "location": "Munich",
+      "location": "Paris",
       "url": "https://jobs.ashbyhq.com/mistral.ai/cf71adbb-c7c3-42d3-bf64-8e1283b6403f",
       "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/cf71adbb-c7c3-42d3-bf64-8e1283b6403f/application",
       "discoveryUrl": null,
@@ -4316,6 +4516,36 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "36f09bbe1108137083eb",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 9,
+      "evidence": [
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Goyki 3 Art Inkubator: 2027 Residency in Visual Art and Literature (Poland)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://goyki3.pl/regulaminy/",
+      "applyUrl": "https://goyki3.pl/regulaminy/",
+      "discoveryUrl": "https://on-the-move.org/news/goyki-3-art-inkubator-2027-residency-visual-art-and-literature-poland",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Mon, 28 Sep 2026 04:30:00 +0000",
+      "discoveredDate": "2026-09-28",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "0e5ad882c13498e4ee92",
       "person": "arzoo",
       "personLabel": "آرزو",
@@ -4343,6 +4573,36 @@
       "sourceType": "curated-rss",
       "publishedAt": "Fri, 25 Sep 2026 04:30:00 +0000",
       "discoveredDate": "2026-09-25",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "18a30bcd113330618cc5",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Solutions Architect",
+      "organization": "Cohere",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/cohere/d1ab4fbd-3271-4057-8b20-dfaad4270fa8",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/d1ab4fbd-3271-4057-8b20-dfaad4270fa8/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-09-28T09:42:14.127+00:00",
+      "discoveredDate": "2026-09-28",
       "status": "unverified-lead"
     },
     {
@@ -4934,31 +5194,6 @@
       "publishedAt": "2025-05-30T19:47:45-04:00",
       "discoveredDate": "2026-09-07",
       "status": "unverified-lead"
-    },
-    {
-      "candidateId": "03e5655dc3c69fd65fbe",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 6,
-      "evidence": [
-        {
-          "keyword": "open call",
-          "weight": 6,
-          "field": "details"
-        }
-      ],
-      "title": "[News] IETM Global Connect Programme for Supported Membership 2027 (Cyprus)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.ietm.org/en/projects/ietm-global-connect",
-      "applyUrl": "https://www.ietm.org/en/projects/ietm-global-connect",
-      "discoveryUrl": "https://on-the-move.org/news/ietm-global-connect-programme-supported-membership-2027-cyprus",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Wed, 23 Sep 2026 04:15:00 +0000",
-      "discoveredDate": "2026-09-23",
-      "status": "unverified-lead"
     }
   ],
   "sources": [
@@ -4969,9 +5204,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 203,
-      "contentHash": "708e3de3e2df3e3376288904af0522228d150d482bb1b829d12c06466715dcc3",
-      "lastChangedDate": "2026-09-25",
+      "itemCount": 211,
+      "contentHash": "3ed044d6814bd3ab7c916b9e85dd371c4706c1405cc80675bd299ea8f43e3110",
+      "lastChangedDate": "2026-09-28",
       "error": null
     },
     {
@@ -4981,9 +5216,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cohere",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 147,
-      "contentHash": "9c82eba7d0e7c0164c2858668fe57a3d0dfa044767b425c0700c97cfd36e2cc6",
-      "lastChangedDate": "2026-09-25",
+      "itemCount": 145,
+      "contentHash": "b81da49393c36dea9a2531b94c3358244efa7d1c382b7b5ba5d982370a34aea5",
+      "lastChangedDate": "2026-09-28",
       "error": null
     },
     {
@@ -5018,8 +5253,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 18,
-      "contentHash": "4d61f9cc03b9e6b14269edc9441ac50218f1d4f47c818073f0fd8ec865e93b1a",
-      "lastChangedDate": "2026-09-23",
+      "contentHash": "371043bebd19102f69f037ea17058726702c3f0f848a02872c33e81d7ca89fbc",
+      "lastChangedDate": "2026-09-28",
       "error": null
     },
     {
@@ -5042,8 +5277,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 623,
-      "contentHash": "df6412fa1b4aae62d8af64e96f4d5744659c01fd1e9c6a96d002c6fee46d06af",
-      "lastChangedDate": "2026-09-25",
+      "contentHash": "6a9a0efa0a2785005ec2f4153c8d479e2d27d9a22aea718b956e39c66c768507",
+      "lastChangedDate": "2026-09-28",
       "error": null
     },
     {
@@ -5053,9 +5288,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/neuralink/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 77,
-      "contentHash": "b434ae9f13ddaa7fed03b493cc946a291aaaaf78577c44a4710d89401196aa71",
-      "lastChangedDate": "2026-09-25",
+      "itemCount": 81,
+      "contentHash": "d03f06bc797dcec840c550fe3aac887217f761f52a7a3331b036ce1bceee76ec",
+      "lastChangedDate": "2026-09-28",
       "error": null
     },
     {
@@ -5065,9 +5300,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/goatgroup/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 4,
-      "contentHash": "38d37e6689d9baf68e57fa06b4392b0e7ee50a54c4282c0249ffc7fe803ca724",
-      "lastChangedDate": "2026-09-25",
+      "itemCount": 5,
+      "contentHash": "4b9a838a503af4c65da1b8bcacebc9bcc4c2e3ee3d81a22e81bb6ba38de1e47a",
+      "lastChangedDate": "2026-09-28",
       "error": null
     },
     {
@@ -5077,9 +5312,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/stitchfix/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 16,
-      "contentHash": "01627ed3b27d5ded685cbf761146637e7dd396d25672c7d7f2c28a7268899ee4",
-      "lastChangedDate": "2026-09-25",
+      "itemCount": 17,
+      "contentHash": "eba77b05d2126e986fd6bdb00a79d33933fe11cf4d37302350a2dc9a2ce0d35d",
+      "lastChangedDate": "2026-09-28",
       "error": null
     },
     {
@@ -5090,8 +5325,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 10,
-      "contentHash": "20473e9167a3e7a3414463dcd5544fd91dc007440f120f5dc0d2bf15c664cbc3",
-      "lastChangedDate": "2026-09-25",
+      "contentHash": "0e33cc6364056a128a12e28a863627f599f05654bc971fdb96027e01eda119b0",
+      "lastChangedDate": "2026-09-28",
       "error": null
     },
     {
@@ -5126,8 +5361,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "4bb2b08bded6b5cf4a63800ee6927a23270af0f7757ef4f7829edae302707b17",
-      "lastChangedDate": "2026-09-25",
+      "contentHash": "6335cf0ee923e23ca1667429012f4afff0f9a4ec62470d95d764a8a326e239a9",
+      "lastChangedDate": "2026-09-28",
       "error": null
     },
     {
