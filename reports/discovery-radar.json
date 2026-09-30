@@ -1,11 +1,11 @@
 {
-  "generatedDate": "2026-09-28",
+  "generatedDate": "2026-09-30",
   "schemaVersion": 1,
   "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
   "summary": {
-    "candidates": 148,
-    "mohammad": 140,
-    "arzoo": 8,
+    "candidates": 149,
+    "mohammad": 142,
+    "arzoo": 7,
     "sourceErrors": 0,
     "excludedExisting": 6
   },
@@ -20,6 +20,56 @@
     }
   },
   "candidates": [
+    {
+      "candidateId": "0a521d436c9f60a50f90",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 29,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "research scientist",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "deep learning",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Research Engineer, Machine Learning",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/0e578cff-741d-4870-9c2c-aac85f9de266",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/0e578cff-741d-4870-9c2c-aac85f9de266/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-09-28T16:08:25.776+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
     {
       "candidateId": "96468f7564694a5485e1",
       "person": "mohammad",
@@ -67,56 +117,6 @@
       "sourceLabel": "Mistral AI",
       "sourceType": "job-board-api",
       "publishedAt": "2026-07-10T21:13:30.937+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "0a521d436c9f60a50f90",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 29,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "research engineer",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "research scientist",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "deep learning",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Research Engineer, Machine Learning",
-      "organization": "Mistral AI",
-      "location": "Paris",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/0e578cff-741d-4870-9c2c-aac85f9de266",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/0e578cff-741d-4870-9c2c-aac85f9de266/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-07-02T17:48:59.330+00:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
@@ -656,46 +656,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "e91943e454314d81d2a1",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 19,
-      "evidence": [
-        {
-          "keyword": "jewellery",
-          "weight": 7,
-          "field": "details"
-        },
-        {
-          "keyword": "fashion",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "title"
-        },
-        {
-          "keyword": "design",
-          "weight": 3,
-          "field": "title"
-        }
-      ],
-      "title": "[News] EMMA – Creative Center Pforzheim: Designers in Residence 2027 (Germany)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://veranstaltungen.emma-pf.de/en/events/designers-in-residence-2027",
-      "applyUrl": "https://veranstaltungen.emma-pf.de/en/events/designers-in-residence-2027",
-      "discoveryUrl": "https://on-the-move.org/news/emma-creative-center-pforzheim-designers-residence-2027-germany",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Fri, 25 Sep 2026 04:15:00 +0000",
-      "discoveredDate": "2026-09-25",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "d24bbb66d3ab88182c7f",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -773,6 +733,46 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-05-12T07:03:27.125+00:00",
       "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "5991935d7a060154c88e",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "sustainable",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "materials",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "design",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Cultivamos Cultura: ‘Bom Dia’ OASis Residency 2027 (Portugal)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://cultivamoscultura.com/2026/09/17/bom-dia-oasis-residency-call-for-2027/",
+      "applyUrl": "https://cultivamoscultura.com/2026/09/17/bom-dia-oasis-residency-call-for-2027/",
+      "discoveryUrl": "https://on-the-move.org/news/cultivamos-cultura-bom-dia-oasis-residency-2027-portugal",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Tue, 29 Sep 2026 04:00:00 +0000",
+      "discoveredDate": "2026-09-30",
       "status": "unverified-lead"
     },
     {
@@ -1531,41 +1531,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "bb2c0b983d3d809f1e30",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 16,
-      "evidence": [
-        {
-          "keyword": "open call",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "materials",
-          "weight": 4,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Gasworks: 2027 Residency for Artists Based in Central America (UK)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.gasworks.org.uk/opportunities/residency-open-call-for-artists-based-in-central-america-2027",
-      "applyUrl": "https://www.gasworks.org.uk/opportunities/residency-open-call-for-artists-based-in-central-america-2027",
-      "discoveryUrl": "https://on-the-move.org/news/gasworks-2027-residency-artists-based-central-america-uk",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Fri, 25 Sep 2026 04:00:00 +0000",
-      "discoveredDate": "2026-09-25",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "77a6e2aca0d4468b9201",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -1873,6 +1838,41 @@
       "sourceType": "job-board-api",
       "publishedAt": "2025-08-19T11:26:00.999+00:00",
       "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "a46a9370df9cd3d3e284",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 13,
+      "evidence": [
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "materials",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] European Commission: Artist-in-Residence 2027 on ‘Decoding Depression’ (Italy)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://knowledge4policy.ec.europa.eu/open-call-artist-residence-decoding-depression_en",
+      "applyUrl": "https://knowledge4policy.ec.europa.eu/open-call-artist-residence-decoding-depression_en",
+      "discoveryUrl": "https://on-the-move.org/news/european-commission-artist-residence-2027-decoding-depression-italy",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Wed, 30 Sep 2026 04:00:00 +0000",
+      "discoveredDate": "2026-09-30",
       "status": "unverified-lead"
     },
     {
@@ -3916,6 +3916,66 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "3c7d7578535caaec77eb",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Lead Product Manager, Inference",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/47b4bbb7-d5a5-4ac1-84d9-ae56d5521c64",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/47b4bbb7-d5a5-4ac1-84d9-ae56d5521c64/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-09-29T06:34:48.948+00:00",
+      "discoveredDate": "2026-09-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "a3a3b15e3fe78e6c5daf",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "life science",
+          "weight": 4,
+          "field": "title"
+        }
+      ],
+      "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences)",
+      "organization": "Anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5437172008",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5437172008",
+      "discoveryUrl": null,
+      "sourceId": "greenhouse-anthropic",
+      "sourceLabel": "Anthropic",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-09-28T22:57:03-04:00",
+      "discoveredDate": "2026-09-30",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "d618861743270aafed86",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -4486,36 +4546,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "65e5daaca536cc6fab07",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 9,
-      "evidence": [
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Art Explora/Cité internationale des arts: Residency Programme 2027 (France)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.artexplora.org/en/the-artists-residencies-programme-presentation",
-      "applyUrl": "https://www.artexplora.org/en/the-artists-residencies-programme-presentation",
-      "discoveryUrl": "https://on-the-move.org/news/art-exploracite-internationale-des-arts-residency-programme-2027-france",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Thu, 24 Sep 2026 04:15:00 +0000",
-      "discoveredDate": "2026-09-25",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "36f09bbe1108137083eb",
       "person": "arzoo",
       "personLabel": "آرزو",
@@ -4543,36 +4573,6 @@
       "sourceType": "curated-rss",
       "publishedAt": "Mon, 28 Sep 2026 04:30:00 +0000",
       "discoveredDate": "2026-09-28",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "0e5ad882c13498e4ee92",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 9,
-      "evidence": [
-        {
-          "keyword": "open call",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "design",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Busan Metropolitan City: Land and Ecological Art (South Korea)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://eulsukdo-ecoart.com/en/",
-      "applyUrl": "https://eulsukdo-ecoart.com/en/",
-      "discoveryUrl": "https://on-the-move.org/news/busan-metropolitan-city-land-and-ecological-art-south-korea",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Fri, 25 Sep 2026 04:30:00 +0000",
-      "discoveredDate": "2026-09-25",
       "status": "unverified-lead"
     },
     {
@@ -5194,6 +5194,31 @@
       "publishedAt": "2025-05-30T19:47:45-04:00",
       "discoveredDate": "2026-09-07",
       "status": "unverified-lead"
+    },
+    {
+      "candidateId": "188fd4a94cc409c81799",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 6,
+      "evidence": [
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Asymmetry: 2027 Assistant Curator Fellowship Nottingham Contemporary (UK)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.asymmetryart.org/fellowships/open-calls/2027-asymmetry-assistant-curator-fellowship-nottingham-contemporary-opencall",
+      "applyUrl": "https://www.asymmetryart.org/fellowships/open-calls/2027-asymmetry-assistant-curator-fellowship-nottingham-contemporary-opencall",
+      "discoveryUrl": "https://on-the-move.org/news/asymmetry-2027-assistant-curator-fellowship-nottingham-contemporary-uk",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Wed, 30 Sep 2026 04:15:00 +0000",
+      "discoveredDate": "2026-09-30",
+      "status": "unverified-lead"
     }
   ],
   "sources": [
@@ -5204,9 +5229,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 211,
-      "contentHash": "3ed044d6814bd3ab7c916b9e85dd371c4706c1405cc80675bd299ea8f43e3110",
-      "lastChangedDate": "2026-09-28",
+      "itemCount": 210,
+      "contentHash": "d7c6c4ca7f6d02269c50376a96005eda4ed16773bd12d7541d23a3994b8e83de",
+      "lastChangedDate": "2026-09-30",
       "error": null
     },
     {
@@ -5216,9 +5241,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cohere",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 145,
-      "contentHash": "b81da49393c36dea9a2531b94c3358244efa7d1c382b7b5ba5d982370a34aea5",
-      "lastChangedDate": "2026-09-28",
+      "itemCount": 137,
+      "contentHash": "3ea72ea6a5486558d6a9c736ab6ab6083c89d0215de3d0067f82d26c47b035e0",
+      "lastChangedDate": "2026-09-30",
       "error": null
     },
     {
@@ -5228,9 +5253,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/sona",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 14,
-      "contentHash": "035a921505dd79220d0ee1933cd19a1e4978af3b8cde274972dc3ab82f77ddef",
-      "lastChangedDate": "2026-09-25",
+      "itemCount": 15,
+      "contentHash": "6c0b7b6721968b2d16c6114066a60f252863424ce640ebda727086a2e7e952ad",
+      "lastChangedDate": "2026-09-30",
       "error": null
     },
     {
@@ -5252,9 +5277,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cantina",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 18,
-      "contentHash": "371043bebd19102f69f037ea17058726702c3f0f848a02872c33e81d7ca89fbc",
-      "lastChangedDate": "2026-09-28",
+      "itemCount": 17,
+      "contentHash": "305fd588e5b447b325db6bd28ceff66f7d9508734f72136091e9679367bd87e0",
+      "lastChangedDate": "2026-09-30",
       "error": null
     },
     {
@@ -5276,9 +5301,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 623,
-      "contentHash": "6a9a0efa0a2785005ec2f4153c8d479e2d27d9a22aea718b956e39c66c768507",
-      "lastChangedDate": "2026-09-28",
+      "itemCount": 638,
+      "contentHash": "7c913db3438671597266b5cb10802a4ad97ba9f5588dc6f99ff644c14be19af7",
+      "lastChangedDate": "2026-09-30",
       "error": null
     },
     {
@@ -5288,9 +5313,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/neuralink/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 81,
-      "contentHash": "d03f06bc797dcec840c550fe3aac887217f761f52a7a3331b036ce1bceee76ec",
-      "lastChangedDate": "2026-09-28",
+      "itemCount": 82,
+      "contentHash": "eb2fdae1d6e1325be5f44651dbfcf4abcac571227352631812bc58035f66a2d0",
+      "lastChangedDate": "2026-09-30",
       "error": null
     },
     {
@@ -5300,9 +5325,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/goatgroup/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 5,
-      "contentHash": "4b9a838a503af4c65da1b8bcacebc9bcc4c2e3ee3d81a22e81bb6ba38de1e47a",
-      "lastChangedDate": "2026-09-28",
+      "itemCount": 6,
+      "contentHash": "3d20202a00f04ebd851077232d4dfc15061a1dcbca8b26106106382d5c4cc68b",
+      "lastChangedDate": "2026-09-30",
       "error": null
     },
     {
@@ -5312,9 +5337,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/stitchfix/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 17,
-      "contentHash": "eba77b05d2126e986fd6bdb00a79d33933fe11cf4d37302350a2dc9a2ce0d35d",
-      "lastChangedDate": "2026-09-28",
+      "itemCount": 15,
+      "contentHash": "eff4e92b216d93f3823f5045a4489ad0cf9e5e5d05ae8a472e4287a8317242da",
+      "lastChangedDate": "2026-09-30",
       "error": null
     },
     {
@@ -5325,8 +5350,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 10,
-      "contentHash": "0e33cc6364056a128a12e28a863627f599f05654bc971fdb96027e01eda119b0",
-      "lastChangedDate": "2026-09-28",
+      "contentHash": "3983240925d6e641ad9bac50f5b96f13676c2ccc5e5631c5dce4d2db41a2a5ba",
+      "lastChangedDate": "2026-09-30",
       "error": null
     },
     {
@@ -5361,8 +5386,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "6335cf0ee923e23ca1667429012f4afff0f9a4ec62470d95d764a8a326e239a9",
-      "lastChangedDate": "2026-09-28",
+      "contentHash": "4ea9d1d748b9a7cdc2660b9ec76b8d75643d85373cf1bb2fdc1c8a97354b3c83",
+      "lastChangedDate": "2026-09-30",
       "error": null
     },
     {
