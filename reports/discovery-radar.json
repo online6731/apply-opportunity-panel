@@ -1,13 +1,13 @@
 {
-  "generatedDate": "2026-09-30",
+  "generatedDate": "2026-10-02",
   "schemaVersion": 1,
   "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
   "summary": {
-    "candidates": 149,
-    "mohammad": 142,
-    "arzoo": 7,
-    "sourceErrors": 0,
-    "excludedExisting": 6
+    "candidates": 147,
+    "mohammad": 141,
+    "arzoo": 6,
+    "sourceErrors": 1,
+    "excludedExisting": 5
   },
   "profiles": {
     "mohammad": {
@@ -121,25 +121,25 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "1b7e1d1480f3d513e0c1",
+      "candidateId": "943710448d65fd917742",
       "person": "arzoo",
       "personLabel": "آرزو",
       "score": 26,
       "evidence": [
         {
-          "keyword": "artist residency",
+          "keyword": "cultural heritage",
           "weight": 8,
-          "field": "title"
-        },
-        {
-          "keyword": "open call",
-          "weight": 6,
           "field": "details"
         },
         {
           "keyword": "residency",
           "weight": 6,
-          "field": "title"
+          "field": "details"
+        },
+        {
+          "keyword": "fashion",
+          "weight": 6,
+          "field": "details"
         },
         {
           "keyword": "creative",
@@ -152,57 +152,17 @@
           "field": "details"
         }
       ],
-      "title": "[News] dot.ateliers: 2027 Artist Residency (Ghana)",
+      "title": "[News] Culture Moves Europe: Call for Individual Mobility 2026–2027",
       "organization": "On the Move",
       "location": "",
-      "url": "https://www.dotateliers.space/apply",
-      "applyUrl": "https://www.dotateliers.space/apply",
-      "discoveryUrl": "https://on-the-move.org/news/dotateliers-2027-artist-residency-ghana",
+      "url": "https://culture.ec.europa.eu/culture-moves-europe/call-for-individual-mobility",
+      "applyUrl": "https://culture.ec.europa.eu/culture-moves-europe/call-for-individual-mobility",
+      "discoveryUrl": "https://on-the-move.org/news/culture-moves-europe-call-individual-mobility-2026-2027",
       "sourceId": "on-the-move-rss",
       "sourceLabel": "On the Move",
       "sourceType": "curated-rss",
-      "publishedAt": "Mon, 28 Sep 2026 04:00:00 +0000",
-      "discoveredDate": "2026-09-28",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "aacbc5dac16ac3009391",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 23,
-      "evidence": [
-        {
-          "keyword": "cultural heritage",
-          "weight": 8,
-          "field": "details"
-        },
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "fashion",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "design",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Festival ADAR: Residency for Groups Based in Europe 2026–2027 (Spain)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://festivaladar.com/en/artist-residency-open-call-2026-27/",
-      "applyUrl": "https://festivaladar.com/en/artist-residency-open-call-2026-27/",
-      "discoveryUrl": "https://on-the-move.org/news/festival-adar-residency-groups-based-europe-2026-2027-spain",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Fri, 25 Sep 2026 07:11:19 +0000",
-      "discoveredDate": "2026-09-25",
+      "publishedAt": "Thu, 01 Oct 2026 09:42:38 +0000",
+      "discoveredDate": "2026-10-02",
       "status": "unverified-lead"
     },
     {
@@ -2156,7 +2116,7 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "b65058fe852cb178fac9",
+      "candidateId": "43f1d52bbb2aa7efcaf7",
       "person": "arzoo",
       "personLabel": "آرزو",
       "score": 12,
@@ -2167,27 +2127,22 @@
           "field": "details"
         },
         {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "details"
-        },
-        {
-          "keyword": "design",
-          "weight": 3,
-          "field": "details"
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
         }
       ],
-      "title": "[News] Salzburg Global: Cultural Futures Forum 2027 on Recognition, Equity, and Workforce Futures (Austria)",
+      "title": "[News] NRW KULTURsekretariat: TANZRECHERCHE x SPRUNGBRETT Dance Research Residency and Performance 2027 (Germany)",
       "organization": "On the Move",
       "location": "",
-      "url": "https://www.salzburgglobal.org/topics/culture/culture-arts-and-society/session/s976-01",
-      "applyUrl": "https://www.salzburgglobal.org/topics/culture/culture-arts-and-society/session/s976-01",
-      "discoveryUrl": "https://on-the-move.org/news/salzburg-global-cultural-futures-forum-2027-recognition-equity-and-workforce-futures-austria",
+      "url": "https://www.nrw-kultur.de/en/programmes/dance-research-nrw#c4351",
+      "applyUrl": "https://www.nrw-kultur.de/en/programmes/dance-research-nrw#c4351",
+      "discoveryUrl": "https://on-the-move.org/news/nrw-kultursekretariat-tanzrecherche-x-sprungbrett-dance-research-residency-and-performance",
       "sourceId": "on-the-move-rss",
       "sourceLabel": "On the Move",
       "sourceType": "curated-rss",
-      "publishedAt": "Mon, 28 Sep 2026 04:45:00 +0000",
-      "discoveredDate": "2026-09-28",
+      "publishedAt": "Fri, 02 Oct 2026 04:15:00 +0000",
+      "discoveredDate": "2026-10-02",
       "status": "unverified-lead"
     },
     {
@@ -3756,41 +3711,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "1a89e2db0e22a072020a",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 12,
-      "evidence": [
-        {
-          "keyword": "applied ai",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Forward Deployed Engineer, Agentic Platform (Korea)",
-      "organization": "Cohere",
-      "location": "Korea",
-      "url": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-cohere",
-      "sourceLabel": "Cohere",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-01-28T22:38:37.808+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "076ecfaf5be4d6797905",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -4546,36 +4466,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "36f09bbe1108137083eb",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 9,
-      "evidence": [
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Goyki 3 Art Inkubator: 2027 Residency in Visual Art and Literature (Poland)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://goyki3.pl/regulaminy/",
-      "applyUrl": "https://goyki3.pl/regulaminy/",
-      "discoveryUrl": "https://on-the-move.org/news/goyki-3-art-inkubator-2027-residency-visual-art-and-literature-poland",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Mon, 28 Sep 2026 04:30:00 +0000",
-      "discoveredDate": "2026-09-28",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "18a30bcd113330618cc5",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -5219,6 +5109,36 @@
       "publishedAt": "Wed, 30 Sep 2026 04:15:00 +0000",
       "discoveredDate": "2026-09-30",
       "status": "unverified-lead"
+    },
+    {
+      "candidateId": "a26bd7f48468964328b1",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 6,
+      "evidence": [
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "title"
+        },
+        {
+          "keyword": "design",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] French Institute: Creative ASEAN Coordinator Job (Indonesia)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://asean.diplomatie.gouv.fr/en/call-applications-service-provider-charge-regional-programme-creative-asean",
+      "applyUrl": "https://asean.diplomatie.gouv.fr/en/call-applications-service-provider-charge-regional-programme-creative-asean",
+      "discoveryUrl": "https://on-the-move.org/news/french-institute-creative-asean-coordinator-job-indonesia",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Thu, 01 Oct 2026 09:10:31 +0000",
+      "discoveredDate": "2026-10-02",
+      "status": "unverified-lead"
     }
   ],
   "sources": [
@@ -5229,9 +5149,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 210,
-      "contentHash": "d7c6c4ca7f6d02269c50376a96005eda4ed16773bd12d7541d23a3994b8e83de",
-      "lastChangedDate": "2026-09-30",
+      "itemCount": 209,
+      "contentHash": "133d09a7509fa9bd7a629483ab4d8c05715a7412b769ca040a049d2337ae03d7",
+      "lastChangedDate": "2026-10-02",
       "error": null
     },
     {
@@ -5241,9 +5161,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cohere",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 137,
-      "contentHash": "3ea72ea6a5486558d6a9c736ab6ab6083c89d0215de3d0067f82d26c47b035e0",
-      "lastChangedDate": "2026-09-30",
+      "itemCount": 132,
+      "contentHash": "f131ce90f91f53e737ee93cc7a82f031ed35829269a9cd6e3f72f2b7f65a0361",
+      "lastChangedDate": "2026-10-02",
       "error": null
     },
     {
@@ -5253,9 +5173,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/sona",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 15,
-      "contentHash": "6c0b7b6721968b2d16c6114066a60f252863424ce640ebda727086a2e7e952ad",
-      "lastChangedDate": "2026-09-30",
+      "itemCount": 14,
+      "contentHash": "2e0fdba2ed1d777dde122b033e9649cd4f16ec0098d1203201d33b20f0f8ad2e",
+      "lastChangedDate": "2026-10-02",
       "error": null
     },
     {
@@ -5290,8 +5210,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 6,
-      "contentHash": "8fdd1f7bf184904820e9b331b81d774d96593ff8a8e6d288e98572689cc8d4d8",
-      "lastChangedDate": "2026-09-25",
+      "contentHash": "9cbb31f7304420eb03c532fc9eaa8bd6757c74330d957a57604f4a064bae29e8",
+      "lastChangedDate": "2026-10-02",
       "error": null
     },
     {
@@ -5301,9 +5221,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 638,
-      "contentHash": "7c913db3438671597266b5cb10802a4ad97ba9f5588dc6f99ff644c14be19af7",
-      "lastChangedDate": "2026-09-30",
+      "itemCount": 637,
+      "contentHash": "b57e64b7cb887586ae0810fab711ae270c555a52402cb39a032a38dea87be22d",
+      "lastChangedDate": "2026-10-02",
       "error": null
     },
     {
@@ -5314,8 +5234,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 82,
-      "contentHash": "eb2fdae1d6e1325be5f44651dbfcf4abcac571227352631812bc58035f66a2d0",
-      "lastChangedDate": "2026-09-30",
+      "contentHash": "5a62579092dc4e7c12774d2981533a05a49ba8999cf591090046ea851257158d",
+      "lastChangedDate": "2026-10-02",
       "error": null
     },
     {
@@ -5325,9 +5245,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/goatgroup/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 6,
-      "contentHash": "3d20202a00f04ebd851077232d4dfc15061a1dcbca8b26106106382d5c4cc68b",
-      "lastChangedDate": "2026-09-30",
+      "itemCount": 9,
+      "contentHash": "3c93001a429908792667808ff3fc11d2bbbc11f7eeb11d0e01724d2673f3491c",
+      "lastChangedDate": "2026-10-02",
       "error": null
     },
     {
@@ -5337,9 +5257,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/stitchfix/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 15,
-      "contentHash": "eff4e92b216d93f3823f5045a4489ad0cf9e5e5d05ae8a472e4287a8317242da",
-      "lastChangedDate": "2026-09-30",
+      "itemCount": 16,
+      "contentHash": "83575180c28432b0bd2c3722869cb97654ec820a0fdf62f236ae97040e368403",
+      "lastChangedDate": "2026-10-02",
       "error": null
     },
     {
@@ -5350,8 +5270,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 10,
-      "contentHash": "3983240925d6e641ad9bac50f5b96f13676c2ccc5e5631c5dce4d2db41a2a5ba",
-      "lastChangedDate": "2026-09-30",
+      "contentHash": "1c137371fafce7aa57f4142cef4f2e9ad229f86cb3b8ef98e706e1704e346785",
+      "lastChangedDate": "2026-10-02",
       "error": null
     },
     {
@@ -5383,12 +5303,12 @@
       "label": "EURAXESS Jobs",
       "kind": "watch",
       "url": "https://euraxess.ec.europa.eu/jobs/search",
-      "status": "ok",
-      "httpStatus": 200,
+      "status": "error",
+      "httpStatus": null,
       "itemCount": 0,
       "contentHash": "4ea9d1d748b9a7cdc2660b9ec76b8d75643d85373cf1bb2fdc1c8a97354b3c83",
       "lastChangedDate": "2026-09-30",
-      "error": null
+      "error": "HTTP 403"
     },
     {
       "id": "watch-rijksakademie",
