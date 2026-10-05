@@ -1,12 +1,12 @@
 {
-  "generatedDate": "2026-10-02",
+  "generatedDate": "2026-10-05",
   "schemaVersion": 1,
   "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
   "summary": {
-    "candidates": 147,
-    "mohammad": 141,
-    "arzoo": 6,
-    "sourceErrors": 1,
+    "candidates": 150,
+    "mohammad": 145,
+    "arzoo": 5,
+    "sourceErrors": 0,
     "excludedExisting": 5
   },
   "profiles": {
@@ -526,51 +526,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "939b628ca7b548af0af1",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 23,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "research engineer",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "computer vision",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Research Engineer, Robotics",
-      "organization": "Mistral AI",
-      "location": "Paris",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/25944723-62e2-498e-8149-a588907c39d6",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/25944723-62e2-498e-8149-a588907c39d6/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-07-03T11:13:19.638+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "452371c0ef49b55098e8",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -693,46 +648,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-05-12T07:03:27.125+00:00",
       "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "5991935d7a060154c88e",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 18,
-      "evidence": [
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "sustainable",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "materials",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "design",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Cultivamos Cultura: ‘Bom Dia’ OASis Residency 2027 (Portugal)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://cultivamoscultura.com/2026/09/17/bom-dia-oasis-residency-call-for-2027/",
-      "applyUrl": "https://cultivamoscultura.com/2026/09/17/bom-dia-oasis-residency-call-for-2027/",
-      "discoveryUrl": "https://on-the-move.org/news/cultivamos-cultura-bom-dia-oasis-residency-2027-portugal",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Tue, 29 Sep 2026 04:00:00 +0000",
-      "discoveredDate": "2026-09-30",
       "status": "unverified-lead"
     },
     {
@@ -1801,38 +1716,33 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "a46a9370df9cd3d3e284",
+      "candidateId": "1f4ed95a749937cff9fa",
       "person": "arzoo",
       "personLabel": "آرزو",
       "score": 13,
       "evidence": [
         {
+          "keyword": "craft",
+          "weight": 7,
+          "field": "title"
+        },
+        {
           "keyword": "residency",
           "weight": 6,
           "field": "details"
-        },
-        {
-          "keyword": "materials",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "details"
         }
       ],
-      "title": "[News] European Commission: Artist-in-Residence 2027 on ‘Decoding Depression’ (Italy)",
+      "title": "[News] Craftwork4.0All: Craft Mobilities 2026–2027",
       "organization": "On the Move",
       "location": "",
-      "url": "https://knowledge4policy.ec.europa.eu/open-call-artist-residence-decoding-depression_en",
-      "applyUrl": "https://knowledge4policy.ec.europa.eu/open-call-artist-residence-decoding-depression_en",
-      "discoveryUrl": "https://on-the-move.org/news/european-commission-artist-residence-2027-decoding-depression-italy",
+      "url": "https://www.craftwork4all.com/craft-mobilities/",
+      "applyUrl": "https://www.craftwork4all.com/craft-mobilities/",
+      "discoveryUrl": "https://on-the-move.org/news/craftwork40all-craft-mobilities-2026-2027",
       "sourceId": "on-the-move-rss",
       "sourceLabel": "On the Move",
       "sourceType": "curated-rss",
-      "publishedAt": "Wed, 30 Sep 2026 04:00:00 +0000",
-      "discoveredDate": "2026-09-30",
+      "publishedAt": "Mon, 05 Oct 2026 04:45:00 +0000",
+      "discoveredDate": "2026-10-05",
       "status": "unverified-lead"
     },
     {
@@ -3746,6 +3656,36 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "30b657e712ebacbc893c",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 11,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        }
+      ],
+      "title": "Staff Technical Program Manager, Machine Learning",
+      "organization": "Cohere",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-10-03T14:11:59.285+00:00",
+      "discoveredDate": "2026-10-05",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "a3dfb6863a09f078bece",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -4466,6 +4406,181 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "e3cf3f5708c8d35656e1",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 9,
+      "evidence": [
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "design",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Lendhauer: Projects on ‘Urban Ecologies Coexistence and Control’ 2027 (Austria)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.lendhafen.at/open-call-2027-urban-ecologies-coexistence-and-control/",
+      "applyUrl": "https://www.lendhafen.at/open-call-2027-urban-ecologies-coexistence-and-control/",
+      "discoveryUrl": "https://on-the-move.org/news/lendhauer-projects-urban-ecologies-coexistence-and-control-2027-austria",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Mon, 05 Oct 2026 04:30:00 +0000",
+      "discoveredDate": "2026-10-05",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "de09548c7d8e2aba92d6",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "cultural heritage",
+          "weight": 8,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Chevening: British Library Coptic Collections Fellowship 2027 (UK)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.chevening.org/fellowship/chevening-british-library-coptic-collections-fellowship/",
+      "applyUrl": "https://www.chevening.org/fellowship/chevening-british-library-coptic-collections-fellowship/",
+      "discoveryUrl": "https://on-the-move.org/news/chevening-british-library-coptic-collections-fellowship-2027-uk",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Mon, 05 Oct 2026 04:00:00 +0000",
+      "discoveredDate": "2026-10-05",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "9236db0908bf0ba051f2",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "life science",
+          "weight": 4,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "title"
+        }
+      ],
+      "title": "Enterprise Account Executive - Healthcare & Life Science",
+      "organization": "Anthropic",
+      "location": "Seoul, South Korea",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432590008",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5432590008",
+      "discoveryUrl": null,
+      "sourceId": "greenhouse-anthropic",
+      "sourceLabel": "Anthropic",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-10-04T20:45:42-04:00",
+      "discoveredDate": "2026-10-05",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "eec3c1611bc4dc1da115",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Solutions Architect, Defence, DACH",
+      "organization": "Cohere",
+      "location": "Germany",
+      "url": "https://jobs.ashbyhq.com/cohere/f139eefb-cf4a-44fd-a70a-b8c0ee7cff16",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/f139eefb-cf4a-44fd-a70a-b8c0ee7cff16/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-10-02T12:59:09.857+00:00",
+      "discoveredDate": "2026-10-05",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "24b185a4849ce17f92e9",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Solutions Architect - DACH",
+      "organization": "Cohere",
+      "location": "Germany",
+      "url": "https://jobs.ashbyhq.com/cohere/4f191f3a-d5fc-4e1b-9988-cdac68ce3134",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/4f191f3a-d5fc-4e1b-9988-cdac68ce3134/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-10-02T12:57:15.639+00:00",
+      "discoveredDate": "2026-10-05",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "a157cc1f9e6c0fed6252",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "life science",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Senior Account Executive",
+      "organization": "Cohere",
+      "location": "United Kingdom",
+      "url": "https://jobs.ashbyhq.com/cohere/bdcdc6d1-2379-40fe-bfb6-d61768043b37",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/bdcdc6d1-2379-40fe-bfb6-d61768043b37/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-10-02T12:06:39.216+00:00",
+      "discoveredDate": "2026-10-05",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "18a30bcd113330618cc5",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -5084,61 +5199,6 @@
       "publishedAt": "2025-05-30T19:47:45-04:00",
       "discoveredDate": "2026-09-07",
       "status": "unverified-lead"
-    },
-    {
-      "candidateId": "188fd4a94cc409c81799",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 6,
-      "evidence": [
-        {
-          "keyword": "open call",
-          "weight": 6,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Asymmetry: 2027 Assistant Curator Fellowship Nottingham Contemporary (UK)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.asymmetryart.org/fellowships/open-calls/2027-asymmetry-assistant-curator-fellowship-nottingham-contemporary-opencall",
-      "applyUrl": "https://www.asymmetryart.org/fellowships/open-calls/2027-asymmetry-assistant-curator-fellowship-nottingham-contemporary-opencall",
-      "discoveryUrl": "https://on-the-move.org/news/asymmetry-2027-assistant-curator-fellowship-nottingham-contemporary-uk",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Wed, 30 Sep 2026 04:15:00 +0000",
-      "discoveredDate": "2026-09-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "a26bd7f48468964328b1",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 6,
-      "evidence": [
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "title"
-        },
-        {
-          "keyword": "design",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] French Institute: Creative ASEAN Coordinator Job (Indonesia)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://asean.diplomatie.gouv.fr/en/call-applications-service-provider-charge-regional-programme-creative-asean",
-      "applyUrl": "https://asean.diplomatie.gouv.fr/en/call-applications-service-provider-charge-regional-programme-creative-asean",
-      "discoveryUrl": "https://on-the-move.org/news/french-institute-creative-asean-coordinator-job-indonesia",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Thu, 01 Oct 2026 09:10:31 +0000",
-      "discoveredDate": "2026-10-02",
-      "status": "unverified-lead"
     }
   ],
   "sources": [
@@ -5149,9 +5209,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 209,
-      "contentHash": "133d09a7509fa9bd7a629483ab4d8c05715a7412b769ca040a049d2337ae03d7",
-      "lastChangedDate": "2026-10-02",
+      "itemCount": 208,
+      "contentHash": "2ef05ffabc76288f5817e4f8cc52c4b5c9b89e70e61853354d75e38cdc46a944",
+      "lastChangedDate": "2026-10-05",
       "error": null
     },
     {
@@ -5161,9 +5221,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cohere",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 132,
-      "contentHash": "f131ce90f91f53e737ee93cc7a82f031ed35829269a9cd6e3f72f2b7f65a0361",
-      "lastChangedDate": "2026-10-02",
+      "itemCount": 136,
+      "contentHash": "b7add038cc0f34a898aa78f24d1760093802c26f77ed8f60111545c3b9100523",
+      "lastChangedDate": "2026-10-05",
       "error": null
     },
     {
@@ -5173,9 +5233,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/sona",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 14,
-      "contentHash": "2e0fdba2ed1d777dde122b033e9649cd4f16ec0098d1203201d33b20f0f8ad2e",
-      "lastChangedDate": "2026-10-02",
+      "itemCount": 15,
+      "contentHash": "fc384929eb4ea0e668e46cf2144e6fe6c83d660b4b5e3fb6e4c233319e0b28e4",
+      "lastChangedDate": "2026-10-05",
       "error": null
     },
     {
@@ -5197,9 +5257,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cantina",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 17,
-      "contentHash": "305fd588e5b447b325db6bd28ceff66f7d9508734f72136091e9679367bd87e0",
-      "lastChangedDate": "2026-09-30",
+      "itemCount": 18,
+      "contentHash": "dfea2f3abb74b9df858de36dadef8e9fbad1abe3ed5eb6a7c99a3748f535b925",
+      "lastChangedDate": "2026-10-05",
       "error": null
     },
     {
@@ -5209,9 +5269,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/planday-from-xero",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 6,
-      "contentHash": "9cbb31f7304420eb03c532fc9eaa8bd6757c74330d957a57604f4a064bae29e8",
-      "lastChangedDate": "2026-10-02",
+      "itemCount": 7,
+      "contentHash": "8e7a4f1850a22af2f9b060c5565300732695acb294fc723ad8c5b4c7d7b96ef3",
+      "lastChangedDate": "2026-10-05",
       "error": null
     },
     {
@@ -5221,9 +5281,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 637,
-      "contentHash": "b57e64b7cb887586ae0810fab711ae270c555a52402cb39a032a38dea87be22d",
-      "lastChangedDate": "2026-10-02",
+      "itemCount": 638,
+      "contentHash": "2f20451b5837ed103b5bf2055e226541134ce1247871175e57a82fcb0e26527d",
+      "lastChangedDate": "2026-10-05",
       "error": null
     },
     {
@@ -5234,8 +5294,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 82,
-      "contentHash": "5a62579092dc4e7c12774d2981533a05a49ba8999cf591090046ea851257158d",
-      "lastChangedDate": "2026-10-02",
+      "contentHash": "25593db4a1b3e3499bb69fa84a752241ffe48ec9c6868384b8f924cd17579274",
+      "lastChangedDate": "2026-10-05",
       "error": null
     },
     {
@@ -5258,8 +5318,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 16,
-      "contentHash": "83575180c28432b0bd2c3722869cb97654ec820a0fdf62f236ae97040e368403",
-      "lastChangedDate": "2026-10-02",
+      "contentHash": "1844c13e3cbd17316d6726b533d261b218358cb3b86ed02078096686907be60b",
+      "lastChangedDate": "2026-10-05",
       "error": null
     },
     {
@@ -5270,8 +5330,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 10,
-      "contentHash": "1c137371fafce7aa57f4142cef4f2e9ad229f86cb3b8ef98e706e1704e346785",
-      "lastChangedDate": "2026-10-02",
+      "contentHash": "0aa12d26293a396af1c31e3dcedd6a7cc1e972eee3f177bf5bfc0b720561aaa5",
+      "lastChangedDate": "2026-10-05",
       "error": null
     },
     {
@@ -5303,12 +5363,12 @@
       "label": "EURAXESS Jobs",
       "kind": "watch",
       "url": "https://euraxess.ec.europa.eu/jobs/search",
-      "status": "error",
-      "httpStatus": null,
+      "status": "ok",
+      "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "4ea9d1d748b9a7cdc2660b9ec76b8d75643d85373cf1bb2fdc1c8a97354b3c83",
-      "lastChangedDate": "2026-09-30",
-      "error": "HTTP 403"
+      "contentHash": "dd16dc02138c2198f2f188423cc9ef8bcdfdee3ca30924084fa9c2d23a9a732f",
+      "lastChangedDate": "2026-10-05",
+      "error": null
     },
     {
       "id": "watch-rijksakademie",
