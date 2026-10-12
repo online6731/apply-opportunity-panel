@@ -1,5 +1,5 @@
 {
-  "generatedDate": "2026-10-09",
+  "generatedDate": "2026-10-12",
   "schemaVersion": 1,
   "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
   "summary": {
@@ -68,6 +68,96 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-09-28T16:08:25.776+00:00",
       "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "83624c562e0118916f94",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 23,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "deep learning",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer - Amsterdam",
+      "organization": "Mistral AI",
+      "location": "Amsterdam",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/9d6b3153-3162-4a89-bef8-bc24e18dabc6",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/9d6b3153-3162-4a89-bef8-bc24e18dabc6/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-10-09T14:25:41.918+00:00",
+      "discoveredDate": "2026-10-12",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "e86207ba6798372bbc70",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 23,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "deep learning",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer - London",
+      "organization": "Mistral AI",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/4c57adc5-5beb-49d2-9202-1db0807b9cb7",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/4c57adc5-5beb-49d2-9202-1db0807b9cb7/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-10-09T14:15:58.066+00:00",
+      "discoveredDate": "2026-10-12",
       "status": "unverified-lead"
     },
     {
@@ -237,7 +327,7 @@
           "field": "details"
         }
       ],
-      "title": "Applied AI, Forward Deployed Machine Learning Engineer",
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer - Montreal",
       "organization": "Mistral AI",
       "location": "Montréal",
       "url": "https://jobs.ashbyhq.com/mistral.ai/fe76010a-6384-4eae-ba08-1a6aa530ecbb",
@@ -247,51 +337,6 @@
       "sourceLabel": "Mistral AI",
       "sourceType": "job-board-api",
       "publishedAt": "2026-07-10T11:39:27.436+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "311d99f56f9c956077ac",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 23,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "applied ai",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "deep learning",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Applied AI, Forward Deployed Machine Learning Engineer",
-      "organization": "Mistral AI",
-      "location": "Paris",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/6ca94f06-e353-4f4f-91e2-56264fcb8863",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/6ca94f06-e353-4f4f-91e2-56264fcb8863/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-07-10T07:16:21.918+00:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
@@ -476,43 +521,38 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "aff0c5d546ac763b73e2",
+      "candidateId": "dca21929c2e789242e15",
       "person": "arzoo",
       "personLabel": "آرزو",
       "score": 20,
       "evidence": [
         {
-          "keyword": "textile",
-          "weight": 7,
+          "keyword": "artist residency",
+          "weight": 8,
+          "field": "details"
+        },
+        {
+          "keyword": "open call",
+          "weight": 6,
           "field": "details"
         },
         {
           "keyword": "residency",
           "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "materials",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "design",
-          "weight": 3,
           "field": "details"
         }
       ],
-      "title": "[News] Australian Tapestry Workshop: Hancock Fellowship International Artists Residency 2027 (Australia)",
+      "title": "[News] Gasworks: Upė Foundation Curatorial Fellow for Curator with a Baltic Connection (UK)",
       "organization": "On the Move",
       "location": "",
-      "url": "https://www.austapestry.com.au/2027AIR",
-      "applyUrl": "https://www.austapestry.com.au/2027AIR",
-      "discoveryUrl": "https://on-the-move.org/news/australian-tapestry-workshop-hancock-fellowship-international-artists-residency-2027-australia",
+      "url": "https://www.gasworks.org.uk/opportunities/upe-foundation-curatorial-fellow",
+      "applyUrl": "https://www.gasworks.org.uk/opportunities/upe-foundation-curatorial-fellow",
+      "discoveryUrl": "https://on-the-move.org/news/gasworks-upe-foundation-curatorial-fellow-curator-baltic-connection-uk",
       "sourceId": "on-the-move-rss",
       "sourceLabel": "On the Move",
       "sourceType": "curated-rss",
-      "publishedAt": "Mon, 05 Oct 2026 14:17:54 +0000",
-      "discoveredDate": "2026-10-07",
+      "publishedAt": "Mon, 12 Oct 2026 04:15:00 +0000",
+      "discoveredDate": "2026-10-12",
       "status": "unverified-lead"
     },
     {
@@ -673,6 +713,86 @@
       "sourceType": "curated-rss",
       "publishedAt": "Tue, 06 Oct 2026 04:30:00 +0000",
       "discoveredDate": "2026-10-07",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "275bedc31428306731be",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer - Amsterdam",
+      "organization": "Mistral AI",
+      "location": "Amsterdam",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/3bfcc327-bc29-447a-813a-f73c962d15c7",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/3bfcc327-bc29-447a-813a-f73c962d15c7/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-10-09T14:42:18.352+00:00",
+      "discoveredDate": "2026-10-12",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "306ef2b467e5be548a5d",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer - London",
+      "organization": "Mistral AI",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/dacccac8-1603-4d10-85d4-cde19389807e",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/dacccac8-1603-4d10-85d4-cde19389807e/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-10-09T14:36:04.645+00:00",
+      "discoveredDate": "2026-10-12",
       "status": "unverified-lead"
     },
     {
@@ -1116,46 +1236,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "c1781ff28c511a4d5ecd",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 18,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "applied ai",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer",
-      "organization": "Mistral AI",
-      "location": "Paris",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/4758abfb-12fb-401e-8c3b-896361d7036d",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/4758abfb-12fb-401e-8c3b-896361d7036d/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-07-03T16:55:11.813+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "f56a79e856fce16d21c6",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -1222,7 +1302,7 @@
           "field": "details"
         }
       ],
-      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer - EMEA",
+      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer - Paris",
       "organization": "Mistral AI",
       "location": "Paris",
       "url": "https://jobs.ashbyhq.com/mistral.ai/6f5451cb-ecb6-45af-8a03-6bb658c6c5a1",
@@ -1262,7 +1342,7 @@
           "field": "details"
         }
       ],
-      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer",
+      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer - Montreal",
       "organization": "Mistral AI",
       "location": "Montréal",
       "url": "https://jobs.ashbyhq.com/mistral.ai/3c7107b0-d2d1-4be9-838c-8a2dd15f1fdf",
@@ -1352,46 +1432,6 @@
       "sourceLabel": "Cohere",
       "sourceType": "job-board-api",
       "publishedAt": "2026-05-01T20:26:46.572+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "e65fca78f7e3de4e20e0",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 18,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "deep learning",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "computer vision",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Member of Technical Staff, Data & ML Infrastructure for Video Models",
-      "organization": "Cantina",
-      "location": "Remote (U.S. or Europe)",
-      "url": "https://jobs.ashbyhq.com/cantina/1d9bb30d-3d94-47b1-bff7-a0588741efab",
-      "applyUrl": "https://jobs.ashbyhq.com/cantina/1d9bb30d-3d94-47b1-bff7-a0588741efab/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-cantina",
-      "sourceLabel": "Cantina",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-04-02T21:04:49.751+00:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
@@ -2344,7 +2384,7 @@
       ],
       "title": "Research Engineer, Inference Foundation",
       "organization": "Mistral AI",
-      "location": "Paris",
+      "location": "Munich",
       "url": "https://jobs.ashbyhq.com/mistral.ai/162e8d27-8a88-403e-9f35-2bf541b387d7",
       "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/162e8d27-8a88-403e-9f35-2bf541b387d7/application",
       "discoveryUrl": null,
@@ -4396,36 +4436,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "2507d55d18aab00d9969",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 10,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        }
-      ],
-      "title": "Business Development Representative",
-      "organization": "Cohere",
-      "location": "Germany",
-      "url": "https://jobs.ashbyhq.com/cohere/f959be10-be25-4918-bcf3-39e1a83d2957",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/f959be10-be25-4918-bcf3-39e1a83d2957/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-cohere",
-      "sourceLabel": "Cohere",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-07-31T18:51:30.793+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "bfad464bb72a4942b0ce",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -5274,9 +5284,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 211,
-      "contentHash": "9852e1b08dde61845b770cc49246e36a934a02bd6f8c0966e2c849b127700f26",
-      "lastChangedDate": "2026-10-09",
+      "itemCount": 215,
+      "contentHash": "f2885ba0173e254f3bed48639fc001d89a2895c32b1ed5de05f733242954233c",
+      "lastChangedDate": "2026-10-12",
       "error": null
     },
     {
@@ -5286,9 +5296,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cohere",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 121,
-      "contentHash": "7afb3e78b6cebc97b591ab594d67b6b9ab3e26acdb2d5f115da457479cb8df30",
-      "lastChangedDate": "2026-10-09",
+      "itemCount": 119,
+      "contentHash": "da8709bb0fb16eec4dd67cea0bec2c3547de84dc7d5b0a1668b22e382bf36ac2",
+      "lastChangedDate": "2026-10-12",
       "error": null
     },
     {
@@ -5298,9 +5308,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/sona",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 15,
-      "contentHash": "fc384929eb4ea0e668e46cf2144e6fe6c83d660b4b5e3fb6e4c233319e0b28e4",
-      "lastChangedDate": "2026-10-05",
+      "itemCount": 13,
+      "contentHash": "e3a503b58159daafd8b23a402a813083f1d3b0645f8c334ced83b58cf43a075b",
+      "lastChangedDate": "2026-10-12",
       "error": null
     },
     {
@@ -5323,8 +5333,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 18,
-      "contentHash": "991d004033929d85440d0257044d13768b92c1e2d4464b30e3ab6baaca8a7abf",
-      "lastChangedDate": "2026-10-07",
+      "contentHash": "f828a2c4e3daa2c6c19b10e4ffbac88c5dc464f0eb47a27176a1fdbbce2ce4b7",
+      "lastChangedDate": "2026-10-12",
       "error": null
     },
     {
@@ -5346,9 +5356,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 644,
-      "contentHash": "387bb7b17c6eb8cbc61d9a8c8ccfae938d6cd5f182ee8640a9b88afade822bf2",
-      "lastChangedDate": "2026-10-09",
+      "itemCount": 646,
+      "contentHash": "a4d44fa048567cb20350cf1a53357bd09bc7f9d5c964b222296da114eea233e2",
+      "lastChangedDate": "2026-10-12",
       "error": null
     },
     {
@@ -5358,9 +5368,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/neuralink/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 79,
-      "contentHash": "2ddc9c1c47f6ed43c1cef1b1bada4f6325f8ef285eacf2dee74d6a6a37cb84bd",
-      "lastChangedDate": "2026-10-09",
+      "itemCount": 80,
+      "contentHash": "a2a77b275685d1addbdaaf11d7654f4d906326cd94b74ec6ebdb2d060a5069b6",
+      "lastChangedDate": "2026-10-12",
       "error": null
     },
     {
@@ -5370,9 +5380,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/goatgroup/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 12,
-      "contentHash": "fe415d5be3cd9871fcb9e03719255b668bda53e82f5711ad75a912380cb4e3a2",
-      "lastChangedDate": "2026-10-09",
+      "itemCount": 13,
+      "contentHash": "2bf4dc4b979957aa4d6381d2eded340ab2765bc800d21fe3625f2d81639cebb4",
+      "lastChangedDate": "2026-10-12",
       "error": null
     },
     {
@@ -5383,8 +5393,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 15,
-      "contentHash": "700a403822ee249ca48f21c67e747bb521638462854b00bc7ff3f8becfd67c00",
-      "lastChangedDate": "2026-10-09",
+      "contentHash": "121d3f4c4532f0d81ac00525e9bb365c1c9866d8109ae766f4d41bc9548b7b31",
+      "lastChangedDate": "2026-10-12",
       "error": null
     },
     {
@@ -5395,8 +5405,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 10,
-      "contentHash": "982c82037f3d448190dcc60461465a4a037c5bfc224b4eb1eb05ac59ec72624f",
-      "lastChangedDate": "2026-10-09",
+      "contentHash": "97c1e85a7afde25f7c29c652b743d230c0200c620351dbe87df36dbb651bef21",
+      "lastChangedDate": "2026-10-12",
       "error": null
     },
     {
@@ -5431,8 +5441,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "26855c499dbe4b689f6c8fc2012ce20d5f2f07ca5a38402ee5417ea1d1382753",
-      "lastChangedDate": "2026-10-09",
+      "contentHash": "9b6581efc22438c0b6c092b25c5a628fe7162b3c347df2fa709eaec287508844",
+      "lastChangedDate": "2026-10-12",
       "error": null
     },
     {
