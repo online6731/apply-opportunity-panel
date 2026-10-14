@@ -1,11 +1,11 @@
 {
-  "generatedDate": "2026-10-12",
+  "generatedDate": "2026-10-14",
   "schemaVersion": 1,
   "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
   "summary": {
     "candidates": 150,
-    "mohammad": 142,
-    "arzoo": 8,
+    "mohammad": 141,
+    "arzoo": 9,
     "sourceErrors": 0,
     "excludedExisting": 5
   },
@@ -633,86 +633,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-05-12T07:03:27.125+00:00",
       "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "859da1477f71f635d32e",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 18,
-      "evidence": [
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "fine art",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "materials",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] OASis: KIBLA Residence on Artistic Intelligence Nature and Technology 2026 (Slovenia)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://on-the-move.org/news/oasis-kibla-residence-artistic-intelligence-nature-and-technology-2026-slovenia",
-      "applyUrl": "https://on-the-move.org/news/oasis-kibla-residence-artistic-intelligence-nature-and-technology-2026-slovenia",
-      "discoveryUrl": "https://on-the-move.org/news/oasis-kibla-residence-artistic-intelligence-nature-and-technology-2026-slovenia",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Tue, 06 Oct 2026 04:45:00 +0000",
-      "discoveredDate": "2026-10-07",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "72daa06a9d7b49b5523c",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 18,
-      "evidence": [
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "sustainable",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "materials",
-          "weight": 4,
-          "field": "title"
-        },
-        {
-          "keyword": "design",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] HIAP: Learning Materials International Artist in Residence 2027",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.hiap.fi/open-call/open-call-learning-materials-international-artist-in-residence-2027/",
-      "applyUrl": "https://www.hiap.fi/open-call/open-call-learning-materials-international-artist-in-residence-2027/",
-      "discoveryUrl": "https://on-the-move.org/news/hiap-learning-materials-international-artist-residence-2027",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Tue, 06 Oct 2026 04:30:00 +0000",
-      "discoveredDate": "2026-10-07",
       "status": "unverified-lead"
     },
     {
@@ -1476,6 +1396,41 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "a6ca55e11a95d02a3b17",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 17,
+      "evidence": [
+        {
+          "keyword": "artist residency",
+          "weight": 8,
+          "field": "title"
+        },
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Maison Ackerman/Abbaye Royale de Fontevraud: Artist Residency 2027 for Immersive Artistic Project (France)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.fontevraud.fr/residence/residences-ackerman-fontevraud/",
+      "applyUrl": "https://www.fontevraud.fr/residence/residences-ackerman-fontevraud/",
+      "discoveryUrl": "https://on-the-move.org/news/maison-ackermanabbaye-royale-de-fontevraud-artist-residency-2027-immersive-artistic-project",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Wed, 14 Oct 2026 04:00:00 +0000",
+      "discoveredDate": "2026-10-14",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "917e76bc37e89068d4f3",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -1591,43 +1546,83 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "82c0b620ee2048c47ffb",
+      "candidateId": "237a87911f0770b46608",
       "person": "arzoo",
       "personLabel": "آرزو",
       "score": 16,
       "evidence": [
         {
-          "keyword": "residency",
+          "keyword": "open call",
           "weight": 6,
           "field": "details"
         },
         {
-          "keyword": "sustainability",
-          "weight": 5,
+          "keyword": "materials",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "design",
+          "weight": 3,
+          "field": "details"
+        },
+        {
+          "keyword": "social media",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Kunstraum Memphis: ‘Memphis Calling’ Curatorial Exhibition Concept 2027 (Austria)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.memphismemph.is/program/memphis-calling",
+      "applyUrl": "https://www.memphismemph.is/program/memphis-calling",
+      "discoveryUrl": "https://on-the-move.org/news/kunstraum-memphis-memphis-calling-curatorial-exhibition-concept-2027-austria",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Wed, 14 Oct 2026 04:15:00 +0000",
+      "discoveredDate": "2026-10-14",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "e86316cf9fb9025376ed",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 16,
+      "evidence": [
+        {
+          "keyword": "fashion",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "model",
+          "weight": 4,
           "field": "details"
         },
         {
           "keyword": "creative",
           "weight": 3,
-          "field": "title"
+          "field": "details"
         },
         {
-          "keyword": "content",
-          "weight": 2,
+          "keyword": "design",
+          "weight": 3,
           "field": "details"
         }
       ],
-      "title": "[Our News] 200+ Cultural Organisations Oppose Proposed Cuts to Creative Europe",
+      "title": "[Our News] Cultural Mobility Forum 2027 (Casablanca, Morocco)",
       "organization": "On the Move",
       "location": "",
-      "url": "https://on-the-move.org/about/our-news/200-cultural-organisations-oppose-proposed-cuts-creative-europe",
-      "applyUrl": "https://on-the-move.org/about/our-news/200-cultural-organisations-oppose-proposed-cuts-creative-europe",
-      "discoveryUrl": "https://on-the-move.org/about/our-news/200-cultural-organisations-oppose-proposed-cuts-creative-europe",
+      "url": "https://on-the-move.org/about/our-news/cultural-mobility-forum-2027-casablanca-morocco",
+      "applyUrl": "https://on-the-move.org/about/our-news/cultural-mobility-forum-2027-casablanca-morocco",
+      "discoveryUrl": "https://on-the-move.org/about/our-news/cultural-mobility-forum-2027-casablanca-morocco",
       "sourceId": "on-the-move-rss",
       "sourceLabel": "On the Move",
       "sourceType": "curated-rss",
-      "publishedAt": "Tue, 06 Oct 2026 14:57:56 +0000",
-      "discoveredDate": "2026-10-07",
+      "publishedAt": "Tue, 13 Oct 2026 09:19:19 +0000",
+      "discoveredDate": "2026-10-14",
       "status": "unverified-lead"
     },
     {
@@ -1981,6 +1976,41 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "a43e0e8f9cfdd8c12c01",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 13,
+      "evidence": [
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "materials",
+          "weight": 4,
+          "field": "title"
+        },
+        {
+          "keyword": "design",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] TRACES: Residency at Laboratory for Energy Materials for Visual Artists 2027 (Switzerland)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.traces-opencall.ch/en",
+      "applyUrl": "https://www.traces-opencall.ch/en",
+      "discoveryUrl": "https://on-the-move.org/news/traces-residency-laboratory-energy-materials-visual-artists-2027-switzerland",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Tue, 13 Oct 2026 11:00:18 +0000",
+      "discoveredDate": "2026-10-14",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "05b871a6d5895f155a11",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -2296,33 +2326,73 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "7a9cc3d4a3a5184d5ac3",
+      "candidateId": "2c6f2ccea9fb52d7e3cd",
       "person": "arzoo",
       "personLabel": "آرزو",
       "score": 12,
       "evidence": [
         {
-          "keyword": "open call",
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        },
+        {
+          "keyword": "design",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Cité internationale des arts: Trame Residency for French-speaking Artists 2027 (France)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.citeinternationaledesarts.fr/en/appels-a-candidature/trame/",
+      "applyUrl": "https://www.citeinternationaledesarts.fr/en/appels-a-candidature/trame/",
+      "discoveryUrl": "https://on-the-move.org/news/cite-internationale-des-arts-trame-residency-french-speaking-artists-2027-france",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Tue, 13 Oct 2026 14:17:09 +0000",
+      "discoveredDate": "2026-10-14",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "1a89e2db0e22a072020a",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
           "weight": 6,
           "field": "details"
         },
         {
-          "keyword": "residency",
-          "weight": 6,
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
           "field": "details"
         }
       ],
-      "title": "[News] Ukraine Solidarity Residencies Programme: Residencies for Ukrainian and Ukraine-based Artists 2027 (Finland)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.hiap.fi/open-call/open-call-for-ukrainian-and-ukraine-based-artists-in-finland-2027/",
-      "applyUrl": "https://www.hiap.fi/open-call/open-call-for-ukrainian-and-ukraine-based-artists-in-finland-2027/",
-      "discoveryUrl": "https://on-the-move.org/news/ukraine-solidarity-residencies-programme-residencies-ukrainian-and-ukraine-based-artists-2027",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Wed, 07 Oct 2026 04:15:00 +0000",
-      "discoveredDate": "2026-10-07",
+      "title": "Forward Deployed Engineer, Agentic Platform (Korea)",
+      "organization": "Cohere",
+      "location": "Korea",
+      "url": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-10-13T11:38:09.702+00:00",
+      "discoveredDate": "2026-10-14",
       "status": "unverified-lead"
     },
     {
@@ -3926,36 +3996,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "3dd97babddb3b5fec279",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 11,
-      "evidence": [
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "sustainability",
-          "weight": 5,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Bunnell Streets Arts Center: Alaska AIR 2027-2028 Artist in Residence (USA)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.bunnellarts.org/artist-in-residence/",
-      "applyUrl": "https://www.bunnellarts.org/artist-in-residence/",
-      "discoveryUrl": "https://on-the-move.org/news/bunnell-streets-arts-center-alaska-air-2027-2028-artist-residence-usa",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Wed, 07 Oct 2026 03:30:00 +0000",
-      "discoveredDate": "2026-10-07",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "30b657e712ebacbc893c",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -4616,7 +4656,7 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "851991d4a68a1d37ad3e",
+      "candidateId": "7f3cc63533fad1ef5a97",
       "person": "arzoo",
       "personLabel": "آرزو",
       "score": 9,
@@ -4624,7 +4664,7 @@
         {
           "keyword": "residency",
           "weight": 6,
-          "field": "details"
+          "field": "title"
         },
         {
           "keyword": "creative",
@@ -4632,17 +4672,47 @@
           "field": "details"
         }
       ],
-      "title": "[News] Ukraine Solidarity Residencies Programme: Residencies for Palestinian Artists 2027 (Finland)",
+      "title": "[News] Narva Art Residency: Residency for Nordic or Baltic Artists on ‘Sensing the Border’ (Estonia)",
       "organization": "On the Move",
       "location": "",
-      "url": "https://www.hiap.fi/open-call/open-call-for-palestinian-artists-in-helsinki-finland-spring-2027/",
-      "applyUrl": "https://www.hiap.fi/open-call/open-call-for-palestinian-artists-in-helsinki-finland-spring-2027/",
-      "discoveryUrl": "https://on-the-move.org/news/ukraine-solidarity-residencies-programme-residencies-palestinian-artists-2027-finland",
+      "url": "https://www.nart.ee/en/open-call-sensing-the-border/",
+      "applyUrl": "https://www.nart.ee/en/open-call-sensing-the-border/",
+      "discoveryUrl": "https://on-the-move.org/news/narva-art-residency-residency-nordic-or-baltic-artists-sensing-border-estonia",
       "sourceId": "on-the-move-rss",
       "sourceLabel": "On the Move",
       "sourceType": "curated-rss",
-      "publishedAt": "Thu, 08 Oct 2026 04:00:00 +0000",
-      "discoveredDate": "2026-10-09",
+      "publishedAt": "Tue, 13 Oct 2026 11:14:39 +0000",
+      "discoveredDate": "2026-10-14",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "8926164e21dd059cd2ef",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 9,
+      "evidence": [
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] HERside: Residency Exchange for Female Artists and Cultural Professionals (Slovakia, Ukraine)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://kinousmev.sk/article-detail/6aba816fa6249e1ae8b5cde2/?lang=sk_SK",
+      "applyUrl": "https://kinousmev.sk/article-detail/6aba816fa6249e1ae8b5cde2/?lang=sk_SK",
+      "discoveryUrl": "https://on-the-move.org/news/herside-unesco-creative-cities-parallel-residencies-slovakia-ukraine",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Tue, 13 Oct 2026 10:45:50 +0000",
+      "discoveredDate": "2026-10-14",
       "status": "unverified-lead"
     },
     {
@@ -5214,66 +5284,6 @@
       "publishedAt": "2026-02-03T15:41:25.507+00:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
-    },
-    {
-      "candidateId": "30e1c0907d2782a03332",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 7,
-      "evidence": [
-        {
-          "keyword": "foundation model",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Forward Deployed Full-Stack Engineer",
-      "organization": "Fundamental",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/fundamental/42ebe75e-43ca-46a0-9584-5c9ee930311d",
-      "applyUrl": "https://jobs.ashbyhq.com/fundamental/42ebe75e-43ca-46a0-9584-5c9ee930311d/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-fundamental",
-      "sourceLabel": "Fundamental",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-01-22T15:53:48.607+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "7ade376c9a0ac1df09d3",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 7,
-      "evidence": [
-        {
-          "keyword": "foundation model",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "DevOps Engineer",
-      "organization": "Fundamental",
-      "location": "Europe",
-      "url": "https://jobs.ashbyhq.com/fundamental/3f7ce69f-14c2-403d-9cfe-9b463c923dd5",
-      "applyUrl": "https://jobs.ashbyhq.com/fundamental/3f7ce69f-14c2-403d-9cfe-9b463c923dd5/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-fundamental",
-      "sourceLabel": "Fundamental",
-      "sourceType": "job-board-api",
-      "publishedAt": "2025-12-02T09:21:28.012+00:00",
-      "discoveredDate": "2026-10-09",
-      "status": "unverified-lead"
     }
   ],
   "sources": [
@@ -5284,9 +5294,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 215,
-      "contentHash": "f2885ba0173e254f3bed48639fc001d89a2895c32b1ed5de05f733242954233c",
-      "lastChangedDate": "2026-10-12",
+      "itemCount": 214,
+      "contentHash": "0636dfc44d983e44476b7cdc1c5afcd9d3ca623233dfb06f8b4dcbad17769932",
+      "lastChangedDate": "2026-10-14",
       "error": null
     },
     {
@@ -5296,9 +5306,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cohere",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 119,
-      "contentHash": "da8709bb0fb16eec4dd67cea0bec2c3547de84dc7d5b0a1668b22e382bf36ac2",
-      "lastChangedDate": "2026-10-12",
+      "itemCount": 118,
+      "contentHash": "a5bc4e6cba6d747b01c6083b80b3aa70a6557aa24ed4938d3be6f1e1a3678787",
+      "lastChangedDate": "2026-10-14",
       "error": null
     },
     {
@@ -5332,9 +5342,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cantina",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 18,
-      "contentHash": "f828a2c4e3daa2c6c19b10e4ffbac88c5dc464f0eb47a27176a1fdbbce2ce4b7",
-      "lastChangedDate": "2026-10-12",
+      "itemCount": 19,
+      "contentHash": "7034e8f5a61db6e95c26a83cb19debcf9ec7865e03f54cc7797dd4f9a73ef639",
+      "lastChangedDate": "2026-10-14",
       "error": null
     },
     {
@@ -5345,8 +5355,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 9,
-      "contentHash": "bfa54e9bc3c7be9f38b96cda32ab5b33775c01bc469c2c80304a732495d46728",
-      "lastChangedDate": "2026-10-09",
+      "contentHash": "b5676bebbdede8da8c35721980debd02a6cbec732b95184513f6a94a8124faf7",
+      "lastChangedDate": "2026-10-14",
       "error": null
     },
     {
@@ -5356,9 +5366,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 646,
-      "contentHash": "a4d44fa048567cb20350cf1a53357bd09bc7f9d5c964b222296da114eea233e2",
-      "lastChangedDate": "2026-10-12",
+      "itemCount": 648,
+      "contentHash": "6939088ea4248c83db9b3ca5915e503ce82cd055721aa5800fa6bb86ddf3121d",
+      "lastChangedDate": "2026-10-14",
       "error": null
     },
     {
@@ -5368,9 +5378,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/neuralink/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 80,
-      "contentHash": "a2a77b275685d1addbdaaf11d7654f4d906326cd94b74ec6ebdb2d060a5069b6",
-      "lastChangedDate": "2026-10-12",
+      "itemCount": 81,
+      "contentHash": "f966d7c615545a7d22b2c33266f0c2e2cde3375ca29c8861bb26c3d9956ff44b",
+      "lastChangedDate": "2026-10-14",
       "error": null
     },
     {
@@ -5381,8 +5391,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 13,
-      "contentHash": "2bf4dc4b979957aa4d6381d2eded340ab2765bc800d21fe3625f2d81639cebb4",
-      "lastChangedDate": "2026-10-12",
+      "contentHash": "094f9812282f0991227f07441d7b83aec66f23ba8c9bbf7681cf421c22514584",
+      "lastChangedDate": "2026-10-14",
       "error": null
     },
     {
@@ -5392,9 +5402,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/stitchfix/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 15,
-      "contentHash": "121d3f4c4532f0d81ac00525e9bb365c1c9866d8109ae766f4d41bc9548b7b31",
-      "lastChangedDate": "2026-10-12",
+      "itemCount": 18,
+      "contentHash": "dfa51853d29895c220dd940a0f9b0f4742c5f47fed8a71c061b60d5a4458218e",
+      "lastChangedDate": "2026-10-14",
       "error": null
     },
     {
@@ -5405,8 +5415,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 10,
-      "contentHash": "97c1e85a7afde25f7c29c652b743d230c0200c620351dbe87df36dbb651bef21",
-      "lastChangedDate": "2026-10-12",
+      "contentHash": "d0b5eae7650f2bbf2d31c575da714cb0e6bdad2d16d4a9605dafb314fa4383b7",
+      "lastChangedDate": "2026-10-14",
       "error": null
     },
     {
@@ -5441,8 +5451,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "9b6581efc22438c0b6c092b25c5a628fe7162b3c347df2fa709eaec287508844",
-      "lastChangedDate": "2026-10-12",
+      "contentHash": "26ea392e01d74a2c244d588b8811ecd8bf868df55818e63816ee705dfe67d16b",
+      "lastChangedDate": "2026-10-14",
       "error": null
     },
     {
