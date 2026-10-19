@@ -1,11 +1,11 @@
 {
-  "generatedDate": "2026-10-16",
+  "generatedDate": "2026-10-19",
   "schemaVersion": 1,
   "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
   "summary": {
     "candidates": 150,
-    "mohammad": 142,
-    "arzoo": 8,
+    "mohammad": 143,
+    "arzoo": 7,
     "sourceErrors": 0,
     "excludedExisting": 4
   },
@@ -643,6 +643,41 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-05-12T07:03:27.125+00:00",
       "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "007e17ed8ccf6d409810",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "cultural heritage",
+          "weight": 8,
+          "field": "details"
+        },
+        {
+          "keyword": "textile",
+          "weight": 7,
+          "field": "details"
+        },
+        {
+          "keyword": "design",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Schwabach: Ortung 15 Competition for the Schwabach Art Prize (Germany)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.schwabach.de/images/referate/Kulturamt/ortung/ortung_15/ortung_15_Call_online_final.pdf",
+      "applyUrl": "https://www.schwabach.de/images/referate/Kulturamt/ortung/ortung_15/ortung_15_Call_online_final.pdf",
+      "discoveryUrl": "https://on-the-move.org/news/schwabach-ortung-15-competition-schwabach-art-prize-germany",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Mon, 19 Oct 2026 04:15:00 +0000",
+      "discoveredDate": "2026-10-19",
       "status": "unverified-lead"
     },
     {
@@ -1406,41 +1441,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "a6ca55e11a95d02a3b17",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 17,
-      "evidence": [
-        {
-          "keyword": "artist residency",
-          "weight": 8,
-          "field": "title"
-        },
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Maison Ackerman/Abbaye Royale de Fontevraud: Artist Residency 2027 for Immersive Artistic Project (France)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.fontevraud.fr/residence/residences-ackerman-fontevraud/",
-      "applyUrl": "https://www.fontevraud.fr/residence/residences-ackerman-fontevraud/",
-      "discoveryUrl": "https://on-the-move.org/news/maison-ackermanabbaye-royale-de-fontevraud-artist-residency-2027-immersive-artistic-project",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Wed, 14 Oct 2026 04:00:00 +0000",
-      "discoveredDate": "2026-10-14",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "917e76bc37e89068d4f3",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -1553,46 +1553,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2025-11-07T23:27:54.368+00:00",
       "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "237a87911f0770b46608",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 16,
-      "evidence": [
-        {
-          "keyword": "open call",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "materials",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "design",
-          "weight": 3,
-          "field": "details"
-        },
-        {
-          "keyword": "social media",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Kunstraum Memphis: ‘Memphis Calling’ Curatorial Exhibition Concept 2027 (Austria)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.memphismemph.is/program/memphis-calling",
-      "applyUrl": "https://www.memphismemph.is/program/memphis-calling",
-      "discoveryUrl": "https://on-the-move.org/news/kunstraum-memphis-memphis-calling-curatorial-exhibition-concept-2027-austria",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Wed, 14 Oct 2026 04:15:00 +0000",
-      "discoveredDate": "2026-10-14",
       "status": "unverified-lead"
     },
     {
@@ -1768,6 +1728,36 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-08-03T16:33:45.506+00:00",
       "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "3772e71998175c902f43",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 14,
+      "evidence": [
+        {
+          "keyword": "artist residency",
+          "weight": 8,
+          "field": "title"
+        },
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
+        }
+      ],
+      "title": "[News] Hordaland Kunstsenter: Artist Residency 2027/2028 for Nordic- and Baltic-based Artists (Norway)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://kunstsenter.no/triangle/5",
+      "applyUrl": "https://kunstsenter.no/triangle/5",
+      "discoveryUrl": "https://on-the-move.org/news/hordaland-kunstsenter-artist-residency-20272028-nordic-and-baltic-based-artists-norway",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Mon, 19 Oct 2026 04:00:00 +0000",
+      "discoveredDate": "2026-10-19",
       "status": "unverified-lead"
     },
     {
@@ -2256,38 +2246,73 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "2c6f2ccea9fb52d7e3cd",
-      "person": "arzoo",
-      "personLabel": "آرزو",
+      "candidateId": "81b2b7f717feffb302c9",
+      "person": "mohammad",
+      "personLabel": "محمد",
       "score": 12,
       "evidence": [
         {
-          "keyword": "residency",
+          "keyword": "research engineer",
           "weight": 6,
           "field": "title"
         },
         {
-          "keyword": "creative",
-          "weight": 3,
+          "keyword": "healthcare",
+          "weight": 4,
           "field": "details"
         },
         {
-          "keyword": "design",
-          "weight": 3,
+          "keyword": "python",
+          "weight": 2,
           "field": "details"
         }
       ],
-      "title": "[News] Cité internationale des arts: Trame Residency for French-speaking Artists 2027 (France)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.citeinternationaledesarts.fr/en/appels-a-candidature/trame/",
-      "applyUrl": "https://www.citeinternationaledesarts.fr/en/appels-a-candidature/trame/",
-      "discoveryUrl": "https://on-the-move.org/news/cite-internationale-des-arts-trame-residency-french-speaking-artists-2027-france",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Tue, 13 Oct 2026 14:17:09 +0000",
-      "discoveredDate": "2026-10-14",
+      "title": "Research Engineer, Sandboxes",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/736b11b6-a4f3-4ea8-b126-4d8e14fc0220",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/736b11b6-a4f3-4ea8-b126-4d8e14fc0220/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-10-16T17:34:44.491+00:00",
+      "discoveredDate": "2026-10-19",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "521fe2aaa2c279b35712",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Research Engineer - Search and Services",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/82a83fc6-8725-4f22-9a34-a43a64cf0455",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/82a83fc6-8725-4f22-9a34-a43a64cf0455/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-10-16T13:29:52.835+00:00",
+      "discoveredDate": "2026-10-19",
       "status": "unverified-lead"
     },
     {
@@ -3961,6 +3986,36 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "fe87324c96b91a861adf",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 11,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        }
+      ],
+      "title": "Social Media & Content Marketing Manager",
+      "organization": "Fundamental",
+      "location": "US (remote)",
+      "url": "https://jobs.ashbyhq.com/fundamental/fe0c6191-eec4-4ab7-8ab6-ec8c98371f9c",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/fe0c6191-eec4-4ab7-8ab6-ec8c98371f9c/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-10-16T13:24:23.131+00:00",
+      "discoveredDate": "2026-10-19",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "30b657e712ebacbc893c",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -4078,6 +4133,36 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-06-16T12:16:27.535+00:00",
       "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "cbc46b3e3b1b91ef0fb7",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Head of Solutions Operations",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/27e2dd78-7f79-4337-a127-4049c822728d",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/27e2dd78-7f79-4337-a127-4049c822728d/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-10-16T11:42:39.666+00:00",
+      "discoveredDate": "2026-10-19",
       "status": "unverified-lead"
     },
     {
@@ -4348,36 +4433,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-09-11T19:35:45.786+00:00",
       "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "9c3fb5f9250fbc31e487",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 10,
-      "evidence": [
-        {
-          "keyword": "applied ai",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        }
-      ],
-      "title": "Technical Recruiter, APAC",
-      "organization": "Mistral AI",
-      "location": "Singapore",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/69e04ad2-f097-4b6d-a477-f9070c67ad16",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/69e04ad2-f097-4b6d-a477-f9070c67ad16/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-09-10T10:46:48.117+00:00",
-      "discoveredDate": "2026-09-11",
       "status": "unverified-lead"
     },
     {
@@ -4681,36 +4736,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "7f3cc63533fad1ef5a97",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 9,
-      "evidence": [
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Narva Art Residency: Residency for Nordic or Baltic Artists on ‘Sensing the Border’ (Estonia)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.nart.ee/en/open-call-sensing-the-border/",
-      "applyUrl": "https://www.nart.ee/en/open-call-sensing-the-border/",
-      "discoveryUrl": "https://on-the-move.org/news/narva-art-residency-residency-nordic-or-baltic-artists-sensing-border-estonia",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Tue, 13 Oct 2026 11:14:39 +0000",
-      "discoveredDate": "2026-10-14",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "b17f9c79465ab801d6ad",
       "person": "arzoo",
       "personLabel": "آرزو",
@@ -4768,6 +4793,36 @@
       "sourceType": "curated-rss",
       "publishedAt": "Thu, 15 Oct 2026 09:23:44 +0000",
       "discoveredDate": "2026-10-16",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "f7aca1c321fedb25fbc7",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 9,
+      "evidence": [
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Sixi Museum: Sixi International Artist-In-Residence 2027 (China)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://siximuseum.com/en/residency/",
+      "applyUrl": "https://siximuseum.com/en/residency/",
+      "discoveryUrl": "https://on-the-move.org/news/sixi-museum-sixi-international-artist-residence-2027-china",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Mon, 19 Oct 2026 04:30:00 +0000",
+      "discoveredDate": "2026-10-19",
       "status": "unverified-lead"
     },
     {
@@ -5219,66 +5274,6 @@
       "publishedAt": "2025-06-25T11:34:46.521+00:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
-    },
-    {
-      "candidateId": "78492850a04251c233c5",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 8,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Member of Technical Staff, Training Performance Engineer",
-      "organization": "Cohere",
-      "location": "London",
-      "url": "https://jobs.ashbyhq.com/cohere/d42f5fd4-1ffc-45b9-957c-f09862db6af6",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/d42f5fd4-1ffc-45b9-957c-f09862db6af6/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-cohere",
-      "sourceLabel": "Cohere",
-      "sourceType": "job-board-api",
-      "publishedAt": "2025-02-20T10:45:59.057+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "57bb1e4aec89d2627521",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 7,
-      "evidence": [
-        {
-          "keyword": "foundation model",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Backend Engineer - Extensions",
-      "organization": "Fundamental",
-      "location": "Europe",
-      "url": "https://jobs.ashbyhq.com/fundamental/1a11359c-22ed-4323-9e40-d14b0e1e7c7b",
-      "applyUrl": "https://jobs.ashbyhq.com/fundamental/1a11359c-22ed-4323-9e40-d14b0e1e7c7b/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-fundamental",
-      "sourceLabel": "Fundamental",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-06-22T14:06:39.211+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
     }
   ],
   "sources": [
@@ -5289,9 +5284,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 217,
-      "contentHash": "2dd6db647462a038fe7cc70f925fa9e3abe0ebc82322b9e0132ab314996a2987",
-      "lastChangedDate": "2026-10-16",
+      "itemCount": 219,
+      "contentHash": "5e7def2ecd21fb7aef4954a47561a56d1827e579744d84618e6fde14aa0dc139",
+      "lastChangedDate": "2026-10-19",
       "error": null
     },
     {
@@ -5301,9 +5296,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cohere",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 118,
-      "contentHash": "6cc0baac65609c3bffd91f1291eff535a46618f10c846a57a84b62a1af0086e0",
-      "lastChangedDate": "2026-10-16",
+      "itemCount": 116,
+      "contentHash": "3e2c8043a7bd4e3637783c6c3baad27e38e89554fdbf1fa043f2e7b0364693fe",
+      "lastChangedDate": "2026-10-19",
       "error": null
     },
     {
@@ -5314,8 +5309,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 13,
-      "contentHash": "e3a503b58159daafd8b23a402a813083f1d3b0645f8c334ced83b58cf43a075b",
-      "lastChangedDate": "2026-10-12",
+      "contentHash": "5cbed53013aa2175e99eebee858b010cbc15d99d6ab92c92810e6139292831d5",
+      "lastChangedDate": "2026-10-19",
       "error": null
     },
     {
@@ -5325,9 +5320,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/fundamental",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 21,
-      "contentHash": "68f29bca2552df65f8641af56ad5dea3bca7fc2b142b45de701ffba48c23709e",
-      "lastChangedDate": "2026-10-16",
+      "itemCount": 22,
+      "contentHash": "b887ce00084d10fae8434a52a4e4c9af8952a1af0ef3441a8c8c53581957a8f1",
+      "lastChangedDate": "2026-10-19",
       "error": null
     },
     {
@@ -5361,9 +5356,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 653,
-      "contentHash": "a56a5a38aad45d83fec92b785896c4f46d76faee6f9b0bfc300331b79ef8b87a",
-      "lastChangedDate": "2026-10-16",
+      "itemCount": 659,
+      "contentHash": "3ed2a6c1093e8d66c791de77810168f8cdc6ba0e05147ce6a32c35f31f83a9a3",
+      "lastChangedDate": "2026-10-19",
       "error": null
     },
     {
@@ -5398,8 +5393,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 14,
-      "contentHash": "7105efd41ce1ff3ee1ea8875497023db2e47643dba0d66c31349afc736487901",
-      "lastChangedDate": "2026-10-16",
+      "contentHash": "92286e18456e16d7b448d567e914c749104adfd19f21e910237033d0e44822d4",
+      "lastChangedDate": "2026-10-19",
       "error": null
     },
     {
@@ -5410,8 +5405,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 10,
-      "contentHash": "6ed4a2f07b67d6e3541c0583a1a925e86c9096ea819eb5101ef01f36b0168914",
-      "lastChangedDate": "2026-10-16",
+      "contentHash": "bf373cfdcb3b9c237fbdd55fb3ca4e801495432e5a86679252ad991ab4e3b7ab",
+      "lastChangedDate": "2026-10-19",
       "error": null
     },
     {
@@ -5446,8 +5441,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "02699f08cc7c7ed71afbfa037e34db6a20d3519b977877e5ca96fdda7941344c",
-      "lastChangedDate": "2026-10-16",
+      "contentHash": "aa4a41715141eb579c584e8b9efae1ee1b740226a77cb971662baa25860b1171",
+      "lastChangedDate": "2026-10-19",
       "error": null
     },
     {
