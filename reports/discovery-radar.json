@@ -1,11 +1,11 @@
 {
-  "generatedDate": "2026-10-23",
+  "generatedDate": "2026-10-26",
   "schemaVersion": 1,
   "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
   "summary": {
     "candidates": 150,
-    "mohammad": 143,
-    "arzoo": 7,
+    "mohammad": 144,
+    "arzoo": 6,
     "sourceErrors": 1,
     "excludedExisting": 4
   },
@@ -598,41 +598,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-10-22T06:52:45.306+00:00",
       "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "007e17ed8ccf6d409810",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 18,
-      "evidence": [
-        {
-          "keyword": "cultural heritage",
-          "weight": 8,
-          "field": "details"
-        },
-        {
-          "keyword": "textile",
-          "weight": 7,
-          "field": "details"
-        },
-        {
-          "keyword": "design",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Schwabach: Ortung 15 Competition for the Schwabach Art Prize (Germany)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.schwabach.de/images/referate/Kulturamt/ortung/ortung_15/ortung_15_Call_online_final.pdf",
-      "applyUrl": "https://www.schwabach.de/images/referate/Kulturamt/ortung/ortung_15/ortung_15_Call_online_final.pdf",
-      "discoveryUrl": "https://on-the-move.org/news/schwabach-ortung-15-competition-schwabach-art-prize-germany",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Mon, 19 Oct 2026 04:15:00 +0000",
-      "discoveredDate": "2026-10-23",
       "status": "unverified-lead"
     },
     {
@@ -1643,6 +1608,41 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-06-18T18:30:08.048+00:00",
       "discoveredDate": "2026-09-11",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "9f5adc88b6f70d423c2e",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 14,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "life science",
+          "weight": 4,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "title"
+        }
+      ],
+      "title": "Applied AI Security Architect - Healthcare & Life Sciences",
+      "organization": "Anthropic",
+      "location": "New York City, NY; San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461873008",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5461873008",
+      "discoveryUrl": null,
+      "sourceId": "greenhouse-anthropic",
+      "sourceLabel": "Anthropic",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-10-23T10:31:11-04:00",
+      "discoveredDate": "2026-10-26",
       "status": "unverified-lead"
     },
     {
@@ -4146,6 +4146,36 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "1789e1e2829152b39350",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Legal Counsel - US",
+      "organization": "Mistral AI",
+      "location": "Palo Alto",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/4b3a18d7-e12d-4517-8ba6-cae7fe692bc4",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/4b3a18d7-e12d-4517-8ba6-cae7fe692bc4/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-10-23T18:32:15.732+00:00",
+      "discoveredDate": "2026-10-26",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "d11ea649bf793435bd56",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -4746,7 +4776,7 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "f7aca1c321fedb25fbc7",
+      "candidateId": "54437b47e798ee206311",
       "person": "arzoo",
       "personLabel": "آرزو",
       "score": 9,
@@ -4754,25 +4784,25 @@
         {
           "keyword": "residency",
           "weight": 6,
-          "field": "details"
+          "field": "title"
         },
         {
-          "keyword": "creative",
+          "keyword": "design",
           "weight": 3,
           "field": "details"
         }
       ],
-      "title": "[News] Sixi Museum: Sixi International Artist-In-Residence 2027 (China)",
+      "title": "[News] Democracy Foundation: Democracy Residency ‘European Dream’ 2027 (Latvia)",
       "organization": "On the Move",
       "location": "",
-      "url": "https://siximuseum.com/en/residency/",
-      "applyUrl": "https://siximuseum.com/en/residency/",
-      "discoveryUrl": "https://on-the-move.org/news/sixi-museum-sixi-international-artist-residence-2027-china",
+      "url": "https://liepaja2027.lv/en/news/kuldiga-invites-europe-to-reimagine-democracy-applications-open-for-the-international-democracy-residency-european-dream/",
+      "applyUrl": "https://liepaja2027.lv/en/news/kuldiga-invites-europe-to-reimagine-democracy-applications-open-for-the-international-democracy-residency-european-dream/",
+      "discoveryUrl": "https://on-the-move.org/news/democracy-foundation-democracy-residency-european-dream-2027-latvia",
       "sourceId": "on-the-move-rss",
       "sourceLabel": "On the Move",
       "sourceType": "curated-rss",
-      "publishedAt": "Mon, 19 Oct 2026 04:30:00 +0000",
-      "discoveredDate": "2026-10-23",
+      "publishedAt": "Mon, 26 Oct 2026 11:06:06 +0000",
+      "discoveredDate": "2026-10-26",
       "status": "unverified-lead"
     },
     {
@@ -5224,36 +5254,6 @@
       "publishedAt": "2025-02-20T10:45:59.057+00:00",
       "discoveredDate": "2026-10-21",
       "status": "unverified-lead"
-    },
-    {
-      "candidateId": "57bb1e4aec89d2627521",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 7,
-      "evidence": [
-        {
-          "keyword": "foundation model",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Backend Engineer - Extensions",
-      "organization": "Fundamental",
-      "location": "Europe",
-      "url": "https://jobs.ashbyhq.com/fundamental/1a11359c-22ed-4323-9e40-d14b0e1e7c7b",
-      "applyUrl": "https://jobs.ashbyhq.com/fundamental/1a11359c-22ed-4323-9e40-d14b0e1e7c7b/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-fundamental",
-      "sourceLabel": "Fundamental",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-06-22T14:06:39.211+00:00",
-      "discoveredDate": "2026-10-21",
-      "status": "unverified-lead"
     }
   ],
   "sources": [
@@ -5264,9 +5264,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 224,
-      "contentHash": "beb0946fa0b6a81bec61d43a404813ba8e007c17d94b7017fbc1fdb97bfaabf0",
-      "lastChangedDate": "2026-10-23",
+      "itemCount": 223,
+      "contentHash": "f3f5fad503fa11a2797672d04ae5b130cccbd2cad9462673fc43a04c28e1bbb5",
+      "lastChangedDate": "2026-10-26",
       "error": null
     },
     {
@@ -5276,9 +5276,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cohere",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 114,
-      "contentHash": "0df39ac5ee2e6470814223664158582b62074fb7b23cbe7e8dc794332271c42e",
-      "lastChangedDate": "2026-10-23",
+      "itemCount": 116,
+      "contentHash": "59b3ef0e05cea14f22543875dac917a7ecaac65fbfe3f8e2a1fd28f241db4fdf",
+      "lastChangedDate": "2026-10-26",
       "error": null
     },
     {
@@ -5324,9 +5324,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/planday-from-xero",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 10,
-      "contentHash": "4775b1e9afbd859f73112ed82209b15a7e1286179e39aeedcef9714741b72042",
-      "lastChangedDate": "2026-10-23",
+      "itemCount": 9,
+      "contentHash": "1903ccf6bb9ce6240ecf50ad6aa457a68851acc0191a1368721ea02c7447a5c8",
+      "lastChangedDate": "2026-10-26",
       "error": null
     },
     {
@@ -5336,9 +5336,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 683,
-      "contentHash": "d276b0a8f900b3f1fc7b0d5993aab06a5de2c5d8f45ea5be0f320360c06969e8",
-      "lastChangedDate": "2026-10-23",
+      "itemCount": 682,
+      "contentHash": "9dacd1bd17b999a846d3917cd4247d85489f22fd869d5caa5694a39d62a99cfd",
+      "lastChangedDate": "2026-10-26",
       "error": null
     },
     {
@@ -5360,9 +5360,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/goatgroup/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 17,
-      "contentHash": "8c54f2735ddc7e9102d2fd243d2bca3c9404c7c9e95824703b833a32b57bec31",
-      "lastChangedDate": "2026-10-23",
+      "itemCount": 16,
+      "contentHash": "65310dfef53f7f7025ee5979f533137fa51d92160dfcd3013f693d9e1943d936",
+      "lastChangedDate": "2026-10-26",
       "error": null
     },
     {
@@ -5372,9 +5372,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/stitchfix/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 14,
-      "contentHash": "68a622eb04b60c0d4c51fe8829098715670e8ff4815924b245bf77090f65c8b3",
-      "lastChangedDate": "2026-10-23",
+      "itemCount": 15,
+      "contentHash": "967b08048ec4115fe4905627351d33dd851b5a19b76a75c708be1c43b16d710f",
+      "lastChangedDate": "2026-10-26",
       "error": null
     },
     {
@@ -5385,8 +5385,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 10,
-      "contentHash": "606b1c6272bc4be651a354fb10795a7ac3d817e91e35a039ca730f00601caa67",
-      "lastChangedDate": "2026-10-23",
+      "contentHash": "f33e26e9265461cbb9497d19bb19fbe8c243f9d7a9abee856c9070ed32296526",
+      "lastChangedDate": "2026-10-26",
       "error": null
     },
     {
