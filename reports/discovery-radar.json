@@ -1,11 +1,11 @@
 {
-  "generatedDate": "2026-10-26",
+  "generatedDate": "2026-10-28",
   "schemaVersion": 1,
   "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
   "summary": {
     "candidates": 150,
-    "mohammad": 144,
-    "arzoo": 6,
+    "mohammad": 146,
+    "arzoo": 4,
     "sourceErrors": 1,
     "excludedExisting": 4
   },
@@ -68,51 +68,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-09-28T16:08:25.776+00:00",
       "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "eebd6b5b46c90e300dab",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 26,
-      "evidence": [
-        {
-          "keyword": "artist residency",
-          "weight": 8,
-          "field": "details"
-        },
-        {
-          "keyword": "open call",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "details"
-        },
-        {
-          "keyword": "design",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Playful Obscura Arthouse Games Residency 2027 for Artists in Africa (Ethiopia)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.goethe.de/ins/za/en/kul/mut/p27.html",
-      "applyUrl": "https://www.goethe.de/ins/za/en/kul/mut/p27.html",
-      "discoveryUrl": "https://on-the-move.org/news/playful-obscura-arthouse-games-residency-2027-artists-africa-ethiopia",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Thu, 22 Oct 2026 04:00:00 +0000",
-      "discoveredDate": "2026-10-23",
       "status": "unverified-lead"
     },
     {
@@ -521,46 +476,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "51eba21de268d17d0271",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 19,
-      "evidence": [
-        {
-          "keyword": "open call",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "materials",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "design",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] After the Single Use: Research Residencies 2027",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://aftersingleuse.net/news-events/2026/open-call-artist-residence",
-      "applyUrl": "https://aftersingleuse.net/news-events/2026/open-call-artist-residence",
-      "discoveryUrl": "https://on-the-move.org/news/after-single-use-research-residencies-2027",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Wed, 21 Oct 2026 14:07:39 +0000",
-      "discoveredDate": "2026-10-23",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "d24bbb66d3ab88182c7f",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -587,7 +502,7 @@
           "field": "details"
         }
       ],
-      "title": "Research Scientist (Singapore)",
+      "title": "Research Scientist",
       "organization": "Cantina",
       "location": "Singapore",
       "url": "https://jobs.ashbyhq.com/cantina/7053d1d4-a19b-44c6-9327-cc95cbedfb3b",
@@ -1321,41 +1236,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "9ceb908cea2e15d3d726",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 17,
-      "evidence": [
-        {
-          "keyword": "open call",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "sustainable",
-          "weight": 5,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Communauté de communes du Clermontois: Artistic and Cultural Education Residencies 2027 (France)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://pays-clermontois.fr/publications/appel-a-candidatures-clea/",
-      "applyUrl": "https://pays-clermontois.fr/publications/appel-a-candidatures-clea/",
-      "discoveryUrl": "https://on-the-move.org/news/communaute-de-communes-du-clermontois-artistic-and-cultural-education-residencies-2027-france",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Tue, 20 Oct 2026 04:00:00 +0000",
-      "discoveredDate": "2026-10-23",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "917e76bc37e89068d4f3",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -1599,7 +1479,7 @@
       ],
       "title": "Research Scientist, Video Foundation Models",
       "organization": "Cantina",
-      "location": "California",
+      "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/cantina/5411c47f-57d3-4e81-a9f6-71859adc15b6",
       "applyUrl": "https://jobs.ashbyhq.com/cantina/5411c47f-57d3-4e81-a9f6-71859adc15b6/application",
       "discoveryUrl": null,
@@ -1608,6 +1488,41 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-06-18T18:30:08.048+00:00",
       "discoveredDate": "2026-09-11",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "6f4472dadf5848ebfebe",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 14,
+      "evidence": [
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "sustainability",
+          "weight": 5,
+          "field": "title"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] MON-ART: Nicosia Monastery of Arts Residency 2027 in Art, Sustainability and Community (Cyprus)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://monart-5aee4.web.app/residencies#/residencies/visual-voices-walled-city-of-nicosia-2026",
+      "applyUrl": "https://monart-5aee4.web.app/residencies#/residencies/visual-voices-walled-city-of-nicosia-2026",
+      "discoveryUrl": "https://on-the-move.org/news/mon-art-nicosia-monastery-arts-residency-2027-art-sustainability-and-community-cyprus",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Tue, 27 Oct 2026 11:57:13 +0000",
+      "discoveredDate": "2026-10-28",
       "status": "unverified-lead"
     },
     {
@@ -1848,6 +1763,76 @@
       "sourceType": "job-board-api",
       "publishedAt": "2025-08-19T11:26:00.999+00:00",
       "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "5dd086bc9d1d55f4779f",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 13,
+      "evidence": [
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "materials",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Cove Park: Residency 2027–2028 for Artists in Scotland, UK, Central and South America and Diasporas (UK)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://covepark.org/awarded-residencies-2027-2028/",
+      "applyUrl": "https://covepark.org/awarded-residencies-2027-2028/",
+      "discoveryUrl": "https://on-the-move.org/news/cove-park-residency-2027-2028-artists-scotland-uk-central-and-south-america-and-diasporas-uk",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Tue, 27 Oct 2026 11:51:26 +0000",
+      "discoveredDate": "2026-10-28",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "3fbcfb00e1cc18f8aa1f",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 13,
+      "evidence": [
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "model",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "design",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[Funding Guides] Cultural Mobility Funding Guide: Encouraging Access from Underrepresented Groups",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://on-the-move.org/resources/funding/cultural-mobility-funding-guide-encouraging-access-underrepresented-groups",
+      "applyUrl": "https://on-the-move.org/resources/funding/cultural-mobility-funding-guide-encouraging-access-underrepresented-groups",
+      "discoveryUrl": "https://on-the-move.org/resources/funding/cultural-mobility-funding-guide-encouraging-access-underrepresented-groups",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Mon, 26 Oct 2026 11:19:20 +0000",
+      "discoveredDate": "2026-10-28",
       "status": "unverified-lead"
     },
     {
@@ -2163,36 +2148,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2024-12-03T14:25:43.571+00:00",
       "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "cc026c7ff66af91837df",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 12,
-      "evidence": [
-        {
-          "keyword": "textile",
-          "weight": 7,
-          "field": "details"
-        },
-        {
-          "keyword": "fine art",
-          "weight": 5,
-          "field": "details"
-        }
-      ],
-      "title": "[News] François Schneider Foundation: Talents Contemporains Competition on ‘Water’ (France)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.fondationfrancoisschneider.org/en/contemporary-talents-competition/contemporary-talents-competition-water-wattwiller/",
-      "applyUrl": "https://www.fondationfrancoisschneider.org/en/contemporary-talents-competition/contemporary-talents-competition-water-wattwiller/",
-      "discoveryUrl": "https://on-the-move.org/news/francois-schneider-foundation-talents-contemporains-competition-water-france",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Thu, 22 Oct 2026 04:15:00 +0000",
-      "discoveredDate": "2026-10-23",
       "status": "unverified-lead"
     },
     {
@@ -2842,7 +2797,7 @@
           "field": "details"
         }
       ],
-      "title": "AI Deployment Strategist, Critical and Sovereign Institutions - Paris",
+      "title": "AI Deployment Strategist, Defense - Paris",
       "organization": "Mistral AI",
       "location": "Paris",
       "url": "https://jobs.ashbyhq.com/mistral.ai/1e616545-2209-4e12-930e-54c5e47c50b5",
@@ -2877,7 +2832,7 @@
           "field": "details"
         }
       ],
-      "title": "AI Deployment Strategist, Critical and Sovereign Institutions - UK",
+      "title": "AI Deployment Strategist, Defense - UK",
       "organization": "Mistral AI",
       "location": "London",
       "url": "https://jobs.ashbyhq.com/mistral.ai/ee9d2f24-527c-4ad8-b50e-6dbacee081f4",
@@ -3516,41 +3471,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "acca1843eb739fc05dc5",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 12,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Data Engineer, Senior",
-      "organization": "Mistral AI",
-      "location": "Paris",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/16a5a705-f08d-4e1a-9c2a-b6778d17afa7",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/16a5a705-f08d-4e1a-9c2a-b6778d17afa7/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-07-08T16:49:39.797+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "cafeb23616c7a88dedf9",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -4116,36 +4036,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "b20f98ea1797719da785",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 10,
-      "evidence": [
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "model",
-          "weight": 4,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Sanford Underground Research Facility: Artist-in-Residence 2027 (USA)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://sanfordlab.org/programs/SURFAiR",
-      "applyUrl": "https://sanfordlab.org/programs/SURFAiR",
-      "discoveryUrl": "https://on-the-move.org/news/sanford-underground-research-facility-artist-residence-2027-usa",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Wed, 21 Oct 2026 04:00:00 +0000",
-      "discoveredDate": "2026-10-23",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "1789e1e2829152b39350",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -4473,36 +4363,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-09-16T11:25:23.474+00:00",
       "discoveredDate": "2026-09-18",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "618aab8b31f72c424dcf",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 10,
-      "evidence": [
-        {
-          "keyword": "applied ai",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        }
-      ],
-      "title": "Senior Director, Solutions Architecture — Americas",
-      "organization": "Cohere",
-      "location": "United States",
-      "url": "https://jobs.ashbyhq.com/cohere/1e6c4acf-d98a-46ac-bacb-d609ca1326c1",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/1e6c4acf-d98a-46ac-bacb-d609ca1326c1/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-cohere",
-      "sourceLabel": "Cohere",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-09-11T19:35:45.786+00:00",
-      "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
     {
@@ -4852,7 +4712,7 @@
           "field": "details"
         }
       ],
-      "title": "Machine Learning Engineer (Singapore)",
+      "title": "Machine Learning Engineer",
       "organization": "Cantina",
       "location": "Singapore",
       "url": "https://jobs.ashbyhq.com/cantina/f770b6c6-3781-4172-908e-32924531e5b3",
@@ -5254,6 +5114,126 @@
       "publishedAt": "2025-02-20T10:45:59.057+00:00",
       "discoveredDate": "2026-10-21",
       "status": "unverified-lead"
+    },
+    {
+      "candidateId": "57bb1e4aec89d2627521",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 7,
+      "evidence": [
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Backend Engineer - Extensions",
+      "organization": "Fundamental",
+      "location": "Europe",
+      "url": "https://jobs.ashbyhq.com/fundamental/1a11359c-22ed-4323-9e40-d14b0e1e7c7b",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/1a11359c-22ed-4323-9e40-d14b0e1e7c7b/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-06-22T14:06:39.211+00:00",
+      "discoveredDate": "2026-10-28",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "34b84d990b98eef106d2",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 7,
+      "evidence": [
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "DevOps Team Lead",
+      "organization": "Fundamental",
+      "location": "Europe",
+      "url": "https://jobs.ashbyhq.com/fundamental/c54d7bd8-3138-4e86-bdb8-6326dc84bd1a",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/c54d7bd8-3138-4e86-bdb8-6326dc84bd1a/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-02-04T06:34:52.119+00:00",
+      "discoveredDate": "2026-10-28",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "ad18741981f3d9296682",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 7,
+      "evidence": [
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Full-Stack Engineer",
+      "organization": "Fundamental",
+      "location": "Europe",
+      "url": "https://jobs.ashbyhq.com/fundamental/84d5507b-4f39-4fa9-918d-e2279c7a172a",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/84d5507b-4f39-4fa9-918d-e2279c7a172a/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-02-03T15:41:25.507+00:00",
+      "discoveredDate": "2026-10-28",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "30e1c0907d2782a03332",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 7,
+      "evidence": [
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Forward Deployed Full-Stack Engineer",
+      "organization": "Fundamental",
+      "location": "US (remote)",
+      "url": "https://jobs.ashbyhq.com/fundamental/42ebe75e-43ca-46a0-9584-5c9ee930311d",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/42ebe75e-43ca-46a0-9584-5c9ee930311d/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-01-22T15:53:48.607+00:00",
+      "discoveredDate": "2026-10-28",
+      "status": "unverified-lead"
     }
   ],
   "sources": [
@@ -5264,9 +5244,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 223,
-      "contentHash": "f3f5fad503fa11a2797672d04ae5b130cccbd2cad9462673fc43a04c28e1bbb5",
-      "lastChangedDate": "2026-10-26",
+      "itemCount": 226,
+      "contentHash": "37ec003a503d39721f4dfe3242f89bbd15cd9a89cc1ea78abee4a5a727096732",
+      "lastChangedDate": "2026-10-28",
       "error": null
     },
     {
@@ -5276,9 +5256,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cohere",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 116,
-      "contentHash": "59b3ef0e05cea14f22543875dac917a7ecaac65fbfe3f8e2a1fd28f241db4fdf",
-      "lastChangedDate": "2026-10-26",
+      "itemCount": 118,
+      "contentHash": "979d34b4ac49bab79c5ae2e4ffb326025b8c53e3e7276a4b43a545bfdeadbe62",
+      "lastChangedDate": "2026-10-28",
       "error": null
     },
     {
@@ -5289,8 +5269,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 11,
-      "contentHash": "be87621a7a6801b448a6c61a1f71ff08cf1e1888bd90df09cc55df5e5d3c599e",
-      "lastChangedDate": "2026-10-23",
+      "contentHash": "b898280493e916649deabeddfd5846ae69ab535c48639caf317c77ca4b4cc3ca",
+      "lastChangedDate": "2026-10-28",
       "error": null
     },
     {
@@ -5301,8 +5281,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 24,
-      "contentHash": "09724dccada8cc5ada44d4f1598586f6d0490dee1c902b843f7b817c8d0722ba",
-      "lastChangedDate": "2026-10-23",
+      "contentHash": "9a891a5ad2d6c42110a5babbd6c75bf6ca6188104622338d283328d6a36b35bb",
+      "lastChangedDate": "2026-10-28",
       "error": null
     },
     {
@@ -5313,8 +5293,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 19,
-      "contentHash": "42c7087d6f1c4dac9c0e7a68f79ab126d025b713d23cafbddf24c0730e5e4279",
-      "lastChangedDate": "2026-10-23",
+      "contentHash": "8a63a31f212c8e492ac7f181c423cdc9a6f665db989f749be250ff9e1e37c489",
+      "lastChangedDate": "2026-10-28",
       "error": null
     },
     {
@@ -5336,9 +5316,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 682,
-      "contentHash": "9dacd1bd17b999a846d3917cd4247d85489f22fd869d5caa5694a39d62a99cfd",
-      "lastChangedDate": "2026-10-26",
+      "itemCount": 681,
+      "contentHash": "3316cf56d931e68d7f13efa6082d4447f48ec66172ad3143112171c2c4d43b5b",
+      "lastChangedDate": "2026-10-28",
       "error": null
     },
     {
@@ -5348,9 +5328,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/neuralink/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 81,
-      "contentHash": "d89e5ad4751d0a1f3de8c4a9ce5cdfc1474015f5de418250015f561a04d5caca",
-      "lastChangedDate": "2026-10-23",
+      "itemCount": 79,
+      "contentHash": "0b6060d8db3d21d99ede709d75ed2695ac9414451316b580afe0428aa491f616",
+      "lastChangedDate": "2026-10-28",
       "error": null
     },
     {
@@ -5360,9 +5340,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/goatgroup/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 16,
-      "contentHash": "65310dfef53f7f7025ee5979f533137fa51d92160dfcd3013f693d9e1943d936",
-      "lastChangedDate": "2026-10-26",
+      "itemCount": 17,
+      "contentHash": "964c4fbb66fda11fa10a2d7265a2561f44405dd128d99ea1f667da9a464684cf",
+      "lastChangedDate": "2026-10-28",
       "error": null
     },
     {
@@ -5372,9 +5352,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/stitchfix/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 15,
-      "contentHash": "967b08048ec4115fe4905627351d33dd851b5a19b76a75c708be1c43b16d710f",
-      "lastChangedDate": "2026-10-26",
+      "itemCount": 14,
+      "contentHash": "25eb0d274f27551f1cdbfb8d8462e53ef183b01add407c03e5813ca15ee04320",
+      "lastChangedDate": "2026-10-28",
       "error": null
     },
     {
@@ -5385,8 +5365,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 10,
-      "contentHash": "f33e26e9265461cbb9497d19bb19fbe8c243f9d7a9abee856c9070ed32296526",
-      "lastChangedDate": "2026-10-26",
+      "contentHash": "dff7e085f66a469ca1a93ab421142218c3c290158a9e41e0443a3379f3f186fe",
+      "lastChangedDate": "2026-10-28",
       "error": null
     },
     {
