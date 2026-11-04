@@ -1,12 +1,12 @@
 # Discovery radar
 
-Generated after a semantic change: **2026-11-02**  
+Generated after a semantic change: **2026-11-04**  
 **Unverified leads only.** A human must verify eligibility, deadline, funding, visa rules, fees and the real official application destination before adding anything to the main dashboard.
 
 ## Summary
 
-- Candidates: 149
-- Mohammad: 145
+- Candidates: 150
+- Mohammad: 146
 - Arzoo: 4
 - Source errors: 0
 - Existing opportunities excluded: 4
@@ -17,6 +17,8 @@ Generated after a semantic change: **2026-11-02**
 |---|---:|---|---|---|---|
 | محمد | 29 | Research Engineer, Machine Learning | Mistral AI | machine learning (+6), research engineer (+6), research scientist (+6), deep learning (+5), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/0e578cff-741d-4870-9c2c-aac85f9de266) |
 | محمد | 28 | Applied Science - Time Series | Mistral AI | machine learning (+6), research engineer (+6), deep learning (+5), foundation model (+5), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/4e604675-047a-47af-9883-a99b30ee4a64) |
+| محمد | 23 | Applied Scientist - Research Engineer (Tabular Data), EMEA | Mistral AI | machine learning (+6), research engineer (+6), foundation model (+5), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/6b1475e3-0dca-4e72-8ca2-586e0a099071) |
+| محمد | 23 | AI Deployment Strategist, Science - EMEA | Mistral AI | research engineer (+6), applied ai (+6), computer vision (+5), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/ea944567-a5ea-4628-afa1-2c1354807a75) |
 | محمد | 23 | Research Engineer, Robotics | Mistral AI | machine learning (+6), research engineer (+6), computer vision (+5), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/25944723-62e2-498e-8149-a588907c39d6) |
 | محمد | 23 | Applied AI, Forward Deployed Machine Learning Engineer - Amsterdam | Mistral AI | machine learning (+6), applied ai (+6), deep learning (+5), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/9d6b3153-3162-4a89-bef8-bc24e18dabc6) |
 | محمد | 23 | Applied AI, Forward Deployed Machine Learning Engineer - London | Mistral AI | machine learning (+6), applied ai (+6), deep learning (+5), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/4c57adc5-5beb-49d2-9202-1db0807b9cb7) |
@@ -28,6 +30,8 @@ Generated after a semantic change: **2026-11-02**
 | محمد | 23 | Data Scientist - Extensions | Fundamental | machine learning (+6), applied ai (+6), foundation model (+5), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/fundamental/11f7810f-926f-4f9a-b59f-2a7542169cde) |
 | محمد | 19 | Research Scientist | Cantina | machine learning (+6), research scientist (+6), foundation model (+5), python (+2) | [official](https://jobs.ashbyhq.com/cantina/7053d1d4-a19b-44c6-9327-cc95cbedfb3b) |
 | آرزو | 18 | [News] European Hybrid Intelligence Network: Dirtly Lab Residencies 2027 (Belgium, Croatia, Germany, Serbia, Slovenia, Spain) | On the Move | open call (+6), residency (+6), creative (+3), design (+3) | [official](https://europeanhybridintelligencenetwork.eu/open-call/) |
+| محمد | 18 | Applied Scientist Lead (Robotics), EMEA | Mistral AI | machine learning (+6), research engineer (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/c5fd092e-adb9-4912-a1cb-b23f140183a3) |
+| محمد | 18 | Applied Scientist - Research Engineer (Optimisation), EMEA | Mistral AI | machine learning (+6), research engineer (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/2ad44b54-079c-4ce6-8176-7d733a2b364a) |
 | محمد | 18 | Applied Scientist - Research Engineer (Formal Methods), EMEA | Mistral AI | machine learning (+6), research engineer (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/d722e1e1-dcc6-489b-a3b5-ecc6813ca374) |
 | محمد | 18 | Research Engineer, Latency & Throughput | Mistral AI | research engineer (+6), research scientist (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/8d384b55-6341-40a7-ba37-6ab362e9b303) |
 | محمد | 18 | Applied Science - Research Engineer (Robotics) | Mistral AI | machine learning (+6), research engineer (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/1fbe19e3-3663-4ad6-bdfc-21ffefbed7cb) |
@@ -38,7 +42,6 @@ Generated after a semantic change: **2026-11-02**
 | محمد | 18 | Applied Scientist | Mistral AI | machine learning (+6), research engineer (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/5d15e1fe-789d-451d-8521-568906620c21) |
 | محمد | 18 | Applied Scientist, EMEA | Mistral AI | machine learning (+6), research engineer (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/2ed434c7-2e1d-4acd-acb2-01edaa4a1208) |
 | محمد | 18 | Applied AI, Forward Deployed Engineer - Cybersecurity (Canada) | Mistral AI | machine learning (+6), applied ai (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/fb6dce2f-5198-4327-b26c-93d407a781d0) |
-| محمد | 18 | Applied AI, Technical Lead - Forward Deployed AI Engineer | Mistral AI | machine learning (+6), applied ai (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/43b8b35d-a87d-4ebc-83db-1dfeba2b37c8) |
 | محمد | 18 | Applied Scientist, South Korea | Mistral AI | machine learning (+6), research engineer (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/1722cba1-bc85-467a-994d-980905aca031) |
 | محمد | 18 | Applied AI, Forward Deployed Engineer - CyberSecurity (Europe) | Mistral AI | machine learning (+6), applied ai (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/647be1ec-19d1-421c-9c49-6bbf12c0c93a) |
 | محمد | 18 | Applied AI, Technical Lead, Forward Deployed AI Engineer - Paris | Mistral AI | machine learning (+6), applied ai (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/6f5451cb-ecb6-45af-8a03-6bb658c6c5a1) |
@@ -58,7 +61,6 @@ Generated after a semantic change: **2026-11-02**
 | محمد | 14 | Applied AI Security Architect - Healthcare & Life Sciences | Anthropic | applied ai (+6), life science (+4), healthcare (+4) | [official](https://job-boards.greenhouse.io/anthropic/jobs/5461873008) |
 | محمد | 14 | Member of Technical Staff, Video Data & Model Evaluation | Cantina | machine learning (+6), research scientist (+6), python (+2) | [official](https://jobs.ashbyhq.com/cantina/152cf203-779e-46d0-9e64-60a64e5524ce) |
 | محمد | 14 | Manager Applied AI Architecture, Healthcare & Life Sciences | Anthropic | applied ai (+6), life science (+4), healthcare (+4) | [official](https://job-boards.greenhouse.io/anthropic/jobs/5390890008) |
-| محمد | 14 | Member of Technical Staff, Multilingual | Cohere | research engineer (+6), research scientist (+6), python (+2) | [official](https://jobs.ashbyhq.com/cohere/a87be947-00f0-4a4c-a690-a4922f88f553) |
 | محمد | 14 | Team Lead (Engineering) | Planday / Xero | eeg (+7), bci (+7) | [official](https://jobs.ashbyhq.com/planday-from-xero/981a9bd4-6748-4dda-89b6-bfa8194f76ff) |
 | محمد | 14 | Senior Research Engineer - Safety Tooling and Data | Cohere | research engineer (+6), research scientist (+6), python (+2) | [official](https://jobs.ashbyhq.com/cohere/2d4d224f-94d4-40ce-88d5-5d340bc0da4e) |
 | محمد | 14 | Member of Technical Staff, Integration/RL Team (Research Engineer) | Cohere | machine learning (+6), research engineer (+6), python (+2) | [official](https://jobs.ashbyhq.com/cohere/e9ef9420-88e5-403b-82e8-1c36fa010d4d) |
@@ -70,6 +72,7 @@ Generated after a semantic change: **2026-11-02**
 | محمد | 13 | Solutions Architect | Fundamental | machine learning (+6), foundation model (+5), python (+2) | [official](https://jobs.ashbyhq.com/fundamental/f9d1e809-a71d-404c-9d28-01b91916afe2) |
 | محمد | 13 | Senior Applied Research Engineer | Fundamental | research engineer (+6), foundation model (+5), python (+2) | [official](https://jobs.ashbyhq.com/fundamental/9e40b619-8257-4dd9-a9b4-02ccdfd3c6db) |
 | محمد | 13 | Senior Member of Technical Staff, Multimodal AI | Cohere | machine learning (+6), deep learning (+5), python (+2) | [official](https://jobs.ashbyhq.com/cohere/443368a3-6276-4b90-9671-27fed40fd6d2) |
+| محمد | 12 | AI Scientist, Agentic CAD (AI4Engineering) | Mistral AI | machine learning (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/f090ef1d-372e-40dc-bf46-ce0bf2850204) |
 | محمد | 12 | Evaluation Engineer, Applied AI | Mistral AI | applied ai (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/5e6f3efd-36a5-48ab-8643-843edaeee578) |
 | محمد | 12 | Research Engineer, Sandboxes | Mistral AI | research engineer (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/736b11b6-a4f3-4ea8-b126-4d8e14fc0220) |
 | محمد | 12 | Research Engineer, Orchestral | Mistral AI | research engineer (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/dff09cb5-0c21-4bec-971b-297225d5fbcd) |
@@ -80,7 +83,6 @@ Generated after a semantic change: **2026-11-02**
 | محمد | 12 | Applied AI Software Engineer - Defense | Mistral AI | applied ai (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/4f2f058d-3a04-4b0d-b964-700c1d7790ac) |
 | محمد | 12 | Applied AI Engineer, AI for Mistral | Mistral AI | applied ai (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/b85acb55-fe6d-4f63-80bb-6309dd26ec58) |
 | محمد | 12 | Research Engineer, Full Stack | Mistral AI | research engineer (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/cce4be06-ac42-4c69-9bcd-7f5dca6f5e3c) |
-| محمد | 12 | AI Scientist - Agentic Engineering | Mistral AI | machine learning (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/f090ef1d-372e-40dc-bf46-ce0bf2850204) |
 | محمد | 12 | Research Engineer, Forge | Mistral AI | research engineer (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/1808c0af-7352-4d0b-9e35-d3d6704e4759) |
 | محمد | 12 | Applied AI, Research Engineer | Anthropic | research engineer (+6), applied ai (+6) | [official](https://job-boards.greenhouse.io/anthropic/jobs/5390811008) |
 | محمد | 12 | Developer Relations Engineer | Mistral AI | machine learning (+6), healthcare (+4), python (+2) | [official](https://jobs.ashbyhq.com/mistral.ai/c1d29d94-c1d5-4168-92fd-a01cc176e471) |
@@ -144,7 +146,9 @@ Generated after a semantic change: **2026-11-02**
 | محمد | 10 | AI Deployment Strategist, South Korea | Mistral AI | machine learning (+6), healthcare (+4) | [official](https://jobs.ashbyhq.com/mistral.ai/a15456be-735f-470d-b312-8f2742c9884f) |
 | محمد | 10 | Solution Operations Manager, People Growth | Mistral AI | applied ai (+6), healthcare (+4) | [official](https://jobs.ashbyhq.com/mistral.ai/42d1ca33-737b-4f68-8783-acc2e4df0731) |
 | محمد | 10 | Product Manager, Studio | Mistral AI | machine learning (+6), healthcare (+4) | [official](https://jobs.ashbyhq.com/mistral.ai/a25b36ac-5283-49b7-b58d-482810ac0258) |
+| آرزو | 9 | [News] Bernheim Arboretum and Research Forest: Artist in Residence Programme 2027 (USA) | On the Move | residency (+6), design (+3) | [official](https://bernheim.org/news/call-for-2027-artist-in-residence/) |
 | محمد | 9 | LLM Scientist, AI for Science | Mistral AI | deep learning (+5), healthcare (+4) | [official](https://jobs.ashbyhq.com/mistral.ai/9873f968-d5b2-4fb0-b268-7a274a4a2029) |
+| محمد | 8 | Enterprise Account Executive - Healthcare & Life Science | Anthropic | life science (+4), healthcare (+4) | [official](https://job-boards.greenhouse.io/anthropic/jobs/5470906008) |
 | محمد | 8 | Forward Deployed Engineer, Inference | Cohere | machine learning (+6), python (+2) | [official](https://jobs.ashbyhq.com/cohere/8df498e9-aba8-487f-80ba-362b492bad09) |
 | محمد | 8 | Senior Account Executive | Cohere | life science (+4), healthcare (+4) | [official](https://jobs.ashbyhq.com/cohere/bdcdc6d1-2379-40fe-bfb6-d61768043b37) |
 | محمد | 8 | Senior Account Executive | Cohere | life science (+4), healthcare (+4) | [official](https://jobs.ashbyhq.com/cohere/fd92000d-241c-4cf6-86b1-2d9ab796bcbf) |
@@ -161,26 +165,23 @@ Generated after a semantic change: **2026-11-02**
 | محمد | 7 | Full-Stack Engineer | Fundamental | foundation model (+5), python (+2) | [official](https://jobs.ashbyhq.com/fundamental/84d5507b-4f39-4fa9-918d-e2279c7a172a) |
 | محمد | 7 | Forward Deployed Full-Stack Engineer | Fundamental | foundation model (+5), python (+2) | [official](https://jobs.ashbyhq.com/fundamental/42ebe75e-43ca-46a0-9584-5c9ee930311d) |
 | محمد | 7 | DevOps Engineer | Fundamental | foundation model (+5), python (+2) | [official](https://jobs.ashbyhq.com/fundamental/3f7ce69f-14c2-403d-9cfe-9b463c923dd5) |
-| محمد | 7 | Software Engineer, BCI Applications | Neuralink | bci (+7) | [official](https://boards.greenhouse.io/neuralink/jobs/6596365003?gh_jid=6596365003) |
-| محمد | 7 | Software Engineer Intern, BCI Applications | Neuralink | bci (+7) | [official](https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003) |
-| آرزو | 6 | [News] 2200: 2027 Residency for Emerging Artists (Switzerland) | On the Move | residency (+6) | [official](https://2200.ch/) |
 
 ## Source watch
 
 | Source | Kind | Status | Items | Last change | Error |
 |---|---|---|---:|---|---|
-| Mistral AI | ashby | ok | 228 | 2026-11-02 | — |
-| Cohere | ashby | ok | 120 | 2026-11-02 | — |
+| Mistral AI | ashby | ok | 235 | 2026-11-04 | — |
+| Cohere | ashby | ok | 118 | 2026-11-04 | — |
 | Sona | ashby | ok | 13 | 2026-11-02 | — |
 | Fundamental | ashby | ok | 25 | 2026-10-30 | — |
-| Cantina | ashby | ok | 23 | 2026-11-02 | — |
+| Cantina | ashby | ok | 23 | 2026-11-04 | — |
 | Planday / Xero | ashby | ok | 9 | 2026-10-30 | — |
-| Anthropic | greenhouse | ok | 679 | 2026-11-02 | — |
-| Neuralink | greenhouse | ok | 80 | 2026-11-02 | — |
-| GOAT Group | greenhouse | ok | 20 | 2026-11-02 | — |
-| Stitch Fix | greenhouse | ok | 14 | 2026-11-02 | — |
-| On the Move | rss | ok | 10 | 2026-11-02 | — |
+| Anthropic | greenhouse | ok | 682 | 2026-11-04 | — |
+| Neuralink | greenhouse | ok | 79 | 2026-11-04 | — |
+| GOAT Group | greenhouse | ok | 16 | 2026-11-04 | — |
+| Stitch Fix | greenhouse | ok | 10 | 2026-11-04 | — |
+| On the Move | rss | ok | 10 | 2026-11-04 | — |
 | LOEWE Craft Prize | watch | ok | 0 | 2026-10-16 | — |
-| EACEA Erasmus Mundus Catalogue | watch | ok | 0 | 2026-09-16 | — |
-| EURAXESS Jobs | watch | ok | 0 | 2026-11-02 | — |
+| EACEA Erasmus Mundus Catalogue | watch | ok | 0 | 2026-11-04 | — |
+| EURAXESS Jobs | watch | ok | 0 | 2026-11-04 | — |
 | Rijksakademie Open Calls | watch | ok | 0 | 2026-09-04 | — |
