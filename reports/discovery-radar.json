@@ -1,11 +1,11 @@
 {
-  "generatedDate": "2026-11-04",
+  "generatedDate": "2026-11-06",
   "schemaVersion": 1,
   "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
   "summary": {
-    "candidates": 150,
-    "mohammad": 146,
-    "arzoo": 4,
+    "candidates": 149,
+    "mohammad": 143,
+    "arzoo": 6,
     "sourceErrors": 0,
     "excludedExisting": 4
   },
@@ -477,51 +477,6 @@
       "sourceLabel": "Mistral AI",
       "sourceType": "job-board-api",
       "publishedAt": "2026-07-10T21:21:46.080+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "4e45ad807a9b5edb08e3",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 23,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "applied ai",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "deep learning",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Applied AI, Forward Deployed Machine Learning Engineer - Montreal",
-      "organization": "Mistral AI",
-      "location": "Montréal",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/fe76010a-6384-4eae-ba08-1a6aa530ecbb",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/fe76010a-6384-4eae-ba08-1a6aa530ecbb/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-07-10T11:39:27.436+00:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
@@ -1256,6 +1211,46 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "359b26e44c628b1588e0",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 18,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Founding Team Lead Applied AI Engineering, South Korea",
+      "organization": "Mistral AI",
+      "location": "Seoul",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/a50e295c-c615-4b72-a482-2987a4d10e91",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/a50e295c-c615-4b72-a482-2987a4d10e91/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-07-09T08:51:26.382+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "cd908ba3c0678ff3531a",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -1292,46 +1287,6 @@
       "sourceLabel": "Mistral AI",
       "sourceType": "job-board-api",
       "publishedAt": "2026-07-03T16:48:46.674+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "4eb1cd11e98a582ab647",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 18,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "applied ai",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer - Montreal",
-      "organization": "Mistral AI",
-      "location": "Montréal",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/3c7107b0-d2d1-4be9-838c-8a2dd15f1fdf",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/3c7107b0-d2d1-4be9-838c-8a2dd15f1fdf/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-07-03T16:39:26.888+00:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
@@ -1453,41 +1408,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2025-10-30T08:48:14.190+00:00",
       "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "ba9f61aa343f4eb4aa78",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 17,
-      "evidence": [
-        {
-          "keyword": "artist residency",
-          "weight": 8,
-          "field": "details"
-        },
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Villa Pérochon: Encounters of Young International Photography Residency and Exhibition 2027 (France)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.cacp-villaperochon.com/en/agenda/call-for-applications-encounters-of-young-international-photography/",
-      "applyUrl": "https://www.cacp-villaperochon.com/en/agenda/call-for-applications-encounters-of-young-international-photography/",
-      "discoveryUrl": "https://on-the-move.org/news/villa-perochon-encounters-young-international-photography-residency-and-exhibition-2027-france",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Thu, 29 Oct 2026 14:48:04 +0000",
-      "discoveredDate": "2026-10-30",
       "status": "unverified-lead"
     },
     {
@@ -1716,41 +1636,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "359b26e44c628b1588e0",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 16,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "applied ai",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        }
-      ],
-      "title": "Lead Applied AI, Machine Learning Engineer, South Korea",
-      "organization": "Mistral AI",
-      "location": "Seoul",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/a50e295c-c615-4b72-a482-2987a4d10e91",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/a50e295c-c615-4b72-a482-2987a4d10e91/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-07-09T08:51:26.382+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "9a35e3b5e60fe8f884dd",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -1887,36 +1772,6 @@
       "sourceLabel": "Anthropic",
       "sourceType": "job-board-api",
       "publishedAt": "2026-08-20T21:53:08-04:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "1e7ad21cdd2f7c60913e",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 14,
-      "evidence": [
-        {
-          "keyword": "eeg",
-          "weight": 7,
-          "field": "details"
-        },
-        {
-          "keyword": "bci",
-          "weight": 7,
-          "field": "details"
-        }
-      ],
-      "title": "Team Lead (Engineering)",
-      "organization": "Planday / Xero",
-      "location": "DK: Kuglegårdsvej 7",
-      "url": "https://jobs.ashbyhq.com/planday-from-xero/981a9bd4-6748-4dda-89b6-bfa8194f76ff",
-      "applyUrl": "https://jobs.ashbyhq.com/planday-from-xero/981a9bd4-6748-4dda-89b6-bfa8194f76ff/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-planday",
-      "sourceLabel": "Planday / Xero",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-08-12T08:02:15.259+00:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
@@ -2268,6 +2123,36 @@
       "sourceType": "job-board-api",
       "publishedAt": "2024-12-03T14:25:43.571+00:00",
       "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "de61b9af1c6b1ef73e52",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        }
+      ],
+      "title": "Senior Technical Program Manager",
+      "organization": "Fundamental",
+      "location": "EU, Remote",
+      "url": "https://jobs.ashbyhq.com/fundamental/4026d498-640b-43c8-a1b1-c6bf5100290d",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/4026d498-640b-43c8-a1b1-c6bf5100290d/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-11-04T13:54:20.173+00:00",
+      "discoveredDate": "2026-11-06",
       "status": "unverified-lead"
     },
     {
@@ -3122,7 +3007,7 @@
           "field": "details"
         }
       ],
-      "title": "Founding Team Lead Applied AI Engineer, Infra/DevOps - South Korea",
+      "title": "Founding Team Lead Applied AI Engineering - Infra & Platform, South Korea",
       "organization": "Mistral AI",
       "location": "Seoul",
       "url": "https://jobs.ashbyhq.com/mistral.ai/8085c274-0b90-46a2-a676-d67a9cb93795",
@@ -3157,7 +3042,7 @@
           "field": "details"
         }
       ],
-      "title": "Lead Applied Scientist, South Korea",
+      "title": "Founding Team Lead Applied Science, South Korea",
       "organization": "Mistral AI",
       "location": "Seoul",
       "url": "https://jobs.ashbyhq.com/mistral.ai/826dd35b-03dc-4f5b-bfa2-2d3c91003154",
@@ -3482,41 +3367,6 @@
       "sourceLabel": "Mistral AI",
       "sourceType": "job-board-api",
       "publishedAt": "2026-07-09T09:51:14.161+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "33dfa7f0ffad5b64217a",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 12,
-      "evidence": [
-        {
-          "keyword": "applied ai",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Lead Applied AI, Fullstack Software Engineer, South Korea",
-      "organization": "Mistral AI",
-      "location": "Seoul",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/52fc0112-06d1-49cb-9863-05df53db6642",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/52fc0112-06d1-49cb-9863-05df53db6642/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-07-09T08:49:28.444+00:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
     },
@@ -4151,36 +4001,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "d11ea649bf793435bd56",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 10,
-      "evidence": [
-        {
-          "keyword": "applied ai",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        }
-      ],
-      "title": "Talent Sourcer, South Korea (Contract)",
-      "organization": "Mistral AI",
-      "location": "Seoul",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/86aa430d-4692-4ad0-b7e9-07de6091f042",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/86aa430d-4692-4ad0-b7e9-07de6091f042/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-10-22T10:13:59.304+00:00",
-      "discoveredDate": "2026-10-23",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "cbc46b3e3b1b91ef0fb7",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -4631,36 +4451,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "b80ce9b24d4efe95d102",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 10,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        }
-      ],
-      "title": "AI Deployment Strategist, South Korea",
-      "organization": "Mistral AI",
-      "location": "Seoul",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/a15456be-735f-470d-b312-8f2742c9884f",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/a15456be-735f-470d-b312-8f2742c9884f/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-07-10T10:43:25.011+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "41a340d3d41a96eb5bad",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -4748,6 +4538,36 @@
       "sourceType": "curated-rss",
       "publishedAt": "Wed, 04 Nov 2026 08:45:38 +0000",
       "discoveredDate": "2026-11-04",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "6d96ddad869fae7073a6",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 9,
+      "evidence": [
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Frankfurt Moves! Residency 2027 for Emerging Performing Artists Trained in Africa, Asia, Latin America or the WANA Region (Germany)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://frankfurt-lab.de/en/frankfurt-moves-stipend-for-international-performing-artists/",
+      "applyUrl": "https://frankfurt-lab.de/en/frankfurt-moves-stipend-for-international-performing-artists/",
+      "discoveryUrl": "https://on-the-move.org/news/frankfurt-moves-residency-2027-emerging-performing-artists-trained-africa-asia-latin-america",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Fri, 06 Nov 2026 08:31:46 +0000",
+      "discoveredDate": "2026-11-06",
       "status": "unverified-lead"
     },
     {
@@ -5289,6 +5109,106 @@
       "publishedAt": "2025-12-02T09:21:28.012+00:00",
       "discoveredDate": "2026-11-02",
       "status": "unverified-lead"
+    },
+    {
+      "candidateId": "5f256336e00603bee516",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 7,
+      "evidence": [
+        {
+          "keyword": "bci",
+          "weight": 7,
+          "field": "title"
+        }
+      ],
+      "title": "Software Engineer, BCI Applications",
+      "organization": "Neuralink",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6596365003?gh_jid=6596365003",
+      "applyUrl": "https://boards.greenhouse.io/neuralink/jobs/6596365003?gh_jid=6596365003",
+      "discoveryUrl": null,
+      "sourceId": "greenhouse-neuralink",
+      "sourceLabel": "Neuralink",
+      "sourceType": "job-board-api",
+      "publishedAt": "2025-06-02T12:49:18-04:00",
+      "discoveredDate": "2026-11-06",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "c12a03c5bf8100f81eca",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 7,
+      "evidence": [
+        {
+          "keyword": "bci",
+          "weight": 7,
+          "field": "title"
+        }
+      ],
+      "title": "Software Engineer Intern, BCI Applications",
+      "organization": "Neuralink",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003",
+      "applyUrl": "https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003",
+      "discoveryUrl": null,
+      "sourceId": "greenhouse-neuralink",
+      "sourceLabel": "Neuralink",
+      "sourceType": "job-board-api",
+      "publishedAt": "2025-05-30T19:47:45-04:00",
+      "discoveredDate": "2026-11-06",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "efbe1278e61f409afec3",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 6,
+      "evidence": [
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
+        }
+      ],
+      "title": "[News] Montpellier 2028: Residency in Visual Arts and Music 2027 (France)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.montpellier2028.eu/en/appel-a-candidatures-residence-une-vallee-vivante-evocation-sensible-de-la-vallee-de-lherault/",
+      "applyUrl": "https://www.montpellier2028.eu/en/appel-a-candidatures-residence-une-vallee-vivante-evocation-sensible-de-la-vallee-de-lherault/",
+      "discoveryUrl": "https://on-the-move.org/news/montpellier-2028-residency-visual-arts-and-music-2027-france",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Wed, 04 Nov 2026 08:36:05 +0000",
+      "discoveredDate": "2026-11-06",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "6aa18a2f509af625a38a",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 6,
+      "evidence": [
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Leitrim Sculpture Centre: Exhibition Residencies for Visual Artists 2027 (Ireland)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.leitrimsculpturecentre.ie/residencies/guidelines-how-to-apply",
+      "applyUrl": "https://www.leitrimsculpturecentre.ie/residencies/guidelines-how-to-apply",
+      "discoveryUrl": "https://on-the-move.org/news/leitrim-sculpture-centre-exhibition-residencies-visual-artists-2027-ireland",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Tue, 03 Nov 2026 08:12:37 +0000",
+      "discoveredDate": "2026-11-06",
+      "status": "unverified-lead"
     }
   ],
   "sources": [
@@ -5299,9 +5219,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 235,
-      "contentHash": "25548706bad522f71eb09649ed504d85af4d9d483e6a8549d6c3123e5686822d",
-      "lastChangedDate": "2026-11-04",
+      "itemCount": 231,
+      "contentHash": "32a84a7bafef77386bea1895b92e6c097642dc6e29ee51c71c3ed1d48d63e2e2",
+      "lastChangedDate": "2026-11-06",
       "error": null
     },
     {
@@ -5311,9 +5231,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cohere",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 118,
-      "contentHash": "9422ebb418e26aeb616cabb617c055bc927695e235e6eaa1f99a97a830768370",
-      "lastChangedDate": "2026-11-04",
+      "itemCount": 119,
+      "contentHash": "fa92d83a3400d92e1dc841ae6cbaf5de26676f6d038d7712445ba5fb7a53e891",
+      "lastChangedDate": "2026-11-06",
       "error": null
     },
     {
@@ -5335,9 +5255,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/fundamental",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 25,
-      "contentHash": "0fd35095881a7868f6628566787e2c554fc9c2e17f3a196e692e8d9400c2e63e",
-      "lastChangedDate": "2026-10-30",
+      "itemCount": 26,
+      "contentHash": "87c4ff2c8be1a1c595771b8f87c8cc5460bc9133d4223538c1c948bbf499c5f7",
+      "lastChangedDate": "2026-11-06",
       "error": null
     },
     {
@@ -5348,8 +5268,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 23,
-      "contentHash": "1a5ad4edb11f1f3348394938d343f112381b57d9a177c1393fccf743d7f6e823",
-      "lastChangedDate": "2026-11-04",
+      "contentHash": "3070a20dd0085f185a4f252929c14f4f12a9da825ff5fc7b10ab286618674307",
+      "lastChangedDate": "2026-11-06",
       "error": null
     },
     {
@@ -5359,9 +5279,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/planday-from-xero",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 9,
-      "contentHash": "176daa9a7c1b5c8ef3956de49e545e62b44d89cc4f97249db277a7738d0ba413",
-      "lastChangedDate": "2026-10-30",
+      "itemCount": 8,
+      "contentHash": "1e083d607d25e34b0127c3f938b33168558507ce889fb6b3f90aab8229fe31d3",
+      "lastChangedDate": "2026-11-06",
       "error": null
     },
     {
@@ -5371,9 +5291,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 682,
-      "contentHash": "005ee04fa591cf385fb45a1d97cda12db639273d1549535e7fee1235acf42abb",
-      "lastChangedDate": "2026-11-04",
+      "itemCount": 674,
+      "contentHash": "178694219dff75510a149ab47a8e7bbe820e1caef0e2d8d701d33a670c7ec8ae",
+      "lastChangedDate": "2026-11-06",
       "error": null
     },
     {
@@ -5383,9 +5303,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/neuralink/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 79,
-      "contentHash": "baa31c37aa3bedc05bd2a82d131c59eda0dff7f9e77f8fbaf0561544b6460a22",
-      "lastChangedDate": "2026-11-04",
+      "itemCount": 81,
+      "contentHash": "26e448f027307541a4f69f81250f4e0b591439412b90d55cfb2312c0ce2d26e6",
+      "lastChangedDate": "2026-11-06",
       "error": null
     },
     {
@@ -5395,9 +5315,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/goatgroup/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 16,
-      "contentHash": "560331482d6211a4183b2e089e2bfdaa561fb6310c31ea90d22173d253b6067b",
-      "lastChangedDate": "2026-11-04",
+      "itemCount": 20,
+      "contentHash": "cd352dcf3a7b47e43bedeb0f1de50347f3ef23b065658578affd78f204e1462c",
+      "lastChangedDate": "2026-11-06",
       "error": null
     },
     {
@@ -5408,8 +5328,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 10,
-      "contentHash": "49511c3687693de8441aa7e8be8c4e14a2e554049017b74d3e5a9f2b55566ad9",
-      "lastChangedDate": "2026-11-04",
+      "contentHash": "88f64492d0494ca67527fd775dcf856faa35b636502227d9519e28b7765bfae1",
+      "lastChangedDate": "2026-11-06",
       "error": null
     },
     {
@@ -5420,8 +5340,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 10,
-      "contentHash": "acd6a8243ea34ea6156824ab8e09c9459083672f7963a19ab99f60e67e2e1fbf",
-      "lastChangedDate": "2026-11-04",
+      "contentHash": "306c91b8d3b38fb185db9c18600d5f73609367555c04ec1da8264773457728e2",
+      "lastChangedDate": "2026-11-06",
       "error": null
     },
     {
@@ -5444,8 +5364,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "68b758a11931391f5bc8f496b04aab6870358a85252ff1d343b5d4f1f1a40897",
-      "lastChangedDate": "2026-11-04",
+      "contentHash": "9e5aa8439af292732fb7c2d4db3401c3b31c8f30963aa70b6451d4f16d904b04",
+      "lastChangedDate": "2026-11-06",
       "error": null
     },
     {
@@ -5456,8 +5376,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "1d60a23dcbdf0c04a27cc9156d046e4567d59ad532333cf239472ba9e56ef771",
-      "lastChangedDate": "2026-11-04",
+      "contentHash": "d1f8327d6c5b65772e272abae835018ed14a74af3f6670b8fd9ed58722f8d7c5",
+      "lastChangedDate": "2026-11-06",
       "error": null
     },
     {
