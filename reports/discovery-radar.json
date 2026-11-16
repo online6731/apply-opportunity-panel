@@ -1,12 +1,12 @@
 {
-  "generatedDate": "2026-11-13",
+  "generatedDate": "2026-11-16",
   "schemaVersion": 1,
   "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
   "summary": {
     "candidates": 150,
-    "mohammad": 145,
-    "arzoo": 5,
-    "sourceErrors": 0,
+    "mohammad": 150,
+    "arzoo": 0,
+    "sourceErrors": 1,
     "excludedExisting": 4
   },
   "profiles": {
@@ -253,51 +253,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-10-29T18:53:22.845+00:00",
       "discoveredDate": "2026-10-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "83624c562e0118916f94",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 23,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "applied ai",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "deep learning",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Applied AI, Forward Deployed Machine Learning Engineer - Amsterdam",
-      "organization": "Mistral AI",
-      "location": "Amsterdam",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/9d6b3153-3162-4a89-bef8-bc24e18dabc6",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/9d6b3153-3162-4a89-bef8-bc24e18dabc6/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-10-09T14:25:41.918+00:00",
-      "discoveredDate": "2026-10-12",
       "status": "unverified-lead"
     },
     {
@@ -877,7 +832,7 @@
           "field": "details"
         }
       ],
-      "title": "Applied AI Engineer (Tech Lead)",
+      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer, Australia",
       "organization": "Mistral AI",
       "location": "Sydney",
       "url": "https://jobs.ashbyhq.com/mistral.ai/7acbb74e-ca8e-44bb-8033-ca14f651dddc",
@@ -1277,7 +1232,7 @@
           "field": "details"
         }
       ],
-      "title": "Founding Team Lead Applied AI Engineering, South Korea",
+      "title": "Founding Tech Lead Applied AI Engineering, South Korea",
       "organization": "Mistral AI",
       "location": "Seoul",
       "url": "https://jobs.ashbyhq.com/mistral.ai/a50e295c-c615-4b72-a482-2987a4d10e91",
@@ -1448,46 +1403,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2025-10-30T08:48:14.190+00:00",
       "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "78152bef191ded3771f7",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 17,
-      "evidence": [
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "materials",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "model",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "creative",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] ARCHAIVE: Residency on AI and Cultural Memory 2027 (Germany, Italy, Netherlands, Portugal, Spain, Remote)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://archaive.eu/news/international-open-call-for-artists/",
-      "applyUrl": "https://archaive.eu/news/international-open-call-for-artists/",
-      "discoveryUrl": "https://on-the-move.org/news/archaive-residency-ai-and-cultural-memory-2027-germany-italy-netherlands-portugal-spain-remote",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Wed, 11 Nov 2026 08:59:12 +0000",
-      "discoveredDate": "2026-11-11",
       "status": "unverified-lead"
     },
     {
@@ -1793,41 +1708,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-06-18T18:30:08.048+00:00",
       "discoveredDate": "2026-09-11",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "e8b1145c629d72a0a031",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 15,
-      "evidence": [
-        {
-          "keyword": "open call",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "social media",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] WONDER: Women in Resistance Movements Research Residencies and Exhibition 2027 (Austria, Germany, Italy, Netherlands, Poland)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.eccom.it/wonder-open-call-for-artists/",
-      "applyUrl": "https://www.eccom.it/wonder-open-call-for-artists/",
-      "discoveryUrl": "https://on-the-move.org/news/wonder-women-resistance-movements-research-residencies-and-exhibition-2027-austria-germany",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Wed, 11 Nov 2026 09:20:34 +0000",
-      "discoveredDate": "2026-11-11",
       "status": "unverified-lead"
     },
     {
@@ -2251,38 +2131,73 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "db8fa9aac43c12909715",
-      "person": "arzoo",
-      "personLabel": "آرزو",
+      "candidateId": "0f775892d2534c5ac976",
+      "person": "mohammad",
+      "personLabel": "محمد",
       "score": 12,
       "evidence": [
         {
-          "keyword": "residency",
+          "keyword": "applied ai",
           "weight": 6,
           "field": "details"
         },
         {
-          "keyword": "creative",
-          "weight": 3,
+          "keyword": "healthcare",
+          "weight": 4,
           "field": "details"
         },
         {
-          "keyword": "design",
-          "weight": 3,
+          "keyword": "python",
+          "weight": 2,
           "field": "details"
         }
       ],
-      "title": "[News] Emmanuel College: Artist Residencies in Ceramics, Photography, Printmaking and Social Practice 2027 (USA)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.ecartistresidency.com/",
-      "applyUrl": "https://www.ecartistresidency.com/",
-      "discoveryUrl": "https://on-the-move.org/news/emmanuel-college-artist-residencies-ceramics-photography-printmaking-and-social-practice-2027",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Tue, 10 Nov 2026 04:00:00 +0000",
-      "discoveredDate": "2026-11-11",
+      "title": "Associate AI Deployment Strategist",
+      "organization": "Mistral AI",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/e16b3cc3-b3b4-48d4-8ca0-7bdc5defd0fc",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/e16b3cc3-b3b4-48d4-8ca0-7bdc5defd0fc/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-11-13T16:14:01.919+00:00",
+      "discoveredDate": "2026-11-16",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "af94c25e7eaa24e28be1",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Associate AI Deployment Strategist",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/16ba2bfe-ddaa-4d0b-98f2-42fe7fc8535d",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/16ba2bfe-ddaa-4d0b-98f2-42fe7fc8535d/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-11-13T16:12:28.170+00:00",
+      "discoveredDate": "2026-11-16",
       "status": "unverified-lead"
     },
     {
@@ -4236,33 +4151,93 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "021694549584f2a2e382",
-      "person": "arzoo",
-      "personLabel": "آرزو",
+      "candidateId": "c295ffccf22bf4ab693d",
+      "person": "mohammad",
+      "personLabel": "محمد",
       "score": 10,
       "evidence": [
         {
-          "keyword": "open call",
+          "keyword": "machine learning",
           "weight": 6,
           "field": "details"
         },
         {
-          "keyword": "materials",
+          "keyword": "healthcare",
           "weight": 4,
           "field": "details"
         }
       ],
-      "title": "[News] TURBA Festival: 2027 Call for South American Performing Artists (Argentina)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://drive.google.com/file/d/1GEdeo90JWdh_Km9z_aVGIsKofxoIhJOu/view",
-      "applyUrl": "https://drive.google.com/file/d/1GEdeo90JWdh_Km9z_aVGIsKofxoIhJOu/view",
-      "discoveryUrl": "https://on-the-move.org/news/turba-festival-2027-call-south-american-performing-artists-argentina",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Thu, 12 Nov 2026 09:07:31 +0000",
-      "discoveredDate": "2026-11-13",
+      "title": "Defense Success Manager, France",
+      "organization": "Mistral AI",
+      "location": "Amsterdam",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/a791356c-e71d-46db-8ee0-798c96f71aad",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/a791356c-e71d-46db-8ee0-798c96f71aad/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-11-13T18:17:34.537+00:00",
+      "discoveredDate": "2026-11-16",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "d1853e18f4bc2493166d",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Enterprise Success Manager, NL (EMEA)",
+      "organization": "Mistral AI",
+      "location": "Amsterdam",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/a637ca78-b45d-4f63-8fdb-2627f8e56bef",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/a637ca78-b45d-4f63-8fdb-2627f8e56bef/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-11-13T17:46:16.233+00:00",
+      "discoveredDate": "2026-11-16",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "973ded156bf8e24ced93",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Enterprise Success Manager, Paris",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/b75e0c42-3ee5-4d86-8429-c6bd9c2ebd12",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/b75e0c42-3ee5-4d86-8429-c6bd9c2ebd12/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-10-30T17:28:12.096+00:00",
+      "discoveredDate": "2026-11-16",
       "status": "unverified-lead"
     },
     {
@@ -4552,7 +4527,7 @@
           "field": "details"
         }
       ],
-      "title": "Head of, Financial Systems Engineering",
+      "title": "Head of, Finance Data & Technology",
       "organization": "Mistral AI",
       "location": "Paris",
       "url": "https://jobs.ashbyhq.com/mistral.ai/5ad87243-8890-4724-b98d-5fe962840d7e",
@@ -4773,36 +4748,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-07-03T16:37:23.854+00:00",
       "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "ebf89da1856bc65be94c",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 9,
-      "evidence": [
-        {
-          "keyword": "open call",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "design",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Theatertreffen: 2027 International Forum for Theatre Professionals (Germany)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.berlinerfestspiele.de/en/theatertreffen/das-festival/internationales-forum/forum-open-call",
-      "applyUrl": "https://www.berlinerfestspiele.de/en/theatertreffen/das-festival/internationales-forum/forum-open-call",
-      "discoveryUrl": "https://on-the-move.org/news/theatertreffen-2027-international-forum-theatre-professionals-germany",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Fri, 13 Nov 2026 11:14:48 +0000",
-      "discoveredDate": "2026-11-13",
       "status": "unverified-lead"
     },
     {
@@ -5314,6 +5259,36 @@
       "publishedAt": "2026-06-22T14:06:39.211+00:00",
       "discoveredDate": "2026-11-13",
       "status": "unverified-lead"
+    },
+    {
+      "candidateId": "34b84d990b98eef106d2",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 7,
+      "evidence": [
+        {
+          "keyword": "foundation model",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "DevOps Team Lead",
+      "organization": "Fundamental",
+      "location": "Europe",
+      "url": "https://jobs.ashbyhq.com/fundamental/c54d7bd8-3138-4e86-bdb8-6326dc84bd1a",
+      "applyUrl": "https://jobs.ashbyhq.com/fundamental/c54d7bd8-3138-4e86-bdb8-6326dc84bd1a/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-fundamental",
+      "sourceLabel": "Fundamental",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-02-04T06:34:52.119+00:00",
+      "discoveredDate": "2026-11-16",
+      "status": "unverified-lead"
     }
   ],
   "sources": [
@@ -5324,9 +5299,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 240,
-      "contentHash": "b428cc93af0fb9b91009957575f37d3dd5072c42c653b16d35152d30075f979f",
-      "lastChangedDate": "2026-11-13",
+      "itemCount": 251,
+      "contentHash": "8bc5ce23e3d1ece9f8fe89ad233fd217fa94d67929c0b4244036075d88ce2ca2",
+      "lastChangedDate": "2026-11-16",
       "error": null
     },
     {
@@ -5336,9 +5311,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cohere",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 120,
-      "contentHash": "b78ab78a9672c7b08d27bdfa66520c25b1593e27e5ee7b68bb29e762d306943e",
-      "lastChangedDate": "2026-11-13",
+      "itemCount": 122,
+      "contentHash": "d8afebb8c7ee4b8345ad5bd63d676818b7b0957d6f972f6df7d2421594dd2f7e",
+      "lastChangedDate": "2026-11-16",
       "error": null
     },
     {
@@ -5348,9 +5323,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/sona",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 17,
-      "contentHash": "017ae140da4ff833be95c782059300d184abbdf05a07d62f38ccbacdfa84f887",
-      "lastChangedDate": "2026-11-11",
+      "itemCount": 16,
+      "contentHash": "98fe5619534b92af695fabeb5268c27696af77c0bd3d8758d2a27036a54fc112",
+      "lastChangedDate": "2026-11-16",
       "error": null
     },
     {
@@ -5372,9 +5347,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cantina",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 21,
-      "contentHash": "e954ff1e64c776a1bfbf37bdc9bbdfbe2340c87dba27843d2e38beb601d17513",
-      "lastChangedDate": "2026-11-11",
+      "itemCount": 22,
+      "contentHash": "40b4a5dc943f32c92d2ade02961c4c9b68d59af6f5871e3a8674b93404e09d33",
+      "lastChangedDate": "2026-11-16",
       "error": null
     },
     {
@@ -5385,8 +5360,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 8,
-      "contentHash": "72228593e69a113649011c7760c4f66f8301b06af1de20d6919c924df9e5f2ce",
-      "lastChangedDate": "2026-11-13",
+      "contentHash": "dcf4607e7c6e55100bb39ce37517a77a967b4fac00ffb0676307628442a03274",
+      "lastChangedDate": "2026-11-16",
       "error": null
     },
     {
@@ -5396,9 +5371,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 673,
-      "contentHash": "6fbc79baf4f7fb11633e85bbb5718dfeceb0c51dc46664cc8d7bfac5980c9dee",
-      "lastChangedDate": "2026-11-13",
+      "itemCount": 661,
+      "contentHash": "be1f1b35739ec36b8573e7d147ff1e41a32ad579c2c13e2104a9902dcf0e2bab",
+      "lastChangedDate": "2026-11-16",
       "error": null
     },
     {
@@ -5408,9 +5383,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/neuralink/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 77,
-      "contentHash": "5a15a3fad16a803d9fcc161c11dac4d47f4fd99b1d1550aa8a531e441d6bf862",
-      "lastChangedDate": "2026-11-13",
+      "itemCount": 76,
+      "contentHash": "8627fde14f8cac2d69cd6e1b7d698334e9e5c11a0db8a267b07aad7577a20a7d",
+      "lastChangedDate": "2026-11-16",
       "error": null
     },
     {
@@ -5432,9 +5407,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/stitchfix/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 13,
-      "contentHash": "8568cbbb80a80eb504663a408505cc021116ff2468720ff2736a6ddaa67dbafb",
-      "lastChangedDate": "2026-11-13",
+      "itemCount": 12,
+      "contentHash": "e45c252b84970aaed25e44e7bda1051b70e30b2ea5c7fccdc0bdfe2338640baf",
+      "lastChangedDate": "2026-11-16",
       "error": null
     },
     {
@@ -5442,12 +5417,12 @@
       "label": "On the Move",
       "kind": "rss",
       "url": "https://on-the-move.org/feed",
-      "status": "ok",
-      "httpStatus": 200,
-      "itemCount": 10,
+      "status": "error",
+      "httpStatus": null,
+      "itemCount": 0,
       "contentHash": "9e9a4c77ebe853b38d30de60f1c4a12c9682b4e49da2b3e6d045be72cb09e5a6",
       "lastChangedDate": "2026-11-13",
-      "error": null
+      "error": "HTTP 403"
     },
     {
       "id": "watch-loewe-craft",
@@ -5469,8 +5444,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "c9f59fce2ce211dd15509985fa21293c61208d01d93afebdd050a5df4908859c",
-      "lastChangedDate": "2026-11-13",
+      "contentHash": "5c92bd8953b4372205d61a65024239f1b0528c0f304535771c96d04f8fbe68cc",
+      "lastChangedDate": "2026-11-16",
       "error": null
     },
     {
@@ -5481,8 +5456,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "e851d463f263bafc9489ae6d9c46c21623df69e72b1218f812a1b638ca6f0c55",
-      "lastChangedDate": "2026-11-13",
+      "contentHash": "052bac007bfa4b5586799da0ff276528f870b9d9854bd4bea52ba4cf4510f610",
+      "lastChangedDate": "2026-11-16",
       "error": null
     },
     {
