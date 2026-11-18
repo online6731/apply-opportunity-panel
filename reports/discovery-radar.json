@@ -1,12 +1,12 @@
 {
-  "generatedDate": "2026-11-16",
+  "generatedDate": "2026-11-18",
   "schemaVersion": 1,
   "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
   "summary": {
     "candidates": 150,
-    "mohammad": 150,
-    "arzoo": 0,
-    "sourceErrors": 1,
+    "mohammad": 145,
+    "arzoo": 5,
+    "sourceErrors": 0,
     "excludedExisting": 4
   },
   "profiles": {
@@ -301,51 +301,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "38e4ebab797c09ba7100",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 23,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "applied ai",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "computer vision",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Applied AI Engineer, Robotics",
-      "organization": "Mistral AI",
-      "location": "Singapore",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/d5b3861e-d8ff-4b8f-b0a1-3b8582a1c7b4",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/d5b3861e-d8ff-4b8f-b0a1-3b8582a1c7b4/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-09-25T13:52:58.186+00:00",
-      "discoveredDate": "2026-09-28",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "92731252c869b9e9900a",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -523,6 +478,81 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-06-22T14:09:03.192+00:00",
       "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "82497ced71befe342571",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 21,
+      "evidence": [
+        {
+          "keyword": "artist residency",
+          "weight": 8,
+          "field": "details"
+        },
+        {
+          "keyword": "textile",
+          "weight": 7,
+          "field": "title"
+        },
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Interwoven Residencies in Early European Textiles for Visual Artists 2027 (France, Ireland, UK)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://fabrica.org.uk/open-calls/interwoven-artist-residencies-open-call-for-artists",
+      "applyUrl": "https://fabrica.org.uk/open-calls/interwoven-artist-residencies-open-call-for-artists",
+      "discoveryUrl": "https://on-the-move.org/news/interwoven-residencies-early-european-textiles-visual-artists-2027-france-ireland-uk",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Tue, 17 Nov 2026 12:33:57 +0000",
+      "discoveredDate": "2026-11-18",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "98dae9f0fd03abf9788f",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 19,
+      "evidence": [
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "sustainable",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "sustainability",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[Projects] GreenBeat Nexus",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://on-the-move.org/work/projects/greenbeat-nexus",
+      "applyUrl": "https://on-the-move.org/work/projects/greenbeat-nexus",
+      "discoveryUrl": "https://on-the-move.org/work/projects/greenbeat-nexus",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Wed, 18 Nov 2026 11:42:32 +0000",
+      "discoveredDate": "2026-11-18",
       "status": "unverified-lead"
     },
     {
@@ -2131,6 +2161,111 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "5f478befd9acc035c5e1",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Research Engineer, Reinforcement Learning Systems",
+      "organization": "Mistral AI",
+      "location": "Palo Alto",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/74b8a9d7-f014-4a57-86aa-42be4896bf57",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/74b8a9d7-f014-4a57-86aa-42be4896bf57/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-11-17T17:49:40.784+00:00",
+      "discoveredDate": "2026-11-18",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "dc88e8329a0d74d50d97",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "research engineer",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Research Engineer, Reinforcement Learning Systems",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/dff09cb5-0c21-4bec-971b-297225d5fbcd",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/dff09cb5-0c21-4bec-971b-297225d5fbcd/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-11-17T12:22:47.782+00:00",
+      "discoveredDate": "2026-10-16",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "14c6a8eff8db66b71f11",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "applied ai",
+          "weight": 6,
+          "field": "title"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Applied AI Engineer, CyberSecurity, Defense",
+      "organization": "Mistral AI",
+      "location": "Paris",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/4589a3be-baca-49cd-806f-6159f56bea6a",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/4589a3be-baca-49cd-806f-6159f56bea6a/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-mistral",
+      "sourceLabel": "Mistral AI",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-11-17T01:44:20.800+00:00",
+      "discoveredDate": "2026-11-18",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "0f775892d2534c5ac976",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -2473,41 +2608,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-10-16T17:34:44.491+00:00",
       "discoveredDate": "2026-10-19",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "dc88e8329a0d74d50d97",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 12,
-      "evidence": [
-        {
-          "keyword": "research engineer",
-          "weight": 6,
-          "field": "title"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Research Engineer, Orchestral",
-      "organization": "Mistral AI",
-      "location": "Paris",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/dff09cb5-0c21-4bec-971b-297225d5fbcd",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/dff09cb5-0c21-4bec-971b-297225d5fbcd/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-10-16T08:27:26.899+00:00",
-      "discoveredDate": "2026-10-16",
       "status": "unverified-lead"
     },
     {
@@ -3971,6 +4071,41 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "2027197b3891a9900a2a",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 11,
+      "evidence": [
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        },
+        {
+          "keyword": "content",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Ligeti Center: Artists and Scientists in Residence 2027 ‘Where Sound Shapes Space’ (Germany)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://ligeti-zentrum.de/wp-content/uploads/2026/11/Call-for-Applications-English.pdf",
+      "applyUrl": "https://ligeti-zentrum.de/wp-content/uploads/2026/11/Call-for-Applications-English.pdf",
+      "discoveryUrl": "https://on-the-move.org/news/ligeti-center-artists-and-scientists-residence-2027-where-sound-shapes-space-germany",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Wed, 18 Nov 2026 10:23:11 +0000",
+      "discoveredDate": "2026-11-18",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "ece3a7fb22f1c507eced",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -4751,6 +4886,66 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "5230227865287d93661f",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 9,
+      "evidence": [
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Stockholm Fringe Festival 2027 Outdoor Performances (Sweden)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://stockholmfringe.com/fringe-x-parkteatern",
+      "applyUrl": "https://stockholmfringe.com/fringe-x-parkteatern",
+      "discoveryUrl": "https://on-the-move.org/news/stockholm-fringe-festival-2027-outdoor-performances-sweden",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Wed, 18 Nov 2026 10:40:07 +0000",
+      "discoveredDate": "2026-11-18",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "ebf89da1856bc65be94c",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 9,
+      "evidence": [
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "design",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Theatertreffen: 2027 International Forum for Theatre Professionals (Germany)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.berlinerfestspiele.de/en/theatertreffen/das-festival/internationales-forum/forum-open-call",
+      "applyUrl": "https://www.berlinerfestspiele.de/en/theatertreffen/das-festival/internationales-forum/forum-open-call",
+      "discoveryUrl": "https://on-the-move.org/news/theatertreffen-2027-international-forum-theatre-professionals-germany",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Fri, 13 Nov 2026 11:14:48 +0000",
+      "discoveredDate": "2026-11-18",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "09794de368256fc9c8fa",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -5109,186 +5304,6 @@
       "publishedAt": "2025-06-25T11:34:46.521+00:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
-    },
-    {
-      "candidateId": "78492850a04251c233c5",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 8,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Member of Technical Staff, Training Performance Engineer",
-      "organization": "Cohere",
-      "location": "London",
-      "url": "https://jobs.ashbyhq.com/cohere/d42f5fd4-1ffc-45b9-957c-f09862db6af6",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/d42f5fd4-1ffc-45b9-957c-f09862db6af6/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-cohere",
-      "sourceLabel": "Cohere",
-      "sourceType": "job-board-api",
-      "publishedAt": "2025-02-20T10:45:59.057+00:00",
-      "discoveredDate": "2026-10-21",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "b389d5837b603909beb1",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 7,
-      "evidence": [
-        {
-          "keyword": "foundation model",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Software Engineer, ML Ops",
-      "organization": "Cohere",
-      "location": "London",
-      "url": "https://jobs.ashbyhq.com/cohere/2a9a9b65-4f1b-4387-aa7f-d58c78e738c4",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/2a9a9b65-4f1b-4387-aa7f-d58c78e738c4/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-cohere",
-      "sourceLabel": "Cohere",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-11-06T15:53:30.169+00:00",
-      "discoveredDate": "2026-11-09",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "8bc29a9a88239fc6360b",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 7,
-      "evidence": [
-        {
-          "keyword": "foundation model",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Software Engineer, ML Workload Platform",
-      "organization": "Cohere",
-      "location": "Canada",
-      "url": "https://jobs.ashbyhq.com/cohere/8f60b8e2-55b9-4258-a4cc-813273161f97",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/8f60b8e2-55b9-4258-a4cc-813273161f97/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-cohere",
-      "sourceLabel": "Cohere",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-11-06T15:27:08.011+00:00",
-      "discoveredDate": "2026-11-09",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "d945002f1256951c257a",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 7,
-      "evidence": [
-        {
-          "keyword": "foundation model",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Software Engineer, GPU Infrastructure",
-      "organization": "Cohere",
-      "location": "Seattle",
-      "url": "https://jobs.ashbyhq.com/cohere/735f26a3-9456-49e2-8f84-23804534cfe4",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/735f26a3-9456-49e2-8f84-23804534cfe4/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-cohere",
-      "sourceLabel": "Cohere",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-11-06T14:28:37.909+00:00",
-      "discoveredDate": "2026-11-09",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "57bb1e4aec89d2627521",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 7,
-      "evidence": [
-        {
-          "keyword": "foundation model",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "Backend Engineer - Extensions",
-      "organization": "Fundamental",
-      "location": "Europe",
-      "url": "https://jobs.ashbyhq.com/fundamental/1a11359c-22ed-4323-9e40-d14b0e1e7c7b",
-      "applyUrl": "https://jobs.ashbyhq.com/fundamental/1a11359c-22ed-4323-9e40-d14b0e1e7c7b/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-fundamental",
-      "sourceLabel": "Fundamental",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-06-22T14:06:39.211+00:00",
-      "discoveredDate": "2026-11-13",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "34b84d990b98eef106d2",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 7,
-      "evidence": [
-        {
-          "keyword": "foundation model",
-          "weight": 5,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "DevOps Team Lead",
-      "organization": "Fundamental",
-      "location": "Europe",
-      "url": "https://jobs.ashbyhq.com/fundamental/c54d7bd8-3138-4e86-bdb8-6326dc84bd1a",
-      "applyUrl": "https://jobs.ashbyhq.com/fundamental/c54d7bd8-3138-4e86-bdb8-6326dc84bd1a/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-fundamental",
-      "sourceLabel": "Fundamental",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-02-04T06:34:52.119+00:00",
-      "discoveredDate": "2026-11-16",
-      "status": "unverified-lead"
     }
   ],
   "sources": [
@@ -5299,9 +5314,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 251,
-      "contentHash": "8bc5ce23e3d1ece9f8fe89ad233fd217fa94d67929c0b4244036075d88ce2ca2",
-      "lastChangedDate": "2026-11-16",
+      "itemCount": 253,
+      "contentHash": "6e21b57181728a71470e0f4e380a36c9266ebf539ba253ee4edcff3b6928b3ec",
+      "lastChangedDate": "2026-11-18",
       "error": null
     },
     {
@@ -5311,9 +5326,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cohere",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 122,
-      "contentHash": "d8afebb8c7ee4b8345ad5bd63d676818b7b0957d6f972f6df7d2421594dd2f7e",
-      "lastChangedDate": "2026-11-16",
+      "itemCount": 127,
+      "contentHash": "89802eb89ad8a556aed9970867b3345aa9bd657e4d4b24aa701a955b45734239",
+      "lastChangedDate": "2026-11-18",
       "error": null
     },
     {
@@ -5323,9 +5338,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/sona",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 16,
-      "contentHash": "98fe5619534b92af695fabeb5268c27696af77c0bd3d8758d2a27036a54fc112",
-      "lastChangedDate": "2026-11-16",
+      "itemCount": 14,
+      "contentHash": "2eb0141ad25b93cb32b758133d5a3d8f36a7a3623b88112c27f2036a7b93d372",
+      "lastChangedDate": "2026-11-18",
       "error": null
     },
     {
@@ -5335,9 +5350,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/fundamental",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 26,
-      "contentHash": "87c4ff2c8be1a1c595771b8f87c8cc5460bc9133d4223538c1c948bbf499c5f7",
-      "lastChangedDate": "2026-11-06",
+      "itemCount": 25,
+      "contentHash": "8499da74e4eab59a8014578860bd994f4b70735b88a68c38c76ed7f2df685735",
+      "lastChangedDate": "2026-11-18",
       "error": null
     },
     {
@@ -5359,9 +5374,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/planday-from-xero",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 8,
-      "contentHash": "dcf4607e7c6e55100bb39ce37517a77a967b4fac00ffb0676307628442a03274",
-      "lastChangedDate": "2026-11-16",
+      "itemCount": 7,
+      "contentHash": "40b6ce6abf73a034394bc8ba86543146b9cee87e6cd1e0b8e5a0d3b93feed611",
+      "lastChangedDate": "2026-11-18",
       "error": null
     },
     {
@@ -5371,9 +5386,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 661,
-      "contentHash": "be1f1b35739ec36b8573e7d147ff1e41a32ad579c2c13e2104a9902dcf0e2bab",
-      "lastChangedDate": "2026-11-16",
+      "itemCount": 658,
+      "contentHash": "30101aeba5aa862c862bd9314814719584980c06f46bae2d511a438d1efdc414",
+      "lastChangedDate": "2026-11-18",
       "error": null
     },
     {
@@ -5383,9 +5398,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/neuralink/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 76,
-      "contentHash": "8627fde14f8cac2d69cd6e1b7d698334e9e5c11a0db8a267b07aad7577a20a7d",
-      "lastChangedDate": "2026-11-16",
+      "itemCount": 74,
+      "contentHash": "b08e749598d1f7aeae8d88da78ff99cd73f4db931fc82435258ff414d74cc4ed",
+      "lastChangedDate": "2026-11-18",
       "error": null
     },
     {
@@ -5396,8 +5411,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 17,
-      "contentHash": "95e99e1274d8638a917b506a600294a3628b433c5cedcfef334048d207606f4b",
-      "lastChangedDate": "2026-11-13",
+      "contentHash": "90f19790fbec2af4f811085b2721f324e61f10be3242d3643a50229d4ca272e1",
+      "lastChangedDate": "2026-11-18",
       "error": null
     },
     {
@@ -5407,9 +5422,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/stitchfix/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 12,
-      "contentHash": "e45c252b84970aaed25e44e7bda1051b70e30b2ea5c7fccdc0bdfe2338640baf",
-      "lastChangedDate": "2026-11-16",
+      "itemCount": 13,
+      "contentHash": "de95e72a59218f8e30d1a031b349ced2a14e50ed4e4b79b03cbbfda7c1f7d5f9",
+      "lastChangedDate": "2026-11-18",
       "error": null
     },
     {
@@ -5417,12 +5432,12 @@
       "label": "On the Move",
       "kind": "rss",
       "url": "https://on-the-move.org/feed",
-      "status": "error",
-      "httpStatus": null,
-      "itemCount": 0,
-      "contentHash": "9e9a4c77ebe853b38d30de60f1c4a12c9682b4e49da2b3e6d045be72cb09e5a6",
-      "lastChangedDate": "2026-11-13",
-      "error": "HTTP 403"
+      "status": "ok",
+      "httpStatus": 200,
+      "itemCount": 10,
+      "contentHash": "313da950cf3292eeced7b9ab8db84bb1253d18dbe0a184075d1cb43bd13e4c07",
+      "lastChangedDate": "2026-11-18",
+      "error": null
     },
     {
       "id": "watch-loewe-craft",
@@ -5444,8 +5459,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "5c92bd8953b4372205d61a65024239f1b0528c0f304535771c96d04f8fbe68cc",
-      "lastChangedDate": "2026-11-16",
+      "contentHash": "b5e90212a39caadbfe5e777d23a1915da032ded070ef1a74c8bd802c1465620c",
+      "lastChangedDate": "2026-11-18",
       "error": null
     },
     {
@@ -5456,8 +5471,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "052bac007bfa4b5586799da0ff276528f870b9d9854bd4bea52ba4cf4510f610",
-      "lastChangedDate": "2026-11-16",
+      "contentHash": "26afb5aef60208e8984f4773d3bae5b7723a1ae52157880409247ca8f5a550ab",
+      "lastChangedDate": "2026-11-18",
       "error": null
     },
     {
