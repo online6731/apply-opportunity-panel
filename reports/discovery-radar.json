@@ -1,5 +1,5 @@
 {
-  "generatedDate": "2026-11-18",
+  "generatedDate": "2026-11-20",
   "schemaVersion": 1,
   "disclaimer": "Unverified discovery leads only; manual verification is required before application or promotion to the main dashboard.",
   "summary": {
@@ -481,41 +481,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "82497ced71befe342571",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 21,
-      "evidence": [
-        {
-          "keyword": "artist residency",
-          "weight": 8,
-          "field": "details"
-        },
-        {
-          "keyword": "textile",
-          "weight": 7,
-          "field": "title"
-        },
-        {
-          "keyword": "residency",
-          "weight": 6,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Interwoven Residencies in Early European Textiles for Visual Artists 2027 (France, Ireland, UK)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://fabrica.org.uk/open-calls/interwoven-artist-residencies-open-call-for-artists",
-      "applyUrl": "https://fabrica.org.uk/open-calls/interwoven-artist-residencies-open-call-for-artists",
-      "discoveryUrl": "https://on-the-move.org/news/interwoven-residencies-early-european-textiles-visual-artists-2027-france-ireland-uk",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Tue, 17 Nov 2026 12:33:57 +0000",
-      "discoveredDate": "2026-11-18",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "98dae9f0fd03abf9788f",
       "person": "arzoo",
       "personLabel": "آرزو",
@@ -993,46 +958,6 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-09-25T13:53:06.231+00:00",
       "discoveredDate": "2026-09-28",
-      "status": "unverified-lead"
-    },
-    {
-      "candidateId": "6705cb778014e9372909",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 18,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "applied ai",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        },
-        {
-          "keyword": "python",
-          "weight": 2,
-          "field": "details"
-        }
-      ],
-      "title": "AI Deployment Strategist, Industrial Engineering / Physics , APAC",
-      "organization": "Mistral AI",
-      "location": "Singapore",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/02872623-51af-4d91-8634-4d8abbc0694a",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/02872623-51af-4d91-8634-4d8abbc0694a/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-mistral",
-      "sourceLabel": "Mistral AI",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-09-23T06:31:07.157+00:00",
-      "discoveredDate": "2026-09-23",
       "status": "unverified-lead"
     },
     {
@@ -2158,6 +2083,36 @@
       "sourceType": "job-board-api",
       "publishedAt": "2024-12-03T14:25:43.571+00:00",
       "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "a03f7d37fc6f3f89c5e7",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 12,
+      "evidence": [
+        {
+          "keyword": "open call",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "residency",
+          "weight": 6,
+          "field": "title"
+        }
+      ],
+      "title": "[News] AIR InSILo: 2027 Residency ‘When the Hourless Seeps’ (Austria)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://in-silo.com/open_call_2027_stage_1",
+      "applyUrl": "https://in-silo.com/open_call_2027_stage_1",
+      "discoveryUrl": "https://on-the-move.org/news/air-insilo-2027-residency-when-hourless-seeps-austria",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Thu, 19 Nov 2026 04:00:00 +0000",
+      "discoveredDate": "2026-11-20",
       "status": "unverified-lead"
     },
     {
@@ -4286,6 +4241,36 @@
       "status": "unverified-lead"
     },
     {
+      "candidateId": "cb1e7a59f3ae10527c5d",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 10,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "healthcare",
+          "weight": 4,
+          "field": "details"
+        }
+      ],
+      "title": "Business Development Representative",
+      "organization": "Cohere",
+      "location": "United Kingdom",
+      "url": "https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2026-11-19T11:26:11.896+00:00",
+      "discoveredDate": "2026-08-30",
+      "status": "unverified-lead"
+    },
+    {
       "candidateId": "c295ffccf22bf4ab693d",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -4736,36 +4721,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "cb1e7a59f3ae10527c5d",
-      "person": "mohammad",
-      "personLabel": "محمد",
-      "score": 10,
-      "evidence": [
-        {
-          "keyword": "machine learning",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "healthcare",
-          "weight": 4,
-          "field": "details"
-        }
-      ],
-      "title": "Business Development Representative - French Speaking",
-      "organization": "Cohere",
-      "location": "United Kingdom",
-      "url": "https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89/application",
-      "discoveryUrl": null,
-      "sourceId": "ashby-cohere",
-      "sourceLabel": "Cohere",
-      "sourceType": "job-board-api",
-      "publishedAt": "2026-08-04T13:10:21.459+00:00",
-      "discoveredDate": "2026-08-30",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "bfad464bb72a4942b0ce",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -4916,36 +4871,6 @@
       "status": "unverified-lead"
     },
     {
-      "candidateId": "ebf89da1856bc65be94c",
-      "person": "arzoo",
-      "personLabel": "آرزو",
-      "score": 9,
-      "evidence": [
-        {
-          "keyword": "open call",
-          "weight": 6,
-          "field": "details"
-        },
-        {
-          "keyword": "design",
-          "weight": 3,
-          "field": "details"
-        }
-      ],
-      "title": "[News] Theatertreffen: 2027 International Forum for Theatre Professionals (Germany)",
-      "organization": "On the Move",
-      "location": "",
-      "url": "https://www.berlinerfestspiele.de/en/theatertreffen/das-festival/internationales-forum/forum-open-call",
-      "applyUrl": "https://www.berlinerfestspiele.de/en/theatertreffen/das-festival/internationales-forum/forum-open-call",
-      "discoveryUrl": "https://on-the-move.org/news/theatertreffen-2027-international-forum-theatre-professionals-germany",
-      "sourceId": "on-the-move-rss",
-      "sourceLabel": "On the Move",
-      "sourceType": "curated-rss",
-      "publishedAt": "Fri, 13 Nov 2026 11:14:48 +0000",
-      "discoveredDate": "2026-11-18",
-      "status": "unverified-lead"
-    },
-    {
       "candidateId": "09794de368256fc9c8fa",
       "person": "mohammad",
       "personLabel": "محمد",
@@ -4973,6 +4898,36 @@
       "sourceType": "job-board-api",
       "publishedAt": "2026-10-06T14:03:22.180+00:00",
       "discoveredDate": "2026-10-07",
+      "status": "unverified-lead"
+    },
+    {
+      "candidateId": "223967df883fed38b640",
+      "person": "arzoo",
+      "personLabel": "آرزو",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "fine art",
+          "weight": 5,
+          "field": "details"
+        },
+        {
+          "keyword": "creative",
+          "weight": 3,
+          "field": "details"
+        }
+      ],
+      "title": "[News] Royal Academy Schools: Postgraduate Programme 2027–2029 (UK)",
+      "organization": "On the Move",
+      "location": "",
+      "url": "https://www.royalacademy.org.uk/page/the-ra-schools",
+      "applyUrl": "https://www.royalacademy.org.uk/page/the-ra-schools",
+      "discoveryUrl": "https://on-the-move.org/news/royal-academy-schools-postgraduate-programme-2027-2029-uk",
+      "sourceId": "on-the-move-rss",
+      "sourceLabel": "On the Move",
+      "sourceType": "curated-rss",
+      "publishedAt": "Thu, 19 Nov 2026 04:15:00 +0000",
+      "discoveredDate": "2026-11-20",
       "status": "unverified-lead"
     },
     {
@@ -5304,6 +5259,36 @@
       "publishedAt": "2025-06-25T11:34:46.521+00:00",
       "discoveredDate": "2026-08-30",
       "status": "unverified-lead"
+    },
+    {
+      "candidateId": "78492850a04251c233c5",
+      "person": "mohammad",
+      "personLabel": "محمد",
+      "score": 8,
+      "evidence": [
+        {
+          "keyword": "machine learning",
+          "weight": 6,
+          "field": "details"
+        },
+        {
+          "keyword": "python",
+          "weight": 2,
+          "field": "details"
+        }
+      ],
+      "title": "Member of Technical Staff, Training Performance Engineer",
+      "organization": "Cohere",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/cohere/d42f5fd4-1ffc-45b9-957c-f09862db6af6",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/d42f5fd4-1ffc-45b9-957c-f09862db6af6/application",
+      "discoveryUrl": null,
+      "sourceId": "ashby-cohere",
+      "sourceLabel": "Cohere",
+      "sourceType": "job-board-api",
+      "publishedAt": "2025-02-20T10:45:59.057+00:00",
+      "discoveredDate": "2026-11-20",
+      "status": "unverified-lead"
     }
   ],
   "sources": [
@@ -5314,9 +5299,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/mistral.ai",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 253,
-      "contentHash": "6e21b57181728a71470e0f4e380a36c9266ebf539ba253ee4edcff3b6928b3ec",
-      "lastChangedDate": "2026-11-18",
+      "itemCount": 254,
+      "contentHash": "f42dcba02a8911efee3f54d05979bb01f57ed9e9fa0b03e7ef494a48375094b6",
+      "lastChangedDate": "2026-11-20",
       "error": null
     },
     {
@@ -5326,9 +5311,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/cohere",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 127,
-      "contentHash": "89802eb89ad8a556aed9970867b3345aa9bd657e4d4b24aa701a955b45734239",
-      "lastChangedDate": "2026-11-18",
+      "itemCount": 125,
+      "contentHash": "753c21e0768ab09c53a1c0b99fd5c9fb2767cb19b1643a76b58bd87c35c3564b",
+      "lastChangedDate": "2026-11-20",
       "error": null
     },
     {
@@ -5338,9 +5323,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/sona",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 14,
-      "contentHash": "2eb0141ad25b93cb32b758133d5a3d8f36a7a3623b88112c27f2036a7b93d372",
-      "lastChangedDate": "2026-11-18",
+      "itemCount": 15,
+      "contentHash": "a780d87cfd7df526d2950b1d4bd5e97ef9e660f70cb550cd17b832e1f9d9ea13",
+      "lastChangedDate": "2026-11-20",
       "error": null
     },
     {
@@ -5363,8 +5348,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 22,
-      "contentHash": "40b4a5dc943f32c92d2ade02961c4c9b68d59af6f5871e3a8674b93404e09d33",
-      "lastChangedDate": "2026-11-16",
+      "contentHash": "f4bc86977c54acbefb356f1fee57105be8d7a92af7951431a37932df548e75d5",
+      "lastChangedDate": "2026-11-20",
       "error": null
     },
     {
@@ -5374,9 +5359,9 @@
       "url": "https://api.ashbyhq.com/posting-api/job-board/planday-from-xero",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 7,
-      "contentHash": "40b6ce6abf73a034394bc8ba86543146b9cee87e6cd1e0b8e5a0d3b93feed611",
-      "lastChangedDate": "2026-11-18",
+      "itemCount": 9,
+      "contentHash": "1b61c0479ed6364724231571a5e8ea5001746dce4ac1ccbebd5a6c73a769cab3",
+      "lastChangedDate": "2026-11-20",
       "error": null
     },
     {
@@ -5386,9 +5371,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 658,
-      "contentHash": "30101aeba5aa862c862bd9314814719584980c06f46bae2d511a438d1efdc414",
-      "lastChangedDate": "2026-11-18",
+      "itemCount": 636,
+      "contentHash": "0e39e362f6d159fdd9abe888c51d8319fe618502b717ce690cfb02f509d66259",
+      "lastChangedDate": "2026-11-20",
       "error": null
     },
     {
@@ -5399,8 +5384,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 74,
-      "contentHash": "b08e749598d1f7aeae8d88da78ff99cd73f4db931fc82435258ff414d74cc4ed",
-      "lastChangedDate": "2026-11-18",
+      "contentHash": "b15495c7fdc779e6e7b3c109b3d8cf92f87ec38a233ad446950e631863b6833b",
+      "lastChangedDate": "2026-11-20",
       "error": null
     },
     {
@@ -5410,9 +5395,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/goatgroup/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 17,
-      "contentHash": "90f19790fbec2af4f811085b2721f324e61f10be3242d3643a50229d4ca272e1",
-      "lastChangedDate": "2026-11-18",
+      "itemCount": 11,
+      "contentHash": "d206923427109abb19cfa592c8dd946ec4a7523bf393a17e2ec7b5befee12148",
+      "lastChangedDate": "2026-11-20",
       "error": null
     },
     {
@@ -5422,9 +5407,9 @@
       "url": "https://boards-api.greenhouse.io/v1/boards/stitchfix/jobs",
       "status": "ok",
       "httpStatus": 200,
-      "itemCount": 13,
-      "contentHash": "de95e72a59218f8e30d1a031b349ced2a14e50ed4e4b79b03cbbfda7c1f7d5f9",
-      "lastChangedDate": "2026-11-18",
+      "itemCount": 12,
+      "contentHash": "493ee22338ca48b40605f7ed1d8fe05561b52c6759d200d3afafc6f53296a930",
+      "lastChangedDate": "2026-11-20",
       "error": null
     },
     {
@@ -5435,8 +5420,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 10,
-      "contentHash": "313da950cf3292eeced7b9ab8db84bb1253d18dbe0a184075d1cb43bd13e4c07",
-      "lastChangedDate": "2026-11-18",
+      "contentHash": "b0eb3c18c8feecd795bf456708faccba2b99882833e6e7e10593410d70248781",
+      "lastChangedDate": "2026-11-20",
       "error": null
     },
     {
@@ -5471,8 +5456,8 @@
       "status": "ok",
       "httpStatus": 200,
       "itemCount": 0,
-      "contentHash": "26afb5aef60208e8984f4773d3bae5b7723a1ae52157880409247ca8f5a550ab",
-      "lastChangedDate": "2026-11-18",
+      "contentHash": "6123e92eec0451a620a6340800b9da6194235da5ac0a8b4f7626c74e2a19a41b",
+      "lastChangedDate": "2026-11-20",
       "error": null
     },
     {
